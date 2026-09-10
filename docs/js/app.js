@@ -237,6 +237,14 @@ function renderLineChips() {
       : `color:${bg};border-color:${bg}`;
     return `<button class="chip line-chip${active ? ' active' : ''}" data-line="${l}" style="${style}">${escapeHtml(lineName(l))}</button>`;
   }).join('');
+  updateChipFades();
+}
+
+function updateChipFades() {
+  const el = $('#line-chips');
+  if (!el) return;
+  el.classList.toggle('can-scroll-left', el.scrollLeft > 1);
+  el.classList.toggle('can-scroll-right', el.scrollLeft < el.scrollWidth - el.clientWidth - 1);
 }
 
 function renderLineStations() {
@@ -372,6 +380,7 @@ function switchTab(tab) {
   document.querySelectorAll('.view').forEach((v) => v.classList.remove('active'));
   $(`#view-${tab}`).classList.add('active');
   if (tab === 'map') ensureMap();
+  if (tab === 'lines') setTimeout(updateChipFades, 50);
 }
 
 function bindEvents() {
@@ -407,6 +416,9 @@ function bindEvents() {
     renderLineChips();
     renderLineStations();
   });
+
+  $('#line-chips').addEventListener('scroll', updateChipFades, { passive: true });
+  window.addEventListener('resize', updateChipFades);
 
   // 卡片点击 → 车站详情（事件委托覆盖两个列表）
   document.querySelectorAll('.station-list').forEach((el) =>

@@ -273,7 +273,15 @@ body.modal-open { overflow: hidden; }
   max-width: 720px;
   margin: 0 auto;
   width: 100%;
+  /* 边缘渐隐暗示可横滑；JS 按滚动位置切换 can-scroll-left/right */
+  --fade-l: 0px;
+  --fade-r: 0px;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 var(--fade-l, 0px), #000 calc(100% - var(--fade-r, 0px)), transparent);
+  mask-image: linear-gradient(to right, transparent, #000 var(--fade-l, 0px), #000 calc(100% - var(--fade-r, 0px)), transparent);
 }
+
+.line-chips.can-scroll-left { --fade-l: 36px; }
+.line-chips.can-scroll-right { --fade-r: 36px; }
 
 .line-chips::-webkit-scrollbar { display: none; }
 
