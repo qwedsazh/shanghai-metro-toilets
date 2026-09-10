@@ -108,8 +108,10 @@ function toiletItemHtml(t) {
 function stationMatchesQuery(s) {
   if (!state.query) return true;
   const q = state.query.toLowerCase();
+  // 站名按子串匹配（"中路"可命中"华夏中路"）；
+  // pinyin 字段存的是首字母缩写，必须按前缀匹配，否则 "xz" 会误中 "hxzl"
   return s.name.includes(state.query) ||
-    (s.pinyin || '').toLowerCase().includes(q) ||
+    (s.pinyin || '').toLowerCase().startsWith(q) ||
     (s.name_en || '').toLowerCase().includes(q);
 }
 
