@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_VERSION = 'v6';
+const CACHE_VERSION = 'v7';
 const STATIC_CACHE = `smt-static-${CACHE_VERSION}`;
 const DATA_CACHE = `smt-data-${CACHE_VERSION}`;
 const KNOWN_CACHES = [STATIC_CACHE, DATA_CACHE];
@@ -36,7 +36,22 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
 
   const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return; // CDN / 瓦片等跨域请求直接走网络
+
+  // 官方站层图：cache-first，看过的图离线可用
+  if (url.origin === 'https://service.shmetro.com' && url.pathname.startsWith('/skin/zct/')) {
+    event.respondWith(
+      caches.match(req).then((cached) => cached || fetch(req).then((res) => {
+        if (res.ok) {
+          const clone = res.clone();
+          caches.open(DATA_CACHE).then((cache) => cache.put(req, clone));
+        }
+        return res;
+      }))
+    );
+    return;
+  }
+
+  if (url.origin !== self.location.origin) return; // 其余跨域请求直接走网络
 
   // 车站数据：network-first，失败回退缓存
   if (url.pathname.endsWith('data/stations.json')) {

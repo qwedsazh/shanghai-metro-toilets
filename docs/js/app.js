@@ -33,11 +33,8 @@ const state = {
   filter: 'all',      // all | outside | inside
   query: '',
   searchScope: 'auto', // auto | line | all（线路 tab 搜索范围，auto=线路内优先、无则全局）
-  tab: 'nearby',      // nearby | lines | map
-  line: null,         // 线路浏览当前选中的线路
-  map: null,
-  userMarker: null,
-  leafletPromise: null
+  tab: 'nearby',      // nearby | lines
+  line: null          // 线路浏览当前选中的线路
 };
 
 /* ---------------- 工具 ---------------- */
@@ -173,7 +170,6 @@ function requestLocation() {
       } catch (e) { /* 隐私模式等场景下忽略 */ }
       setLocatePanel('done');
       renderNearby();
-      updateUserMarker();
     },
     (err) => {
       const msg = err.code === 1
@@ -309,6 +305,7 @@ function openStationModal(s) {
   const navUrl = `https://uri.amap.com/marker?position=${gcjLng},${gcjLat}&name=${encodeURIComponent(s.name + '地铁站厕所')}`;
   const reportUrl = `${REPO_URL}/issues/new?template=toilet-report.yml`;
   const dist = stationDistance(s);
+  const multi = s.stat_ids.length > 1;
   $('#modal-content').innerHTML = `
     <div class="modal-head">
       <h2 id="modal-title">${escapeHtml(s.name)}</h2>
@@ -319,10 +316,25 @@ function openStationModal(s) {
       ${dist != null ? `<span class="distance">${formatDistance(dist)}</span>` : ''}
     </div>
     <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
+    <div class="station-pics" id="station-pics">${s.stat_ids.map((id) => {
+      const ln = String(parseInt(id.slice(0, 2), 10));
+      const caption = multi ? `${lineName(ln)}站层图` : '站层图';
+      return `<figure class="zct"><figcaption>${escapeHtml(caption)}</figcaption>
+        <img src="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}${escapeHtml(caption)}"></figure>`;
+    }).join('')}</div>
     <div class="modal-actions">
       <a class="btn" href="${navUrl}" target="_blank" rel="noopener">🧭 导航前往</a>
       <a class="btn btn-ghost" href="${reportUrl}" target="_blank" rel="noopener">数据有误？上报</a>
     </div>`;
+  // 官方站层图按需加载；无图/加载失败的图块移除，全挂则移除整个区块
+  const picsWrap = $('#station-pics');
+  picsWrap.querySelectorAll('img').forEach((img) => {
+    img.addEventListener('error', () => {
+      const fig = img.closest('figure');
+      if (fig) fig.remove();
+      if (!picsWrap.querySelector('figure')) picsWrap.remove();
+    });
+  });
   $('#modal-close').addEventListener('click', closeModal);
   $('#station-modal').hidden = false;
   document.body.classList.add('modal-open');
@@ -333,89 +345,6 @@ function closeModal() {
   document.body.classList.remove('modal-open');
 }
 
-/* ---------------- 地图（Leaflet 懒加载） ---------------- */
-
-function loadLeaflet() {
-  if (window.L) return Promise.resolve();
-  if (state.leafletPromise) return state.leafletPromise;
-  state.leafletPromise = new Promise((resolve, reject) => {
-    const css = document.createElement('link');
-    css.rel = 'stylesheet';
-    css.href = 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css';
-    document.head.appendChild(css);
-    const js = document.createElement('script');
-    js.src = 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js';
-    js.onload = () => resolve();
-    js.onerror = () => reject(new Error('leaflet load failed'));
-    document.head.appendChild(js);
-  });
-  return state.leafletPromise;
-}
-
-function stationHasInside(s) {
-  return s.toilets.some((t) => t.zone === 'inside' || t.zone === 'both');
-}
-
-function initMap() {
-  const map = L.map('map');
-  state.map = map;
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> 贡献者'
-  }).addTo(map);
-
-  const bounds = L.latLngBounds([]);
-  state.stations.forEach((s) => {
-    const [lng, lat] = s.coords.wgs84;
-    const ll = [lat, lng];
-    bounds.extend(ll);
-    const marker = L.circleMarker(ll, {
-      radius: 7,
-      color: '#ffffff',
-      weight: 1.5,
-      fillColor: stationHasInside(s) ? '#1e9e50' : '#ef6c00',
-      fillOpacity: 0.95
-    }).addTo(map);
-    marker.bindTooltip(s.name, { direction: 'top', offset: [0, -8] });
-    marker.on('click', () => openStationModal(s));
-  });
-  if (bounds.isValid()) map.fitBounds(bounds.pad(0.05));
-
-  updateUserMarker();
-}
-
-function updateUserMarker() {
-  if (!state.map || !state.pos) return;
-  const ll = [state.pos.lat, state.pos.lng];
-  if (state.userMarker) {
-    state.userMarker.setLatLng(ll);
-  } else {
-    state.userMarker = L.circleMarker(ll, {
-      radius: 8,
-      color: '#ffffff',
-      weight: 2,
-      fillColor: '#0a5bd6',
-      fillOpacity: 1
-    }).addTo(state.map);
-    state.userMarker.bindTooltip('我的位置', { direction: 'top', offset: [0, -10] });
-  }
-}
-
-async function ensureMap() {
-  if (state.map) {
-    setTimeout(() => state.map.invalidateSize(), 60);
-    return;
-  }
-  try {
-    await loadLeaflet();
-    initMap();
-    setTimeout(() => state.map.invalidateSize(), 60);
-  } catch (e) {
-    $('#map').innerHTML = '<p class="map-error">地图资源加载失败，请检查网络后切换标签页重试</p>';
-    state.leafletPromise = null;
-  }
-}
-
 /* ---------------- 标签页 / 事件绑定 ---------------- */
 
 function switchTab(tab) {
@@ -423,7 +352,6 @@ function switchTab(tab) {
   document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b.dataset.tab === tab));
   document.querySelectorAll('.view').forEach((v) => v.classList.remove('active'));
   $(`#view-${tab}`).classList.add('active');
-  if (tab === 'map') ensureMap();
   if (tab === 'lines') setTimeout(updateChipFades, 50);
 }
 

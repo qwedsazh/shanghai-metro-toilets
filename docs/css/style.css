@@ -110,11 +110,6 @@ body.modal-open { overflow: hidden; }
 
 .view { display: none; flex: 1; min-height: 0; overflow-y: auto; -webkit-overflow-scrolling: touch; }
 .view.active { display: block; }
-#view-map.active { display: flex; flex-direction: column; overflow: hidden; }
-
-.map-container { flex: 1; min-height: 0; width: 100%; background: #dde3e8; }
-
-.map-error { padding: 24px; text-align: center; color: var(--text-dim); }
 
 /* ---------- 定位面板 ---------- */
 .locate-panel { padding: 16px 12px 4px; }
@@ -448,6 +443,22 @@ body.modal-open { overflow: hidden; }
 }
 
 .modal-actions .btn { flex: 1; }
+
+/* 站层图 */
+.station-pics { margin-top: 12px; display: flex; flex-direction: column; gap: 12px; }
+
+.station-pics .zct { margin: 0; }
+
+.station-pics figcaption { font-size: 12px; color: var(--text-dim); margin-bottom: 4px; }
+
+.station-pics img {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #f8f9fb;
+  min-height: 80px;
+}
 
 /* 桌面端：抽屉居中 */
 @media (min-width: 768px) {
