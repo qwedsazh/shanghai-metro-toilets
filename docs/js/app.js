@@ -311,8 +311,6 @@ function renderLineStations() {
 /* ---------------- 车站详情 ---------------- */
 
 function openStationModal(s) {
-  const [gcjLng, gcjLat] = s.coords.gcj02;
-  const navUrl = `https://uri.amap.com/marker?position=${gcjLng},${gcjLat}&name=${encodeURIComponent(s.name + '地铁站厕所')}`;
   const reportUrl = `${REPO_URL}/issues/new?template=toilet-report.yml`;
   const dist = stationDistance(s);
   const multi = s.stat_ids.length > 1;
@@ -327,14 +325,13 @@ function openStationModal(s) {
       ${dist != null ? `<span class="distance">${formatDistance(dist)}</span>` : ''}
     </div>
     <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
-    <div class="station-pics" id="station-pics">${s.stat_ids.map((id) => {
+    <div class="station-pics" id="station-pics"><p class="pics-hint">点击图片可放大，支持双指缩放</p>${s.stat_ids.map((id) => {
       const ln = String(parseInt(id.slice(0, 2), 10));
       const caption = multi ? `${lineName(ln)}站层图` : '站层图';
       return `<figure class="zct"><figcaption>${escapeHtml(caption)}</figcaption>
         <img src="pics/zct/${id}.webp" data-fallback="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}${escapeHtml(caption)}"></figure>`;
     }).join('')}</div>
     <div class="modal-actions">
-      <a class="btn" href="${navUrl}" target="_blank" rel="noopener">🧭 导航前往</a>
       <a class="btn btn-ghost" href="${reportUrl}" target="_blank" rel="noopener">数据有误？上报</a>
     </div>`;
   // 站层图：本地 WebP 优先 → 官方 jpg 兜底 → 再失败移除图块；全挂则移除整个区块
@@ -359,6 +356,161 @@ function openStationModal(s) {
 function closeModal() {
   $('#station-modal').hidden = true;
   document.body.classList.remove('modal-open');
+}
+
+/* ---------------- 站层图放大查看（lightbox） ---------------- */
+/* 变换模型：transform-origin 0 0，屏幕坐标 = 布局原点 L + t + s·图像坐标。
+   缩放时保持锚点（手指中点/光标）下的图像内容不动；平移限制图边缘不出视口。 */
+
+const lbState = { scale: 1, tx: 0, ty: 0, pointers: new Map(), pinch: null, lastTap: 0, moved: false };
+
+function lbOrigin() {
+  const img = $('#lb-img');
+  return { x: img.offsetLeft, y: img.offsetTop };
+}
+
+function lbClamp() {
+  const img = $('#lb-img');
+  const L = lbOrigin();
+  const w = img.offsetWidth * lbState.scale;
+  const h = img.offsetHeight * lbState.scale;
+  const vw = window.innerWidth;
+  const vh = window.innerHeight;
+  lbState.tx = w <= vw ? (vw - w) / 2 - L.x : Math.min(-L.x, Math.max(vw - w - L.x, lbState.tx));
+  lbState.ty = h <= vh ? (vh - h) / 2 - L.y : Math.min(-L.y, Math.max(vh - h - L.y, lbState.ty));
+}
+
+function lbApply() {
+  lbClamp();
+  $('#lb-img').style.transform = `translate(${lbState.tx}px, ${lbState.ty}px) scale(${lbState.scale})`;
+}
+
+function lbZoomAt(factor, cx, cy) {
+  const s2 = Math.min(6, Math.max(1, lbState.scale * factor));
+  if (s2 === lbState.scale) return;
+  const L = lbOrigin();
+  const k = s2 / lbState.scale;
+  lbState.tx = cx - L.x - k * (cx - L.x - lbState.tx);
+  lbState.ty = cy - L.y - k * (cy - L.y - lbState.ty);
+  lbState.scale = s2;
+  lbApply();
+}
+
+function lbReset() {
+  lbState.scale = 1;
+  lbState.tx = 0;
+  lbState.ty = 0;
+  lbApply();
+}
+
+function openLightbox(src, alt) {
+  const img = $('#lb-img');
+  img.onload = () => lbReset();
+  img.src = src;
+  img.alt = alt || '站层图';
+  img.style.transform = '';
+  lbState.scale = 1;
+  lbState.tx = 0;
+  lbState.ty = 0;
+  $('#img-lightbox').hidden = false;
+  document.body.classList.add('modal-open');
+}
+
+function closeLightbox() {
+  $('#img-lightbox').hidden = true;
+  lbState.pointers.clear();
+  lbState.pinch = null;
+  // 详情弹层还开着时保持背景滚动锁定
+  if ($('#station-modal').hidden) document.body.classList.remove('modal-open');
+}
+
+function lbPointerDown(e) {
+  e.preventDefault();
+  $('#lb-img').setPointerCapture(e.pointerId);
+  lbState.pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+  lbState.moved = false;
+  if (lbState.pointers.size === 2) {
+    const [a, b] = [...lbState.pointers.values()];
+    lbState.pinch = {
+      d: Math.hypot(a.x - b.x, a.y - b.y) || 1,
+      mx: (a.x + b.x) / 2,
+      my: (a.y + b.y) / 2,
+      s: lbState.scale,
+      tx: lbState.tx,
+      ty: lbState.ty
+    };
+  }
+}
+
+function lbPointerMove(e) {
+  const p = lbState.pointers.get(e.pointerId);
+  if (!p) return;
+  const dx = e.clientX - p.x;
+  const dy = e.clientY - p.y;
+  if (Math.abs(dx) + Math.abs(dy) > 2) lbState.moved = true;
+  p.x = e.clientX;
+  p.y = e.clientY;
+
+  if (lbState.pointers.size === 2 && lbState.pinch) {
+    const [a, b] = [...lbState.pointers.values()];
+    const d = Math.hypot(a.x - b.x, a.y - b.y);
+    const mx = (a.x + b.x) / 2;
+    const my = (a.y + b.y) / 2;
+    const base = lbState.pinch;
+    const s2 = Math.min(6, Math.max(1, base.s * (d / base.d)));
+    const L = lbOrigin();
+    const k = s2 / base.s;
+    // 当前双指中点为锚：锚点处的图像内容跟随手指移动
+    lbState.tx = mx - L.x - k * (base.mx - L.x - base.tx);
+    lbState.ty = my - L.y - k * (base.my - L.y - base.ty);
+    lbState.scale = s2;
+    lbApply();
+  } else if (lbState.pointers.size === 1 && lbState.scale > 1) {
+    lbState.tx += dx;
+    lbState.ty += dy;
+    lbApply();
+  }
+}
+
+function lbPointerUp(e) {
+  lbState.pointers.delete(e.pointerId);
+  if (lbState.pointers.size < 2) lbState.pinch = null;
+  // 双击：1 倍 ↔ 2.5 倍（锚定点击位置）
+  if (e.type === 'pointerup' && !lbState.moved && lbState.pointers.size === 0) {
+    const now = Date.now();
+    if (now - lbState.lastTap < 300) {
+      lbState.lastTap = 0;
+      if (lbState.scale > 1) lbReset();
+      else lbZoomAt(2.5, e.clientX, e.clientY);
+    } else {
+      lbState.lastTap = now;
+    }
+  }
+}
+
+function bindLightbox() {
+  const img = $('#lb-img');
+  img.addEventListener('pointerdown', lbPointerDown);
+  img.addEventListener('pointermove', lbPointerMove);
+  img.addEventListener('pointerup', lbPointerUp);
+  img.addEventListener('pointercancel', lbPointerUp);
+  img.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    lbZoomAt(e.deltaY < 0 ? 1.25 : 0.8, e.clientX, e.clientY);
+  }, { passive: false });
+
+  $('#lb-zoom-in').addEventListener('click', () => lbZoomAt(1.5, window.innerWidth / 2, window.innerHeight / 2));
+  $('#lb-zoom-out').addEventListener('click', () => lbZoomAt(1 / 1.5, window.innerWidth / 2, window.innerHeight / 2));
+  $('#lb-close').addEventListener('click', closeLightbox);
+  $('#img-lightbox').addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) closeLightbox();
+  });
+
+  // 详情弹层里的站层图点击放大（事件委托，覆盖动态渲染的图）
+  document.addEventListener('click', (e) => {
+    const t = e.target.closest('.station-pics img');
+    if (t) openLightbox(t.currentSrc || t.src, t.alt);
+  });
 }
 
 /* ---------------- 标签页 / 事件绑定 ---------------- */
@@ -425,8 +577,12 @@ function bindEvents() {
 
   $('#modal-backdrop').addEventListener('click', closeModal);
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !$('#station-modal').hidden) closeModal();
+    if (e.key !== 'Escape') return;
+    if (!$('#img-lightbox').hidden) { closeLightbox(); return; }
+    if (!$('#station-modal').hidden) closeModal();
   });
+
+  bindLightbox();
 }
 
 /* ---------------- 初始化 ---------------- */
