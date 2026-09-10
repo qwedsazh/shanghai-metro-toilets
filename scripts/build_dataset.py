@@ -199,7 +199,7 @@ def main() -> None:
     doc = OrderedDict([
         ("meta", OrderedDict([
             ("name", "上海地铁车站卫生间数据集"),
-            ("source", "上海地铁官网 service.shmetro.com / m.shmetro.com 车站信息接口"),
+            ("source", "抓取自上海地铁官网移动端页面（m.shmetro.com / service.shmetro.com），非官方开放接口"),
             ("fetched_at", str(date.today())),
             ("station_count", len(stations)),
             ("toilet_count", sum(s["toilet_count"] for s in stations)),

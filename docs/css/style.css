@@ -283,6 +283,14 @@ body.modal-open { overflow: hidden; }
 .line-chips.can-scroll-left { --fade-l: 36px; }
 .line-chips.can-scroll-right { --fade-r: 36px; }
 
+/* 桌面端（鼠标）：显示细滚动条；触屏保持隐藏 */
+@media (hover: hover) and (pointer: fine) {
+  .line-chips { scrollbar-width: thin; scrollbar-color: #c4c9d1 transparent; padding-bottom: 8px; }
+  .line-chips::-webkit-scrollbar { display: block; height: 6px; }
+  .line-chips::-webkit-scrollbar-thumb { background: #c4c9d1; border-radius: 3px; }
+  .line-chips::-webkit-scrollbar-track { background: transparent; }
+}
+
 .line-chips::-webkit-scrollbar { display: none; }
 
 .line-chip {

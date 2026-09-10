@@ -420,6 +420,13 @@ function bindEvents() {
   $('#line-chips').addEventListener('scroll', updateChipFades, { passive: true });
   window.addEventListener('resize', updateChipFades);
 
+  // 桌面端：纵向滚轮转横向滚动
+  $('#line-chips').addEventListener('wheel', (e) => {
+    if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+    e.preventDefault();
+    e.currentTarget.scrollLeft += e.deltaY;
+  }, { passive: false });
+
   // 卡片点击 → 车站详情（事件委托覆盖两个列表）
   document.querySelectorAll('.station-list').forEach((el) =>
     el.addEventListener('click', (e) => {
