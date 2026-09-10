@@ -1,6 +1,6 @@
 'use strict';
 
-const REPO_URL = 'https://github.com/PLACEHOLDER/shanghai-metro-toilets'; // TODO: 替换为实际仓库地址
+const REPO_URL = 'https://github.com/qwedsazh/shanghai-metro-toilets';
 
 const LINE_COLORS = {
   '1': '#e3002b', '2': '#8cc220', '3': '#fcd600', '4': '#461d84',
