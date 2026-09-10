@@ -547,29 +547,36 @@ body.modal-open { overflow: hidden; }
 .lb-toolbar button {
   width: 42px;
   height: 42px;
-  border: none;
+  border: 1px solid rgba(255, 255, 255, .3);
   border-radius: 50%;
-  background: rgba(255, 255, 255, .16);
+  background: rgba(15, 18, 24, .62);
   -webkit-backdrop-filter: blur(6px);
   backdrop-filter: blur(6px);
   color: #fff;
   font-size: 20px;
+  font-weight: 700;
   line-height: 1;
   cursor: pointer;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .35);
   transition: background .15s ease;
 }
 
-.lb-toolbar button:active { background: rgba(255, 255, 255, .34); }
+.lb-toolbar button:active { background: rgba(15, 18, 24, .85); }
 
 .lb-tip {
   position: absolute;
   bottom: calc(14px + env(safe-area-inset-bottom, 0px));
-  left: 0;
-  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: 90vw;
   text-align: center;
-  color: rgba(255, 255, 255, .55);
+  color: rgba(255, 255, 255, .85);
   font-size: 12px;
   pointer-events: none;
+  background: rgba(15, 18, 24, .55);
+  border-radius: 999px;
+  padding: 5px 14px;
 }
 
 /* ---------- 详情弹层区块标题 ---------- */
