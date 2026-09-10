@@ -111,6 +111,7 @@ def main() -> None:
     wgs_offset_bad = []
     for name, recs in by_name.items():
         lines, stat_ids, toilets = [], [], OrderedDict()
+        elevators = OrderedDict()
         bd_pts = []
         name_en, pinyin = "", ""
         for r in recs:
@@ -166,6 +167,54 @@ def main() -> None:
                     "plan_close_date": t.get("plan_close_date") or None,
                     "plan_open_date": t.get("plan_open_date") or None,
                 }
+            # 无障碍电梯/斜挂梯：原始数据两种结构——扁平 {"elevator": []}
+            # 或按线路嵌套 {"line": [{"lineno": N, "elevator": [...]}]}
+            try:
+                eobj = json.loads(r.get("elevator") or "{}")
+            except Exception:
+                eobj = {}
+            eitems = []
+            if isinstance(eobj, dict):
+                if isinstance(eobj.get("elevator"), list):
+                    eitems = [(None, e) for e in eobj["elevator"]]
+                elif isinstance(eobj.get("line"), list):
+                    for ln in eobj["line"]:
+                        for e in (ln.get("elevator") or []):
+                            eitems.append((ln.get("lineno"), e))
+            for lineno, e in eitems:
+                if not isinstance(e, dict):
+                    continue
+                desc = re.sub(r"\s+", " ", (e.get("description") or "").strip())
+                if not desc:
+                    continue
+                lineno = str(lineno if lineno is not None else e.get("lineno") or "").strip()
+                key = (lineno, desc)
+                if key in elevators:
+                    continue
+                # "2#无障碍电梯 地面-站厅——南1出口，南广场天桥（自助）"
+                m = re.match(r"^\d+#(\S+)\s+(.*)$", desc)
+                etype, rest = (m.group(1), m.group(2)) if m else ("", desc)
+                parts = re.split(r"——|--", rest, maxsplit=1)
+                route = parts[0].strip()
+                loc = parts[1].strip() if len(parts) > 1 else ""
+                # 自助属性已有独立徽章，位置文本里去掉重复标注
+                loc = re.sub(r"[（(]\s*非?自助\s*[)）]\s*$", "", loc).strip()
+                elevators[key] = {
+                    "line": lineno,
+                    "type": etype,
+                    "route": route,
+                    "location": loc,
+                    "self_service": True if ("自助" in desc and "非自助" not in desc)
+                                    else (False if "非自助" in desc else None),
+                    "ground": True if "地面" in route else None,
+                    "status": e.get("status"),
+                    "plan_close_date": e.get("plan_close_date") or None,
+                    "plan_open_date": e.get("plan_open_date") or None,
+                }
+        for e in elevators.values():
+            for k in ("self_service", "ground", "status", "plan_close_date", "plan_open_date"):
+                if e[k] is None:
+                    del e[k]
         for t in toilets.values():
             for k in ("zone_conflict", "status", "plan_close_date", "plan_open_date"):
                 if t[k] is None:
@@ -181,6 +230,11 @@ def main() -> None:
         off_m = math.hypot((glng - wlng) * 100000, (glat - wlat) * 89000)
         if not (100 < off_m < 1500):
             wgs_offset_bad.append((name, round(off_m)))
+        # 地面出入口的电梯（"哪个口能进"）排在前面
+        elev_list = sorted(
+            elevators.values(),
+            key=lambda e: (not e.get("ground"), str(e.get("line") or "").zfill(2), e.get("type") or ""),
+        )
         stations.append({
             "name": name,
             "name_en": name_en,
@@ -194,6 +248,7 @@ def main() -> None:
             },
             "toilet_count": len(toilets),
             "toilets": list(toilets.values()),
+            "elevators": elev_list,
         })
 
     doc = OrderedDict([
@@ -203,6 +258,7 @@ def main() -> None:
             ("fetched_at", str(date.today())),
             ("station_count", len(stations)),
             ("toilet_count", sum(s["toilet_count"] for s in stations)),
+            ("elevator_count", sum(len(s["elevators"]) for s in stations)),
             ("line_alias", {"41": "浦江线", "51": "市域机场线"}),
             ("zone_meaning", {
                 "inside": "费区内（需进站）", "outside": "费区外（无需进站）",

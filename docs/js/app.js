@@ -115,6 +115,21 @@ function toiletItemHtml(t) {
   </li>`;
 }
 
+function elevatorItemHtml(e) {
+  const lineBg = LINE_COLORS[e.line] || '#999999';
+  const lineFg = LIGHT_BG_LINES.has(e.line) ? '#222222' : '#ffffff';
+  const loc = [e.route, e.location].filter(Boolean).join(' — ');
+  return `<li class="toilet-item">
+    <span class="elev-type">${escapeHtml(e.type || '无障碍设施')}</span>
+    ${e.line ? `<span class="toilet-line" style="background:${lineBg};color:${lineFg}">${escapeHtml(lineName(e.line))}</span>` : ''}
+    <span class="toilet-loc">${escapeHtml(loc)}</span>
+    ${e.ground ? '<span class="elev-ground">连地面出入口</span>' : ''}
+    ${e.self_service === true ? '<span class="elev-self">自助</span>' : ''}
+    ${e.self_service === false ? '<span class="elev-nonself">需工作人员协助</span>' : ''}
+    ${isRenovating(e) ? '<span class="renovating">暂停使用</span>' : ''}
+  </li>`;
+}
+
 function stationMatchesQuery(s) {
   if (!state.query) return true;
   const q = state.query.toLowerCase();
@@ -325,6 +340,9 @@ function openStationModal(s) {
       ${dist != null ? `<span class="distance">${formatDistance(dist)}</span>` : ''}
     </div>
     <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
+    ${s.elevators && s.elevators.length ? `
+    <h3 class="elev-title">无障碍设施<span class="elev-sub">（绿标=连地面出入口）</span></h3>
+    <ul class="toilet-list">${s.elevators.map(elevatorItemHtml).join('')}</ul>` : ''}
     <div class="station-pics" id="station-pics"><p class="pics-hint">点击图片可放大，支持双指缩放</p>${s.stat_ids.map((id) => {
       const ln = String(parseInt(id.slice(0, 2), 10));
       const caption = multi ? `${lineName(ln)}站层图` : '站层图';

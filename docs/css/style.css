@@ -573,3 +573,51 @@ body.modal-open { overflow: hidden; }
   font-size: 12px;
   pointer-events: none;
 }
+
+/* ---------- 无障碍设施 ---------- */
+.elev-title { font-size: 14px; font-weight: 700; color: var(--text-2); margin-top: 14px; }
+.elev-sub { font-size: 11px; font-weight: 400; }
+
+.elev-type {
+  flex: none;
+  padding: 1px 8px;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 999px;
+  line-height: 18px;
+  background: var(--blue-bg);
+  color: var(--blue);
+}
+
+.elev-self {
+  flex: none;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: 999px;
+  line-height: 18px;
+  background: var(--green-bg);
+  color: var(--green);
+}
+
+.elev-ground {
+  flex: none;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 999px;
+  line-height: 18px;
+  background: var(--green);
+  color: #fff;
+}
+
+.elev-nonself {
+  flex: none;
+  padding: 1px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: 999px;
+  line-height: 18px;
+  background: var(--gray-bg);
+  color: var(--gray);
+}
