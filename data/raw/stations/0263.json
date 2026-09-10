@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "263",
+  "name_cn": "浦东1号2号航站楼",
+  "name_en": "Pudong Airport Terminal 1&2",
+  "pinyin": "pdgjjc",
+  "station_code": "2-PDGJJC",
+  "lines": "2",
+  "longitude": 121.812958,
+  "latitude": 31.155679,
+  "gao_lng": 121.806555561671,
+  "gao_lat": 31.1493366780763,
+  "x": 0.8372,
+  "y": 0.7415,
+  "station_pic": "浦东国际机场.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 机场厕所\"}]}",
+  "toilet_position_en": "Outside the south exit of 50 meters",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅北端，往蟠祥路·国家会计学院方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Middle of Station Hall，Rear End of Platform bound for Pudong International Airport（Self-service）\r\n\r\n<br/>\r\nAccessible Lift 2  Station Hall-Platform——Middle of Station Hall，Rear End of Platform bound for East Xujing（Self-service）",
+  "terminal": 1
+ }
+]

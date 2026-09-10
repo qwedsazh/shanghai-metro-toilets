@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "242",
+  "name_cn": "江苏路",
+  "name_en": "Jiangsu Road",
+  "pinyin": "jsl",
+  "station_code": "402-JSL",
+  "lines": "2,11",
+  "longitude": 121.437716,
+  "latitude": 31.226546,
+  "gao_lng": 121.431282883308,
+  "gao_lat": 31.2202151799113,
+  "x": 0.4181,
+  "y": 0.3949,
+  "station_pic": "江苏路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 B1层站厅近5、8号口\"}]}",
+  "toilet_position_en": "Line 2 Inside Pay Area, head of train bound for Pudong International Airport at the platform\r\n<br />Line 11 Outside Pay Area storey (B1) of station hall, Mid between exit 5 and exit 8",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"愚园路 江苏路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"愚园路 镇宁路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"愚园路 镇宁路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"愚园路 江苏路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江苏路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江苏路 愚园路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江苏路 愚园路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江苏路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yuyuan Rd,Exit 2:Yuyuan Rd,Exit 3:Yuyuan Rd,Exit 4:Yuyuan Rd,Exit 5:Jiangsu Rd West Wuding Rd,Exit 6:Jiangsu Rd,Exit 7:Jiangsu Rd Yuyuan Rd,Exit 8:Jiangsu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅西端，往蟠祥路·国家会计学院方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-B1层站厅——1号口（自助）B1层站厅-B2层站厅——1号口（非自助）\"}]},{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅北端，往嘉定北/花桥方向车头（自助）\",\"status\":1,\"plan_close_date\":\"2024-07-16\",\"plan_open_date\":\"2024-07-30\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-B1站厅-B2站厅——江苏路，站厅南端（自助）\",\"status\":1,\"plan_close_date\":\"2024-07-16\",\"plan_open_date\":\"2024-07-30\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——West of Station Hall（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall——Exit 1（Non Self-service）",
+  "terminal": 0
+ }
+]

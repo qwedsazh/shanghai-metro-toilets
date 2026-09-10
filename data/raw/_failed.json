@@ -1,0 +1,17 @@
+[
+ {
+  "stat_id": "0429",
+  "name": "内圈(宜山路)",
+  "error": "fetch failed after 3 tries: https://m.shmetro.com/interface/metromap/metromap.aspx?func=stationInfo&stat_id=0429: HTTP Error 404: Not Found"
+ },
+ {
+  "stat_id": "0430",
+  "name": "外圈(宜山路)",
+  "error": "fetch failed after 3 tries: https://m.shmetro.com/interface/metromap/metromap.aspx?func=stationInfo&stat_id=0430: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "stat_id": "1120",
+  "name": "上海赛车场",
+  "error": "fetch failed after 3 tries: https://m.shmetro.com/interface/metromap/metromap.aspx?func=stationInfo&stat_id=1120: Expecting value: line 1 column 1 (char 0)"
+ }
+]

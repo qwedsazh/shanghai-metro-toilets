@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1451",
+  "name_cn": "桂桥路",
+  "name_en": "Guiqiao Road",
+  "pinyin": "gql",
+  "station_code": "2000-GQL",
+  "lines": "14",
+  "longitude": 121.641646,
+  "latitude": 31.256289,
+  "gao_lng": 121.63507078606,
+  "gao_lat": 31.2505426241325,
+  "x": 0.8337,
+  "y": 0.431,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"}]}",
+  "toilet_position_en": "Line 14:Inside pay area train head in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金穗路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金穗路 桂桥路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":\"4A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金穗路\",\"id_alias\":\"4A号出入口\",\"memo\":\"R*\"},{\"id\":\"4B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金穗路\",\"id_alias\":\"4B号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Jinshui Road,\r\nExit 3: Jinshui Road  Guiqiao Road,\r\nExit 4A: Jinshui Road,\r\nExit 4B: Jinshui Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近3号口，近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "1#accessible elevator: outside pay area, ground-station hall -- near Exit 3: near exit 3 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- mid station hall, mid platform (self-service)",
+  "terminal": 0
+ }
+]

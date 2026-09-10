@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1051",
+  "name_cn": "上海图书馆",
+  "name_en": "Shanghai Library",
+  "pinyin": "shtsg",
+  "station_code": "200-SHTSG",
+  "lines": "10",
+  "longitude": 121.450771,
+  "latitude": 31.214439,
+  "gao_lng": 121.444354010046,
+  "gao_lat": 31.208081610663,
+  "x": 0.4335,
+  "y": 0.4427,
+  "station_pic": "上海图书馆.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往基隆路方向车头\"},{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 1号口处\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淮海中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淮海中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淮海中路 湖南路 高安路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Middle Huaihai Rd,Exit 2:Middle Huaihai Rd,Exit 3:Middle Huaihai Rd  Hunan Rd  Gao'an Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——淮海中路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:Exit 1 to station hall,Accessible Lift 2:center of paid area to platform",
+  "terminal": 0
+ }
+]

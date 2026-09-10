@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "4105",
+  "name_cn": "东城一路",
+  "name_en": "Dongchengyi Road",
+  "pinyin": "dcyl",
+  "station_code": "10000000000-DCYL",
+  "lines": "41",
+  "longitude": 121.538753,
+  "latitude": 31.035828,
+  "gao_lng": 121.532273493652,
+  "gao_lat": 31.0297875245348,
+  "x": 0.545,
+  "y": 0.7959,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":41,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\"}]}",
+  "toilet_position_en": "off pay area near exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东城一路 三鲁公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东城一路 三鲁公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dongchengyi Road Sanlu Highway,Exit 2:Dongchengyi Road Sanlu Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":41,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往沈杜公路方向车尾，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往汇臻路方向车头，近2号口（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——rear of train bound for Shendu Highway,near exit 1（self-service）\r\n<br />2#Elevator-Ground to Station Hall——head of train bound for Huizhen Road,near exit 2（self-service）",
+  "terminal": 0
+ }
+]

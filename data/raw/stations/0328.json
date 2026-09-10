@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "328",
+  "name_cn": "大柏树",
+  "name_en": "Dabaishu",
+  "pinyin": "dbs",
+  "station_code": "4-DBS",
+  "lines": "3",
+  "longitude": 121.489614,
+  "latitude": 31.295096,
+  "gao_lng": 121.483073839015,
+  "gao_lat": 31.2893320246932,
+  "x": 0.5522,
+  "y": 0.2478,
+  "station_pic": "大柏树.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 近1号口\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"新市路 汶水东路 甘河路 广纪路 新市南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山北一路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"广纪路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Xingshi RD Wenshui Rd Ganhe Rd Guangji Rd Xingshi Rd.(S.),Exit 2:Zhongshan No.1 Rd.(S.),Exit 3:Guangji Rd.",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——汶水东路，1号口，往江杨北路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——汶水东路，1号口，往上海南站方向车尾（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——East Wenshui Road，Exit 1，Front End of Platform bound for North Jiangyang Road（Non Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——East Wenshui Road，Exit 1，Rear End of Platform bound for Shanghai South Railway Station（Non Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "646",
+  "name_cn": "航津路",
+  "name_en": "Hangjin Road",
+  "pinyin": "hjl",
+  "station_code": "20-HJL",
+  "lines": "6",
+  "longitude": 121.600539,
+  "latitude": 31.341305,
+  "gao_lng": 121.594005355674,
+  "gao_lat": 31.335377985822,
+  "x": 0.7516,
+  "y": 0.2022,
+  "station_pic": "航津路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站外2号口处下楼\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"航津路 秋霞路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秋霞路 冬融路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Qiuxia Rd Hangjin Rd,Exit 2:Qiuxia Rd Dongrong Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——杨高北路，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——杨高北路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——2号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——1号口，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--North Yanggao Road,Exit 2（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall--North Yanggao Road,Exit 1（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Exit 2，Middle of Platform（Self-service）<br />\r\nAccessible Lift 4  Station Hall-Platform--Exit 1，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

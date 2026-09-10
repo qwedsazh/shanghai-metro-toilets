@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "318",
+  "name_cn": "中山公园",
+  "name_en": "Zhongshan Park",
+  "pinyin": "zsgy",
+  "station_code": "E-ZSGY",
+  "lines": "2,3,4",
+  "longitude": 121.422977,
+  "latitude": 31.224163,
+  "gao_lng": 121.416492388863,
+  "gao_lat": 31.21803777061,
+  "x": 0.3933,
+  "y": 0.3949,
+  "station_pic": "中山公园.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 北面站厅，近龙之梦通道口\",\"status\":1,\"plan_close_date\":\"2025-10-20\",\"plan_open_date\":\"2025-11-01\"},{\"lineno\":4,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 北面站厅，近龙之梦通道口\",\"status\":1,\"plan_close_date\":\"2025-10-20\",\"plan_open_date\":\"2025-11-01\"}]}",
+  "toilet_position_en": "Line 2 Inside Pay Area head of train bound for Pudong International Airport at the platform\r\n<br />Line 3 Outside Pay Area north hall\r\n<br />Line 4 Outside Pay Area north hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 定西路 愚园路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 定西路 愚园路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 中山西路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 中山西路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路 长宁路\",\"id_alias\":\"5号出入口（2）\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 中山公园\",\"id_alias\":\"6号出入口（3）\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 中山公园 长宁区人民政府\",\"id_alias\":\"7号出入口（4）\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"定西路 愚园路 长宁区人民政府\",\"id_alias\":\"8号出入口（5）\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路\",\"id_alias\":\"9号出入口（6）\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"汇川路 长宁路\",\"id_alias\":\"10号出入口（7）\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长宁路 凯旋路\",\"id_alias\":\"11号出入口（8）\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kaixuan Rd,Exit 2:Kaixuan Rd,Exit 3:Kaixuan Rd Changning Rd,Exit 4:Kaixuan Rd Changning Rd,Exit 5:Changning Rd,Exit 6:Changning Rd,Exit 7:Huichuan Rd,Exit 8:Kaixuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅西端，往浦东1号2号航站楼方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——凯旋路，站厅西端，11号口（非自助）\"}]},{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台—2、3号口，往江杨北路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅-站台—1、4号口，往江杨北路方向车头（非自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——2、3号口，往内圈方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅-站台——1、4号口，往内圈方向车头（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Changning Road & Kaixuan Road，Exit 1/4，Rear End of Platform bound for Shanghai South Railway Station（Non Self-service）\r\n<br />Accessible Lift 2  Ground-Station Hall-Platform——Changning Road & Kaixuan Road，Exit 2/3，Front End of Platform bound for Shanghai South Railway Station（Non Self-service）",
+  "terminal": 0
+ }
+]

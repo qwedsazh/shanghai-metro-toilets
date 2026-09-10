@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "261",
+  "name_cn": "远东大道",
+  "name_en": "Yuandong Avenue",
+  "pinyin": "yddd",
+  "station_code": "2-YDDD",
+  "lines": "2",
+  "longitude": 121.76216,
+  "latitude": 31.205201,
+  "gao_lng": 121.75559695273,
+  "gao_lat": 31.1994504122833,
+  "x": 0.8355,
+  "y": 0.6139,
+  "station_pic": "远东大道.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 2号出入口外\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"森林路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华洲路G1501联络道\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Senglin RD Yuandong Avenue,Exit 2:Huazhou RD Yuandong Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅西端，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——West of Station Hall，Rear End of Platform bound for Pudong International Airport（Non Self-service）",
+  "terminal": 0
+ }
+]

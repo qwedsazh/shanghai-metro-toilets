@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1236",
+  "name_cn": "曲阜路",
+  "name_en": "Qufu Road",
+  "pinyin": "qfl",
+  "station_code": "880-QFL",
+  "lines": "8,12",
+  "longitude": 121.478011,
+  "latitude": 31.248303,
+  "gao_lng": 121.47148810471,
+  "gao_lat": 31.2423278174401,
+  "x": 0.5278,
+  "y": 0.3493,
+  "station_pic": "曲阜路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近5号口\"},{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 8号线站台往沈杜公路方向车头\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近5号口\"}]}",
+  "toilet_position_en": "Line 12:Non Paid Area Station Hall Near Exit 5,Line 8:Pay Zone Shendu Highway direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西藏北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西藏北路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曲阜西路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曲阜西路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"文安路 曲阜路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kaifeng Rd North Xizang Rd,Exit 2:Beisuzhou Rd North Xizang Rd,Exit 3:West Qufu Rd,Exit 4:West Qufu Rd,Exit 5:Wen'an Rd Qufu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——曲阜路，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2、3号口中间，8号线往沈杜公路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——曲阜西路，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——4号口，12号线往金海路方向车尾(非自助)\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——曲阜路，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——4号口办公区域旁，12号线往金海路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——曲阜西路，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——4号口，12号线往金海路方向车尾(非自助)\"}]}]}",
+  "elevator_en": "Line 8 Accessible Lift 1:platform to station hall outside of Exit 2 no-paid area,\r\nLine 8 Accessible Lift 2:platform to ground outside of Exit 2 no-paid area (Artificial open),\r\nLine 12 Accessible Lift 1:platform to station hall outside of Exit 4 no-paid ar",
+  "terminal": 0
+ }
+]

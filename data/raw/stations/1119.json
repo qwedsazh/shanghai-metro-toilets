@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1119",
+  "name_cn": "昌吉东路",
+  "name_en": "East Changji Road",
+  "pinyin": "cjdl",
+  "station_code": "400-CJDL",
+  "lines": "11",
+  "longitude": 121.206771,
+  "latitude": 31.29994,
+  "gao_lng": 121.200383826134,
+  "gao_lat": 31.2935813295968,
+  "x": 0.2117,
+  "y": 0.1539,
+  "station_pic": "昌吉东路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往迪士尼方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-10-08\",\"plan_open_date\":\"2024-11-27\"},{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往花桥方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-09-10\",\"plan_open_date\":\"2024-10-19\"}]}",
+  "toilet_position_en": "Inside Pay Area, head of train bound for Disney Resort at the platform\r\n<br />Inside Pay Area rear of train bound for Huaqiao at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"昌吉东路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"雅丹路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Changji Rd,Exit 2:Yadan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-04-13\",\"plan_open_date\":\"2024-04-28\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-04-13\",\"plan_open_date\":\"2024-04-28\"}]}]}",
+  "elevator_en": "Accessible Lift 1:the middle of platform towards Jiangsu Road Station,Accessible Lift 2the middle of platform towards Anting Station",
+  "terminal": 0
+ }
+]

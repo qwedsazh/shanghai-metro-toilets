@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1341",
+  "name_cn": "成山路",
+  "name_en": "Chengshan Road",
+  "pinyin": "csl",
+  "station_code": "1080-CSL",
+  "lines": "13,8",
+  "longitude": 121.503871,
+  "latitude": 31.177152,
+  "gao_lng": 121.497297707928,
+  "gao_lat": 31.1715180053226,
+  "x": 0.5392,
+  "y": 0.5911,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往市光路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-11-15\",\"plan_open_date\":\"2024-12-01\"},{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金运路方向车头\"}]}",
+  "toilet_position_en": "Inside the pay-area,\r\nnear the head of the train bound for Jinyun Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"成山路 上南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"上南路 成山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"上南路 成山路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"成山路 上南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"成山路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Chengshan Road, Shangnan Road\r\nExit 4: Chengshan Road, Shangnan Road\r\nExit 5: Chengshan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅换乘通道口，往沈杜公路方向车尾（自助）\"}]},{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-B1站厅——成山路近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-B2站厅——成山路上南路近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 B1站厅-B2站厅——换乘通道内（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 B2站厅-B4站台——站台西端，B2站厅西端（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall B1; at Chengshan Road, and near Exit 1 (self-service)\r\n<br/>2#elevator: from the ground to the station hall B2; at the intersection of Chengshan Road and Shangnan Road, and near Exit 4 (self-service)\r\n<br/>3#elevator: from the station hall B1 to the station hall B2; inside the transfer passageway (self-service)\r\n<br/>4#elevator: from the station hall B2 to the station hall B4; at the station hall B2 and at the west of the platform (self-service)",
+  "terminal": 0
+ }
+]

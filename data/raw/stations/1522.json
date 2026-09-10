@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1522",
+  "name_cn": "永德路",
+  "name_en": "Yongde Road",
+  "pinyin": "ydl",
+  "station_code": "4000-YDL",
+  "lines": "15",
+  "longitude": 121.44968,
+  "latitude": 31.045517,
+  "gao_lng": 121.443288360915,
+  "gao_lat": 31.039161933965,
+  "x": 0.3825,
+  "y": 0.7441,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"}]}",
+  "toilet_position_en": "inside pay area, the head of a train bound for Gucun Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 永德路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 永德路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 3: South Lianhua Road Yongde Road,    \r\nExit 4: South Lianhua Road Yongde Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "No. 2:Accessible Elevator station hall-platform -- mid-station-hall mid-platform (self-service)",
+  "terminal": 0
+ }
+]

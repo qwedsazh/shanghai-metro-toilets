@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "630",
+  "name_cn": "蓝村路",
+  "name_en": "Lancun Road",
+  "pinyin": "lcl",
+  "station_code": "28-LCL",
+  "lines": "4,6",
+  "longitude": 121.534381,
+  "latitude": 31.217627,
+  "gao_lng": 121.527859554491,
+  "gao_lat": 31.2116645227029,
+  "x": 0.6035,
+  "y": 0.5088,
+  "station_pic": "蓝村路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近站厅2号口\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-11-30\"},{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近站厅3号口处\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-11-30\"}]}",
+  "toilet_position_en": "Line 4:Non-paying zone  Near Exit 2,Line 6:Pay Zone  South station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 蓝村路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dongfang Rd Pudong Middle School Pudong Education College,Exit 2:Dongfang Rd Lancun Rd Shanghai Wenjian Middle School Lotus,Exit 3:Dongfang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站台——东方路，往内圈方向车头（端头门内）（非自助）\"}]},{\"lineno\":6,\"elevator\":[{\"status\":-1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——蓝村路，3号口（自助）\",\"plan_close_date\":\"2023-12-01\",\"plan_open_date\":\"2023-12-06\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅南段（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Lancun Road，Exit 3（Self-service）  <br />         \r\nAccessible Lift 2  Station Hall-Platform--South of Station Hall（Self-service）",
+  "terminal": 0
+ }
+]

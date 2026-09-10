@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "411",
+  "name_cn": "宝山路",
+  "name_en": "Baoshan Road",
+  "pinyin": "bsl",
+  "station_code": "C-BSL",
+  "lines": "3,4",
+  "longitude": 121.483032,
+  "latitude": 31.257464,
+  "gao_lng": 121.476492184413,
+  "gao_lat": 31.2515840707724,
+  "x": 0.5391,
+  "y": 0.3212,
+  "station_pic": "宝山路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  站内近1号口\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  站内近1号口\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Exit 1 entrance side,Line 4:Non-paying zone  Exit 1 entrance side",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虬江路 宝山路 天目东路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"会文路 交通路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"交通路 虬江路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Qiujiang Rd Jiaotong Rd Shanghai Audio And Video City Baoshan Rd Elementary School Zhabei No.5 Middle School,Exit 2:Jiaotong Rd Hui Du Hotel China Railway 24th Bureau Group",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——费区内，近1号口，往上海南站方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——费区内，站厅中部，往江杨北路方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——费区外，交通路，3号口（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台 费区内，近1号口，往上海南站方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台 费区内，站厅中部，往江杨北路方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅 费区外，交通路，3号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Jiaotong Road，East Station Hall，Middle of Platform（Non Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——East Station Hall，Middle of Platform（Non Self-service）",
+  "terminal": 0
+ }
+]

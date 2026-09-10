@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "262",
+  "name_cn": "海天三路",
+  "name_en": "Haitiansan Road",
+  "pinyin": "htsl",
+  "station_code": "2-HTSL",
+  "lines": "2",
+  "longitude": 121.803224,
+  "latitude": 31.174953,
+  "gao_lng": 121.796835480592,
+  "gao_lat": 31.168597922837,
+  "x": 0.8355,
+  "y": 0.663,
+  "station_pic": "海天三路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近南端自动扶梯\",\"status\":1,\"plan_close_date\":\"2024-09-15\",\"plan_open_date\":\"2024-10-31\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东启航路 海天三路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"海天三路 启航路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Qihang RD Haitiansan RD,Exit 2:Qihang RD",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅北端，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——North of Station Hall，Rear End of Platform bound for Pudong International Airport（Non Self-service）",
+  "terminal": 0
+ }
+]

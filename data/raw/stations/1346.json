@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1346",
+  "name_cn": "陈春路 ",
+  "name_en": "Chengchun Road",
+  "pinyin": "ccl",
+  "station_code": "1000-CCL",
+  "lines": "13",
+  "longitude": 121.564074,
+  "latitude": 31.181167,
+  "gao_lng": 121.557685439804,
+  "gao_lat": 31.1748100529575,
+  "x": 0.6563,
+  "y": 0.5896,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金运路方向车尾\"}]}",
+  "toilet_position_en": "Inside the pay-area,\r\nnear the head of the train bound for Zhangjiang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南路 陈春东路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南路 陈春路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南路 陈春东路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Hunan Road, East Chenchun Road\r\nExit 2: Hunan Road, Chenchun Road\r\nExit 3: Hunan Road, East Chenchun Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站台中部,近客服中心后面（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near Exit 1 (self-service)\r\n<br />2#elevator: from the station hall to the platform; at the central platform and near the back of the Service Center (self-service)",
+  "terminal": 0
+ }
+]

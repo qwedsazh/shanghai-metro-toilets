@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1446",
+  "name_cn": "蓝天路",
+  "name_en": "Lantian Road",
+  "pinyin": "ltl",
+  "station_code": "2100-LTL",
+  "lines": "9,14",
+  "longitude": 121.585099,
+  "latitude": 31.246189,
+  "gao_lng": 121.578635003767,
+  "gao_lat": 31.2399796865427,
+  "x": 0.7278,
+  "y": 0.4063,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 男女厕在往曹路方向站台车头，无障碍厕所在往上海松江站方向站台车尾\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至9号线站台厕所\"}]}",
+  "toilet_position_en": "Line 9:Inside pay area train head in the direction of Caolu,\r\nLine 14:Inside pay area train rear in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路 云山路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路 云山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"蓝天路 云山路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路 云山路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路 云山路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Mid Yanggao Road  Yunshan Road,\r\nExit 2: Mid Yanggao Road  Yunshan Road,\r\nExit 4: Lantian Road  Yunshan Road,\r\nExit 5: Mid Yanggao Road  Yunshan Road,\r\nExit 6: Mid Yanggao Road  Yunshan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——杨高中路云山路路口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——杨高中路云山路路口，近6号口（自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅—— 站厅-14号线站台-9号线站台——站厅中部，14号线站台中部，9号线站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近6号口，近6号口（自助）\"}]}]}",
+  "elevator_en": "Line 9  Line 14\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 2: near exit 2 (self-service)<br/>\r\n2#accessible elevator: outside pay area, ground-station hall -- near Exit 6: near exit 6 (self-service)<br/>\r\n3#accessible elevator: inside pay area, station hall-platform of line 14-platform of line 9 -- mid station hall, mid platform of line 14, mid platform of line 9 (self-service)",
+  "terminal": 0
+ }
+]

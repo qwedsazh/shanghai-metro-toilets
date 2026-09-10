@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1847",
+  "name_cn": "通南路",
+  "name_en": "Tongnan Road",
+  "pinyin": "tnl",
+  "station_code": "20000-TNL",
+  "lines": "18",
+  "longitude": 121.486081,
+  "latitude": 31.343562,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.5569,
+  "y": 0.1558,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往航头方向车头\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江南路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"通南路 长江南路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞发路 长江南路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Line 1:South Changjiang Road,Line 2:Tongnan Road  South Changjiang Road,Line 3:Songfa Road  South Changjiang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台无障碍电梯——站厅中部，站台中部\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅无障碍电梯——靠近1号口\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

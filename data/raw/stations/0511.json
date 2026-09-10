@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "511",
+  "name_cn": "华宁路",
+  "name_en": "Huaning Road",
+  "pinyin": "hnl",
+  "station_code": "10-HNL",
+  "lines": "5",
+  "longitude": 121.401635,
+  "latitude": 31.013066,
+  "gao_lng": 121.395057547623,
+  "gao_lat": 31.0073185896296,
+  "x": 0.283,
+  "y": 0.7531,
+  "station_pic": "华宁路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"}]}",
+  "toilet_position_en": "Line 5:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东川路 华宁路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东川路 华宁路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Huaning Rd Dongchuan Rd,Exit 2:Huaning Rd Dongchuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——东川路华宁路，天桥（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Dongchuan Road & Huaning Road，Overpass（Self-service） <br />\r\nAccessible Lift 2  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

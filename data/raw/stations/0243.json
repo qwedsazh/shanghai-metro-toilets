@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "243",
+  "name_cn": "静安寺",
+  "name_en": "Jing'an Temple",
+  "pinyin": "jas",
+  "station_code": "2042-JAS",
+  "lines": "2,7,14",
+  "longitude": 121.453901,
+  "latitude": 31.229402,
+  "gao_lng": 121.447469498525,
+  "gao_lat": 31.2230599877096,
+  "x": 0.4522,
+  "y": 0.3947,
+  "station_pic": "静安寺.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":7,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近8、9号口客服中心后方\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往桂桥路方向车尾\"}]}",
+  "toilet_position_en": "Line 2:Pay Zone  Guanglan Rd direction to the front of the platform,Line 7:Non-paying zone  Near Exit 9<br/>Line 14:\r\nInside pay area, train rear in the direction of Guiqiao Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华山路 北京西路 南京西路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"胶州路 北京西路 久光百货\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 北京西路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 南京西路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 常德路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"延安中路 常德路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"延安中路 常德路\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 常德路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"延安中路\",\"id_alias\":\"11号出入口\",\"memo\":\"R*\"},{\"id\":12,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华山路\",\"id_alias\":\"12号出入口\",\"memo\":\"R*\"},{\"id\":\"13A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"延安西路\",\"memo\":\"N!\"},{\"id\":\"13B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"延安西路 华山路\",\"memo\":\"N!\"},{\"id\":14,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 华山路\",\"id_alias\":\"14号出入口\",\"memo\":\"R*\"},{\"id\":15,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 华山路\",\"id_alias\":\"15号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Huashan Road, West Beijing Road  West Nanjing Road，\r\nExit 2: Jiaozhou Road Beijing West Road  Jiuguang Department Store， \r\nExit 3: Changde Road  West Beijing Road，\r\nExit 4: Changde Road  West Nanjing Road，\r\nExit 5: Mid Yan'an Road  West Nanjing Road Huashan Road (closed for construction)，\r\nExit 6: West Nanjing  Road  Changde Road，\r\nExit 7: Changde Road (not opened yet)，\r\nExit 8: Mid Yan'an Road  Changde Road，\r\nExit 9: Mid Yan'an Road  Changde Road，\r\nExit 10: Nanjing West Road  Changde Road， \r\nExit 11: West Yan'an Road，\r\nExit 12: Huashan Road (temporarily closed)，\r\nExit 13A:West Yan'an Road，\r\nExit 13B: West Yan'an Road  Huashan Road，\r\nExit 14: West Nanjing Road, Huashan Road (temporarily unavailable)，\r\nExit 15: West Nanjing Road  Huashan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——靠近4号口，静安公园门口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅西端费区外，站台西端上行车尾（非自助）\"}]},{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——常德路安义路，6号口（自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近11号口，近11号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近客服中心，往封浜方向车头（自助）\"}]}]}",
+  "elevator_en": "Line 2 Accessible Lift 1 Station Hall-Platform——West of Station Hall，Rear End of Platform bound for Pudong International Airport（Non Self-service）<br/>\r\nAccessible Lift 2 Ground-Station Hall——Huashan Road，Exit 5（Non Self-service）<br/>\r\nLine 7 Accessible Lift 1 Station Hall-Platform--Exit 6，Middle of Platform（Self-service）<br/>\r\nAccessible Lift 2 Ground-Station Hall--West Nanjing Road & Changde Road，Exit 6（Self-service）<br/>\r\nLine 14\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 11: near exit 11 (self-service)<br/>\r\n2#accessible elevator: outside pay area, station hall-platform -- near customer service center, train head in the direction of Fengbang (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "247",
+  "name_cn": "陆家嘴",
+  "name_en": "Lujiazui",
+  "pinyin": "ljz",
+  "station_code": "2002-LJZ",
+  "lines": "2,14",
+  "longitude": 121.508824,
+  "latitude": 31.243637,
+  "gao_lng": 121.502213137526,
+  "gao_lat": 31.2379942243804,
+  "x": 0.5838,
+  "y": 0.41,
+  "station_pic": "陆家嘴.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"}]}",
+  "toilet_position_en": "Line 2 Inside Pay Area rear of train bound for East Xujing at the platform<br/>\r\nLine 14\r\nInside pay area, train head in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陆家嘴环路 世纪大道\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 陆家嘴环路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 银城中路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 银城中路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 银城中路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 银城中路\",\"id_alias\":\"6号口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"银城中路 世纪大道\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"银城中路 花园石桥路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":\"9A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"花园石桥路\",\"memo\":\"R*\",\"id_alias\":\"9A号出入口\"},{\"id\":\"9B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"花园石桥路 陆家嘴环路\",\"memo\":\"R*\",\"id_alias\":\"9B号出入口\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"花园石桥路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Century Avenue  Lujiazui Ring Road，\r\nExit 2: Century Avenue  Lujiazui Ring Road，\r\nExit 3: Century Avenue  Mid Yincheng Road，\r\nExit 4: century Avenue  Mid Yincheng Road，\r\nExit 5: Century Avenue  Mid Yincheng Road，\r\nExit 6: Century Avenue  Mid Yincheng Road，\r\nExit 7: Century Avenue  Mid Yincheng Road，\r\nExit 8: Mid Yincheng Road  Huayuan Shiqiao Road，\r\nExit 9a, Huayuan Shiqiao Road，\r\nExit 9b, Huayuan Shiqiao Road  Lujiazui Ring Road，\r\nExit 10: Huayuan Shiqiao Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅---陆家嘴环路，近1号口(自助)\",\"status\":1,\"plan_close_date\":\"2024-12-30\",\"plan_open_date\":\"2025-03-14\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 2号线站厅-换乘通道——（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台（自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中间，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-国金商场平台层——近8号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-07-05\",\"plan_open_date\":\"2024-09-01\"}]}]}",
+  "elevator_en": "Line 2 Accessible Lift 1  Ground-Platform——Lujiazui Ring Road，Front End of Platform bound for East Xujing（Non Self-service）)<br/>Line 14\r\n1#accessible elevator: inside pay area, station hall-platform -- mid station hall, mid platform (self-service)<br/>\r\n2#accessible elevator: outside pay area, ground-station hall -- near Exit 8: near exit 8 (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "313",
+  "name_cn": "龙漕路",
+  "name_en": "Longcao Road",
+  "pinyin": "lcl",
+  "station_code": "804-LCL",
+  "lines": "3,12",
+  "longitude": 121.450601,
+  "latitude": 31.176281,
+  "gao_lng": 121.444211732804,
+  "gao_lat": 31.1699300061833,
+  "x": 0.3992,
+  "y": 0.5613,
+  "station_pic": "龙漕路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近2号口\",\"status\":1,\"plan_close_date\":\"2024-10-26\",\"plan_open_date\":\"2024-12-25\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近4号口\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台近金海路方向车头位置\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 凯旋南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":\"临时2号\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 凯旋南路\",\"id_alias\":\"临时2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 凯旋南路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 田东路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 凯旋南路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 龙吴路 凯旋南路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Longwu Rd Longzhao Yuan B&Q Longhua Temple Longhua Town,Exit 2:Longwu Rd B&Q,Exit 3:Kaixuan South Rd Hong Run Building",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近3号口，往上海南站方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近3号口，往江杨北路方向车头（自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-地面——4号口附近（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——4号口、5号口中间TVM旁，往七莘路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站厅——3号线换乘通道口，12号线东端设备房（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 1，Front End of Platform bound for North Jiangyang Road（Non Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 4，Rear End of Platform bound for Shanghai South Railway Station（Non Self-service）",
+  "terminal": 0
+ }
+]

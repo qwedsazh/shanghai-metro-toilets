@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "943",
+  "name_cn": "杨高中路",
+  "name_en": "Middle Yanggao Road",
+  "pinyin": "ygzl",
+  "station_code": "20100-YGZL",
+  "lines": "9,18",
+  "longitude": 121.555022,
+  "latitude": 31.233791,
+  "gao_lng": 121.54858002612,
+  "gao_lat": 31.2274853048253,
+  "x": 0.6748,
+  "y": 0.4589,
+  "station_pic": "杨高中路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口通道\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往航头方向车头（有母婴室）\",\"status\":1,\"plan_close_date\":\"2026-01-21\",\"plan_open_date\":\"2026-02-01\"}]}",
+  "toilet_position_en": "Line 9 Non-paying zone  Near Exit 1<br/>line 18 Inside pay area train rear in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 杨高中路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨高中路 民生路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 杨高中路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 丁香路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Mid Yanggao Road,\r\nExit 3: Minsheng Road and Mid Yanggao Road,\r\nExit 4: Mid Yanggao Road and Minsheng Road,\r\nExit 5: Minsheng Road and Mid Yanggao Road,\r\nExit 6: Minsheng Road and Dingxiang Road,\r\nExit 7: Minsheng Road,\r\nExit 8: Minsheng Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——民生路杨高中路路口，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近6号口，近7号口通道（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近客服中心费区内，站台中部(自助)\"}]}]}",
+  "elevator_en": "line 9 Accessible Lift 1:beside Exit 1,station hall to ground,Accessible Lift 2:center of station hallbeside Customer Service Center,station hall to platform<br/>line 18\r\n1# Accessible Elevator: outside pay area, ground-station hall -- near exit 6, near passageway at exit 7 (self-service)<br/>\r\n2# Accessible Elevator: inside pay area,station hall-platform -- near exit 5, train head in the direction of Hangtou (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "334",
+  "name_cn": "淞滨路",
+  "name_en": "Songbin Road",
+  "pinyin": "sbl",
+  "station_code": "4-SBL",
+  "lines": "3",
+  "longitude": 121.499387,
+  "latitude": 31.376563,
+  "gao_lng": 121.492790155858,
+  "gao_lat": 31.3709001198506,
+  "x": 0.6274,
+  "y": 0.1261,
+  "station_pic": "淞滨路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 近2号口\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Exit 2 entrance side",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞滨路 同济路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞滨路 同济路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yixian Elevated Rd Songbin Rd Office Courtyard Wusong Middle School Yinggang Hospital,Exit 2:Yixian Elevated Rd Songxing Rd Changzheng Xincun Kindergarden Jinhaima Furniture Boutique Square,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\" 1#无障碍电梯 站厅-站台--站厅中部，站台中部（自助) \"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——淞兴路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall——Tongji Road，Exit 2（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

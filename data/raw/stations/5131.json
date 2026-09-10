@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "5131",
+  "name_cn": "虹桥2号航站楼",
+  "name_en": "Hongqiao Airport Terminal 2",
+  "pinyin": "hqhzl2h",
+  "station_code": "4000000000000-HQHZL2H",
+  "lines": "51",
+  "longitude": 121.328266,
+  "latitude": 31.200148,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.265,
+  "y": 0.4114,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 B1北厅东端\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 B1北厅北端\"},{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 B1北厅（近北进站口）（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 B1南厅东端\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 B1南厅南端\"},{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 B1南厅（近南进站口）（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 2F东客服南端（女厕所内有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 2F东客服北端（女厕所内有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 3F北厅东端\"},{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 3F北厅南端（女厕所内有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 3F南厅东端\"},{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 3F南厅北端（女厕所内有母婴室）\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":51,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区内 B1-2F-3F——站厅北端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区内 B1-2F-3F——站厅北端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区内 B1-2F-3F——站厅南端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 B1-2F-3F——站厅南端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 费区内 2F-4/5站台——站厅中部靠南侧，往浦东1号2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"6#无障碍电梯 费区内 2F-4/5站台——站厅中部靠北侧，往浦东1号2号航站楼方向站台中部（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

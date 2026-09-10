@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1539",
+  "name_cn": "长风公园",
+  "name_en": "Changfeng Park",
+  "pinyin": "cfgy",
+  "station_code": "4000-CFGY",
+  "lines": "15",
+  "longitude": 121.40296,
+  "latitude": 31.231385,
+  "gao_lng": 121.396380206171,
+  "gao_lat": 31.22561726403,
+  "x": 0.3602,
+  "y": 0.3712,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  站台往紫竹高新区方向车尾 \"},{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"}]}",
+  "toilet_position_en": "inside pay area, the rear of a train bound for Zizhu High-Tech Park,                        inside pay area, the head of a train bound for Gucun Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"云岭东路 云岭东路地下连通道\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路 云岭东路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路 同普路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2: Daduhe Road,    \r\nExit 3: East Yunling Road,     \r\nExit 4: Daduhe Road East Yunling Road,     \r\nExit 5: Daduhe Road Tongpu Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往紫竹高新区方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往顾村公园方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator ground-station hall -- near exit 2 near exit 2 (self-service)                                       \r\nNo. 2:Accessible Elevator station hall-platform -- near exit 1 mid-platform of trains bound for Zizhu High-Tech Park (self-service)                                                 No. 3:Accessible Elevator station hall-platform -- near exit 1 mid-platform of trains bound for Gucun Park (self-service)",
+  "terminal": 0
+ }
+]

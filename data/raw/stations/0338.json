@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "338",
+  "name_cn": "铁力路",
+  "name_en": "Tieli Road",
+  "pinyin": "tll",
+  "station_code": "4-TLL",
+  "lines": "3",
+  "longitude": 121.467851,
+  "latitude": 31.414261,
+  "gao_lng": 121.461411509858,
+  "gao_lat": 31.4081065538054,
+  "x": 0.5834,
+  "y": 0.0523,
+  "station_pic": "铁力路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 近1号口费区外，上楼左转到底\"}]}",
+  "toilet_position_en": "Line 3:Pay Zone  Next to the control room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"富锦路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"富锦路 铁力路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Fujin Rd Baodi Lvzhou Cheng Baojiang Public Security Branch,Exit 2:Tieli Rd Fujin Rd Baodi Lvzhou Cheng Baojiang Public Security Branch,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）\r\n<br />Accessible Lift 2  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

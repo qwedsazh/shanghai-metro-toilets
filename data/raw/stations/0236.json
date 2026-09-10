@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "236",
+  "name_cn": "虹桥2号航站楼",
+  "name_en": "Hongqiao Airport Terminal 2",
+  "pinyin": "hqhzl2h",
+  "station_code": "202-HQHZL2H",
+  "lines": "2,10",
+  "longitude": 121.333274,
+  "latitude": 31.20056,
+  "gao_lng": 121.326867201153,
+  "gao_lat": 31.1942200747185,
+  "x": 0.2728,
+  "y": 0.4097,
+  "station_pic": "虹桥2号航站楼.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 机场厕所\"},{\"lineno\":10,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 机场厕所\"}]}",
+  "toilet_position_en": "Line 2:Pay Zone  The outbound after 200 meters,Line 10:Turn left at the outbound",
+  "entrance_info": "",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，往浦东1号2号航站楼方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——公共站厅，公共站台往浦东1号2号航站楼方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——公共站厅，公共站台往浦东1号2号航站楼方向车尾（自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——公共站厅，公共站台往基隆路方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——公共站厅，公共站台往基隆路方向车尾（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit of Area C，Middle of Platform（Non Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Middle of the Exits of Area C and Area D，Middle of Platform（Non Self-service）",
+  "terminal": 0
+ }
+]

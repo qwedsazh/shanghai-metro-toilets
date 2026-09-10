@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1729",
+  "name_cn": "青浦新城",
+  "name_en": "Qingpu Xincheng",
+  "pinyin": "qpxc",
+  "station_code": "10000-QPXC",
+  "lines": "17",
+  "longitude": 121.131698,
+  "latitude": 31.164534,
+  "gao_lng": 121.125147203128,
+  "gao_lat": 31.1587977066042,
+  "x": 0.1881,
+  "y": 0.4897,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往虹桥火车站方向车头\"}]}",
+  "toilet_position_en": "in pay area head of train bound for Hongqiao Railway Station",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"盈港东路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"盈港东路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"盈港东路 外青松公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"下沉式广场\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Yinggang Road,Exit 2:East Yinggang Road,Exit 3:East Yinggang Road Waiqingsong Highway,Exit 4:Sunken Plaza",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往虹桥火车站方向站台中部，服务中心（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——near exit 1（self-service）\r\n<br />2#Elevator-Station Hall to Platform——middle of the platform for train bound for Hongqiao Railway Station,service center（self-service）",
+  "terminal": 0
+ }
+]

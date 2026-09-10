@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1330",
+  "name_cn": "长寿路",
+  "name_en": "Changshou Road",
+  "pinyin": "csl",
+  "station_code": "1040-CSL",
+  "lines": "7,13",
+  "longitude": 121.444762,
+  "latitude": 31.246718,
+  "gao_lng": 121.438338935322,
+  "gao_lat": 31.240350973971,
+  "x": 0.4523,
+  "y": 0.3494,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"},{\"lineno\":13,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "Line 7 Outside Pay Area storey of station hall, near exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长寿路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 长寿路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西康路 长寿路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长寿路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 新会路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 长寿路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Ningxia Rd North Kaixuan Rd,Exit 2:Ningxia Rd Jingshajiang Rd North Zhongshan Rd,Exit 3:Ningxia Rd Jingshajiang Rd North Zhongshan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——7号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——常德路，5号口（自助）\"}]},{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往张江路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-地面——长寿路，4号口（自助）\"}]}]}",
+  "elevator_en": "Line 13:Helicopter ladder  The ground station hall  Near Exit 6,Line 13:Helicopter ladder  The station hall to the platform  Jinshajiang Rd direction to the front of the platform",
+  "terminal": 0
+ }
+]

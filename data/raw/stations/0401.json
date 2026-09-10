@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "401",
+  "name_cn": "上海体育馆",
+  "name_en": "Shanghai Indoor Stadium",
+  "pinyin": "shtyg",
+  "station_code": "9-SHTYG",
+  "lines": "1,4",
+  "longitude": 121.443402,
+  "latitude": 31.188814,
+  "gao_lng": 121.437009492404,
+  "gao_lat": 31.1824583675847,
+  "x": 0.3961,
+  "y": 0.4924,
+  "station_pic": "上海体育馆.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往莘庄方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-11-03\",\"plan_open_date\":\"2025-01-01\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往外圈方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-11-01\"}]}",
+  "toilet_position_en": "Line 1:Pay Zone  Xinzhuang direction to the front of the platform,Line 4:Pay Zone  Outer front",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"飞洲国际广场\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"上海体育馆 零陵路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"零陵路 漕溪北路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路 中山南二路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路 中山西路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路 裕德路 中漕路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yude Rd,Exit 2:Lingling R,Exit 3:Lingling Rd,Exit 4:North Caoxi Rd,Exit 5:Caoxi Rd Lingling Rd,Exit 6:North Caoxi Rd Zhongnan 2nd Rd,Exit 7:North Caoxi Rd West Zhongshan Rd,Exit 8:North Caoxi Rd Yude Rd Zhongcao Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 地面-站厅——漕溪北路零陵路，5号口（非自助）\",\"status\":1,\"plan_close_date\":\"2026-07-29\",\"plan_open_date\":\"2026-08-29\"},{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——办公区域，往富锦路方向车头（非自助)\",\"memo\":\"\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——4号口，往外圈方向车尾（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 4，Front End of Platform bound for Yishan Road（Non Self-service）",
+  "terminal": 0
+ }
+]

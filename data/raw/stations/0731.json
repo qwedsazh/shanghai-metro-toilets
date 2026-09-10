@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "731",
+  "name_cn": "大场镇",
+  "name_en": "Dachang Town",
+  "pinyin": "dcz",
+  "station_code": "40-DCZ",
+  "lines": "7",
+  "longitude": 121.422947,
+  "latitude": 31.29971,
+  "gao_lng": 121.416497095217,
+  "gao_lat": 31.2935942621025,
+  "x": 0.4129,
+  "y": 0.2242,
+  "station_pic": "大场镇.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "Line 7:Non-paying zone  Exit 1 entrance side",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪太路 江场路 综合客运交通枢纽站\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪太路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪太路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Jiangchang Rd Hutai Rd Comprehensive Passenger Transport Traffic Hub Station,Exit 2:Hutai Rd,Exit 3:Hutai Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——沪太路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Hutai Road，Exit 2（Self-service）<br /> \r\nAccessible Lift 2  Station Hall-Platform--Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

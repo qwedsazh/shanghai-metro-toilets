@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1222",
+  "name_cn": "顾戴路",
+  "name_en": "Gudai Road",
+  "pinyin": "gdl",
+  "station_code": "800-GDL",
+  "lines": "12",
+  "longitude": 121.398948,
+  "latitude": 31.14667,
+  "gao_lng": 121.392374407898,
+  "gao_lat": 31.1409596980771,
+  "x": 0.3031,
+  "y": 0.5624,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近2号口\"}]}",
+  "toilet_position_en": "outside pay area  station hall, exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"顾戴路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"顾戴路 复旦大学附属儿科医院\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"合川路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2a：Opened\r\nExit 2b：Opened\r\nExit 3：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅西端，站台西端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——合川路顾戴路，近4号口（自助）\"}]}]}",
+  "elevator_en": "<img alt='' src='/resource/images/12-wuzhangai.png' width='32px' />:Accessible Lift 1：station hall - platform -- west of station hall,west end of platform(self-help)\r\n<br />Accessible Lift 2：ground - station hall -- Hechuan Rd/Gudai Rd,station hall floor of exit 3(self-help)",
+  "terminal": 0
+ }
+]

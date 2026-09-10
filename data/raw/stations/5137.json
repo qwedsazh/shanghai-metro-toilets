@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "5137",
+  "name_cn": "浦东1号2号航站楼",
+  "name_en": "Pudong Airport Terminal 1&2",
+  "pinyin": "pd1h2hhzl",
+  "station_code": "4000000000000-PDGJJC",
+  "lines": "51",
+  "longitude": 121.811492,
+  "latitude": 31.159104,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.8238,
+  "y": 0.7425,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外  站厅近6号口（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  往虹桥2号航站楼方向车头（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  往虹桥2号航站楼方向车尾（有母婴室）\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲北路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲中路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲南路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲南路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲中路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"五洲北路\",\"id_alias\":\"6号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:North WuZhou Path,\r\nExit 2:WuZhou Middle Path,\r\nExit 3:South WuZhou Path,\r\nExit 4:South WuZhou Path,\r\nExit 5:WuZhou Middle Path,\r\nExit 6:North WuZhou Path",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":51,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区外 2F-站厅——1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区外 2F-站厅——2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区外 2F-站厅——3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 站厅-站台——站厅北端费区中部，往虹桥2号航站楼方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 费区内 站厅-站台——站厅南端费区中部，往虹桥2号航站楼方向车尾（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

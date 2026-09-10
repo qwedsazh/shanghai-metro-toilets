@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1116",
+  "name_cn": "兆丰路",
+  "name_en": "Zhaofeng Road",
+  "pinyin": "zfl",
+  "station_code": "400-ZFL",
+  "lines": "11",
+  "longitude": 121.156828,
+  "latitude": 31.294652,
+  "gao_lng": 121.150266843663,
+  "gao_lat": 31.2889685792192,
+  "x": 0.1859,
+  "y": 0.1749,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅西侧\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹安公路 曹新路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹安公路 寰盛路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——1号口，自动扶梯旁（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——2号口，自动扶梯旁（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅西侧，站台中部（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

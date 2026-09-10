@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "4103",
+  "name_cn": "闵瑞路",
+  "name_en": "Minrui Road",
+  "pinyin": "mrl",
+  "station_code": "10000000000-MRL",
+  "lines": "41",
+  "longitude": 121.536848,
+  "latitude": 31.054886,
+  "gao_lng": 121.530369041794,
+  "gao_lat": 31.0488842992851,
+  "x": 0.545,
+  "y": 0.7497,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":41,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\"}]}",
+  "toilet_position_en": "off pay area near exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"三鲁公路 闵瑞路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"三鲁公路 闵瑞路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Sanlu Highway Minrui Road,Exit 2:Sanlu Highway Minrui Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":41,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往沈杜公路方向车尾，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往汇臻路方向车头，近2号口（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——rear of train bound for Shendu Highway,near exit 1（self-service）\r\n<br />2#Elevator-Ground to Station Hall——head of train bound for Huizhen Road,near exit 2（self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "632",
+  "name_cn": "世纪大道",
+  "name_en": "Century Avenue",
+  "pinyin": "sjdd",
+  "station_code": "12A-SJDD",
+  "lines": "2,4,6,9",
+  "longitude": 121.533435,
+  "latitude": 31.23485,
+  "gao_lng": 121.526900693785,
+  "gao_lat": 31.2289032895227,
+  "x": 0.6314,
+  "y": 0.4585,
+  "station_pic": "世纪大道.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至6号线站台\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至6号线站台\"},{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往港城路方向站台车头,往东方体育中心方向站台车尾\"},{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至6号线站台\"}]}",
+  "toilet_position_en": "Line 2 Inside Pay Area  head of train bound for East Xujing at the platform\r\n<br />Line 4 to platforms of lines 2 and 6\r\n<br />Line 6 Inside Pay Area rear of train bound for Oriental Sports Center at the platform\r\n<br />Line 6 Inside Pay Area head of train bound for Gangcheng Road at the platform\r\n<br />Line 9 to platforms of lines 2 and 6",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 张杨路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 张杨路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 福山路\",\"memo\":\"R*\",\"id_alias\":\"5号出入口\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道 福山路\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道\",\"memo\":\"R*\",\"id_alias\":\"7号出入口\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"世纪大道\",\"memo\":\"R*\",\"id_alias\":\"8号出入口\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 福山路\",\"memo\":\"R*\",\"id_alias\":\"11号出入口\"},{\"id\":12,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 福山路\",\"memo\":\"R*\",\"id_alias\":\"12号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Century Avenue,Exit 6:Century Avenue,Exit 7:Century Avenue,Exit 12:Dongfang Rd Fushan Rd",
+  "street_pic": null,
+  "elevator": "{\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——B区客服中心旁，往浦东1号2号航站楼方向车头（自助）\",\"status\":1,\"plan_close_date\":\"2024-04-09\",\"plan_open_date\":\"2024-04-30\"},{\"icon1\":\"l_i_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——B区9号线站厅，9号线往上海松江站方向车尾（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"3#无障碍电梯 站厅-站台——B区4号线站厅，4号线内圈车头门内（非自助）\"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"4#无障碍电梯 地面-站厅——世纪大道，潍坊路，7号口（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"5#无障碍电梯 地面-站厅——世纪大道，东方路，12号口（自助） \"},{\"icon1\":\"l_i_n.png\",\"icon2\":\"w_n.png\",\"description\":\"6#升降平台 站厅-站台——6号线往港城路方向车尾（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"7#升降平台 站厅-站台——6号线往东方体育中心方向车头（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"8#无障碍电梯 站厅-站台——A区9号线站厅，9号线往上海松江站方向车头（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"9#无障碍电梯 站厅-站台——A区2号线站厅，往蟠祥路·国家会计学院方向车头（自助） \"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"10#无障碍电梯 站厅-站台——A区4号线站厅，4号线往外圈方向车头（自助）\"}]}",
+  "elevator_en": "Line 2\r\n1# Car-style lift-Station hall to Platform——outside the pay area of the station hall of Zone B, at the head of the train bound for Pudong International Airport at the platform(non self-service)\r\nLine 4\r\n1# Car-style lift-Station hall to Platform——the station hall of Zone B, at the head of the train bound for Inner Ring (Clockwise) at the platform(non self-service)\r\nLine 6\r\n1# Lift platform-Station hall to Platform——the station hall of Zone B, at the rear of the train bound for Gangcheng Road at the platform(self-service)\r\n<br />2# Lift platform-Station hall to Platform——the station hall of Zone A, at the head of the train bound for Oriental Sports Center at the platform(self-service)\r\nLine 9\r\n1# Car-style lift-Station hall to Platform——the station hall of Zone B, at the head of the train bound for Caolu at the platform(self-service)\r\n<br />2# Inclined lift-Station hall to Platform——the station hall of Zone A, at the head of the train bound for Caolu at the platform(non self-service)\r\n<br />3# Car-style lift-Ground to Station hall——exit 7(self-service)\r\n<br />4# Car-style lift-Ground to Station hall——exit 12(self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "946",
+  "name_cn": "台儿庄路",
+  "name_en": "Taierzhuang Road",
+  "pinyin": "tezl",
+  "station_code": "100-TEZL",
+  "lines": "9",
+  "longitude": 121.60254,
+  "latitude": 31.257748,
+  "gao_lng": 121.596002729823,
+  "gao_lat": 31.2518593673228,
+  "x": 0.7478,
+  "y": 0.3885,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往曹路方向站台车尾\"}]}",
+  "toilet_position_en": "in pay area rear of train bound for Caolu",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"台儿庄路 杨高中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金新路 杨高中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金藏路 杨高中路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Taierzhuang Road Middle Yanggao Road,Exit 2:Jinxing Road Middle Yanggao Road,Exit 3:Jinzang Road Middle Yanggao Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——台儿庄路杨高中路路口，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——near exit 1（self-service）\r\n<br />2#Elevator-Station Hall to Platform——middle of the platform for train bound for Caolu,middle of station hall（self-service）",
+  "terminal": 0
+ }
+]

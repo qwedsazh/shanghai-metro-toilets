@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1335",
+  "name_cn": "淮海中路",
+  "name_en": "Middle Huaihai Road",
+  "pinyin": "hhzl",
+  "station_code": "1000-HHZL",
+  "lines": "13",
+  "longitude": 121.470677,
+  "latitude": 31.226198,
+  "gao_lng": 121.464188241154,
+  "gao_lat": 31.2200842757502,
+  "x": 0.5009,
+  "y": 0.4062,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口\"}]}",
+  "toilet_position_en": "outside pay area  near exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淮海中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瑞金一路 淮海中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瑞金一路 长乐路 向明中学\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1：Opened\r\nExit 2：Unopened\r\nExit 3：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——费区内站厅中部，站台中间（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——瑞金一路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——费区内站厅中部，站台中间（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站房-站台——往金运路方向车尾（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1：station hall - platform -- mid of station hall inside pay area，mid of platform（self-help）\r\n<br />Accessible Lift 2：station hall - platform -- mid of station hall inside pay area，mid of platform（self-help）\r\n<br />Accessible Lift 3：station room - equipment floor - platform --near AFC power distribution room within station room/near standby room of equipment floor ，train end of terminal-start line（non-self-help）\r\n<br />Accessible Lift 3：ground - station hall -- No. 1 Ruijin Rd，exit 3（self-help）",
+  "terminal": 0
+ }
+]

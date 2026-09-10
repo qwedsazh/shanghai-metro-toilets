@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1632",
+  "name_cn": "临港大道",
+  "name_en": "Lingang Avenue",
+  "pinyin": "lgdd",
+  "station_code": "8000-LGDD",
+  "lines": "16",
+  "longitude": 121.916746,
+  "latitude": 30.930354,
+  "gao_lng": 121.910345479288,
+  "gao_lat": 30.9240396429038,
+  "x": 0.8106,
+  "y": 0.9017,
+  "station_pic": "临港大道.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":16,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"}]}",
+  "toilet_position_en": "Line 16:Non-paying zone  Exit 4",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临港大道\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临港大道\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临港大道 沪城环路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临港大道\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Lingang Ave,Exit 2:Lingang Ave,Exit 3:Lingang Ave Hucheng Huan Rd,Exit 4:Lingang Ave",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——临港大道，1号口（自助)\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——临港大道，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，往滴水湖方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅中部，往龙阳路方向站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 1 to ground,Accessible Lift 2:public area of station hall near Exit 2 to ground,Accessible Lift 3:train upstream from hall to platform,public area of station hall near Exit 4 to ground:train downstre",
+  "terminal": 0
+ }
+]

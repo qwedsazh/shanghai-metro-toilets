@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "532",
+  "name_cn": "西渡",
+  "name_en": "Xidu",
+  "pinyin": "xd",
+  "station_code": "10-XD",
+  "lines": "5",
+  "longitude": 121.438912,
+  "latitude": 30.995618,
+  "gao_lng": 121.432478351673,
+  "gao_lat": 30.989277134585,
+  "x": 0.322,
+  "y": 0.7801,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 3号口外公共厕所\"}]}",
+  "toilet_position_en": "Outside the pay-area,\r\nnear Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西闸公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西闸公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪杭公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪杭公路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Xizha?Highway\r\nExit 2: Xizha?Highway\r\nExit 3: Shanghai-Hangzhou?Highway\r\nExit 4: Shanghai-Hangzhou?Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往奉贤新城方向车头，近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往奉贤新城方向车尾，近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——往莘庄方向车头，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 站厅-站台——往莘庄方向车尾，近2号口（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near Exit 4 (self-service)\r\n<br/>2#elevator: from the station hall to the platform; near Exit 3 and near the head of the train bound for Fengxian Xincheng (self-service)\r\n<br/>3#elevator: from the station hall to the platform; near Exit 4 and near the rear of the train bound for Fengxian Xincheng (self-service)\r\n<br/>4#elevator: from the station hall to the platform; near Exit 1 and near the head of the train bound for Xinzhuang (self-service)\r\n<br/>5#elevator: from the station hall to the platform; near Exit 2 and near the rear of the train bound for Xinzhuang (self-service)",
+  "terminal": 0
+ }
+]

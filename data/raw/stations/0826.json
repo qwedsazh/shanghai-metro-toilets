@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "826",
+  "name_cn": "东方体育中心",
+  "name_en": "Oriental Sports Center",
+  "pinyin": "dftyzx",
+  "station_code": "4A0-DFTYZX",
+  "lines": "6,8,11",
+  "longitude": 121.487012,
+  "latitude": 31.159351,
+  "gao_lng": 121.480475583556,
+  "gao_lat": 31.1535448123693,
+  "x": 0.5131,
+  "y": 0.6178,
+  "station_pic": "东方体育中心.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 11号线往迪士尼方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-10-13\",\"plan_open_date\":\"2024-10-27\"},{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往6号线东方体育中心站车尾\",\"status\":1,\"plan_close_date\":\"2025-11-03\",\"plan_open_date\":\"2026-01-01\",\"memo\":\"\"},{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 8号线往市光路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-10-13\",\"plan_open_date\":\"2024-10-27\"},{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 无障碍卫生间11号线往嘉定北方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-10-13\",\"plan_open_date\":\"2024-10-27\",\"memo\":\"\"}]}",
+  "toilet_position_en": "Line 6 Inside Pay Area rear of train bound for Oriental Sports Center at the platform \r\n<br />Line 6 Inside Pay Area head of train bound for Gangcheng Road at the platform \r\n<br />Line 8 Inside Pay Area rear of train bound for Shiguang Road at the platform \r\n<br />Line 11 Inside Pay Area to platforms of lines 6 and 8",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨思西路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"前滩太古里\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨思西路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"耀体路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方体育中心\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"杨思西路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yaoti Rd,Exit 4:Yaoti Rd,Exit 5:Yaoti Rd,Exit 6:Yaoti Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——杨思西路，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，往港城路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅中部，往东方体育中心方向车头（自助）\"}]},{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，8号线站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅中部，8号线站台中部（自助）\"}]},{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——杨思西路，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，6号线往港城路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅中部，6号线往东方体育中心方向车头（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Yaoti Road，Exit 6（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall--Yaoti Road，Exit 3（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Middle of Station Hall，Middle of Platform of Line 8（Self-service）<br />\r\nAccessible Lift 4  Station Hall-Platform--Middle of Station Hall，Middle of Platform of Line 8（Self-service）",
+  "terminal": 1
+ }
+]

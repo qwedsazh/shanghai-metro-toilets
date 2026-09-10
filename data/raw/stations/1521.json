@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1521",
+  "name_cn": "紫竹高新区",
+  "name_en": "Zizhu Hi-tech Park",
+  "pinyin": "zzgxq",
+  "station_code": "4000-ZZGXQ",
+  "lines": "15",
+  "longitude": 121.457375,
+  "latitude": 31.029977,
+  "gao_lng": 121.450957392435,
+  "gao_lat": 31.0236711591514,
+  "x": 0.3855,
+  "y": 0.7585,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"},{\"lineno\":15,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近2号口\"}]}",
+  "toilet_position_en": "inside pay area, the head of a train bound for Gucun Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 广场路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 紫星路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 紫星路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 东川路\",\"memo\":\"R*\",\"id_alias\":\"5号口\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路 东川路\",\"id_alias\":\"6号口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路\",\"id_alias\":\"7号口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲花南路\",\"id_alias\":\"8号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 5: Dongchuan Road South Lianhua Road,    \r\nExit 7:（临时） South Lianhua Road,    \r\nExit 8: South Lianhua Road Dongchuan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近8号口，近8号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator ground-station hall -- near exit 8 near exit 8 (self-service)                                       \r\nNo. 2:Accessible Elevator station hall-platform -- mid-station-hall mid-platform (self-service)",
+  "terminal": 0
+ }
+]

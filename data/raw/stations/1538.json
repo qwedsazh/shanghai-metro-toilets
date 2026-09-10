@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1538",
+  "name_cn": "娄山关路",
+  "name_en": "Loushanguan Road",
+  "pinyin": "lsgl",
+  "station_code": "4002-LSGL",
+  "lines": "2,15",
+  "longitude": 121.406542,
+  "latitude": 31.218867,
+  "gao_lng": 121.399983274189,
+  "gao_lat": 31.2130452988549,
+  "x": 0.3615,
+  "y": 0.3947,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往蟠祥路·国家会计学院方向站台车头\"},{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"},{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 换乘通道内\"}]}",
+  "toilet_position_en": "inside pay area the head of a train bound for Gucun Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"娄山关路 天山路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"娄山关路 天山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"娄山关路 天山路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"天山路 \",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"天山路 古北路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"天山路 古北路\",\"id_alias\":\"6号口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古北路\",\"id_alias\":\"7号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 6: Tianshan Road Gubei Road,    \r\nExit 7: Gubei Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近服务中心，站台东端（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-06\",\"plan_open_date\":\"2024-05-25\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——天山路，1号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-04-09\",\"plan_open_date\":\"2024-04-30\"}]},{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近7号口，近7号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯  站厅-夹层——近5号口换乘通道，近5号口换乘通道（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator ground-station hall -- near exit 7 near exit 7 (self-service),\r\nNo. 2:Accessible Elevator station hall-platform -- mid-station-hall mid-platform (self-service)",
+  "terminal": 0
+ }
+]

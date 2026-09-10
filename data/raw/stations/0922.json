@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "922",
+  "name_cn": "松江大学城",
+  "name_en": "Songjiang University Town",
+  "pinyin": "sjdxc",
+  "station_code": "100-SJDXC",
+  "lines": "9",
+  "longitude": 121.239201,
+  "latitude": 31.060041,
+  "gao_lng": 121.232706810909,
+  "gao_lat": 31.0540971165117,
+  "x": 0.2008,
+  "y": 0.6001,
+  "station_pic": "松江大学城.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外40米\"}]}",
+  "toilet_position_en": "Line 9:Outside of a station  4 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉松南路 广富林路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉松南路 梅家浜路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉松南路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉松南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:South Jiasong Rd Guangfulin Rd,Exit 2:South Jiasong Rd Meijiabang Rd,Exit 3:South Jiasong Rd,Exit 4:South Jiasong Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——嘉松公路东侧，4号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-06-27\",\"plan_open_date\":\"2024-07-03\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:station hall to platform towards Middle Yanggao Road Station,Accessible Lift 2:station hall to platform towards Songjiang Xincheng Station,Accessible Lift 3: outside of Exit 4",
+  "terminal": 0
+ }
+]

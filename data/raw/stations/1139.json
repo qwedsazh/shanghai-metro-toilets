@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1139",
+  "name_cn": "武威路",
+  "name_en": "Wuwei Road",
+  "pinyin": "wwl",
+  "station_code": "400-WWL",
+  "lines": "11",
+  "longitude": 121.371318,
+  "latitude": 31.282825,
+  "gao_lng": 121.364767225666,
+  "gao_lat": 31.2770838384388,
+  "x": 0.3083,
+  "y": 0.2147,
+  "station_pic": "武威路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"永登路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"真南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"真南路 永登路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yongdeng Rd,Exit 2:Zhennan Rd,Exit 4:Zhennan Rd Yongdeng Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-06-23\",\"plan_open_date\":\"2024-07-14\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——真南路，4号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-06-23\",\"plan_open_date\":\"2024-07-14\"}]}]}",
+  "elevator_en": "Accessible Lift 1:center of platform,Accessible Lift 2:outside of Exit 4 to station hall",
+  "terminal": 0
+ }
+]

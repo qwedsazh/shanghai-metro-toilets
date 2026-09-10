@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "420",
+  "name_cn": "塘桥",
+  "name_en": "Tangqiao",
+  "pinyin": "tq",
+  "station_code": "8-TQ",
+  "lines": "4",
+  "longitude": 121.525353,
+  "latitude": 31.215407,
+  "gao_lng": 121.518792243191,
+  "gao_lat": 31.2096055464516,
+  "x": 0.5849,
+  "y": 0.507,
+  "station_pic": "塘桥.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往外圈方向站台车头\"}]}",
+  "toilet_position_en": "Line 4:Pay Zone  Outer front",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南泉路 浦建路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临沂北路 浦建路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦建路 浦东南路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦建路 浦东南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:South Pudong Rd Pujian Rd Tangqiao Middle School,Exit 3:South Pudong Rd Pujian Rd Tangqiao Police Station",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 B1层-站厅-站台——站厅西厅，往外圈方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-B1层——浦建路，4号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  B1—Station Hall-Platform——West Station Hall,Rear End of Platform bound for Shanghai Indoor Stadium（Non Self-service）<br />\r\nAccessible Lift 2  Ground-B1——Pujian Road，Exit 4（Non Self-service）",
+  "terminal": 0
+ }
+]

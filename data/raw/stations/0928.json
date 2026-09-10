@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "928",
+  "name_cn": "七宝",
+  "name_en": "Qibao",
+  "pinyin": "qb",
+  "station_code": "100-QB",
+  "lines": "9",
+  "longitude": 121.356049,
+  "latitude": 31.161393,
+  "gao_lng": 121.349565183767,
+  "gao_lat": 31.1553879924669,
+  "x": 0.2814,
+  "y": 0.5065,
+  "station_pic": "七宝.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往曹路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-09-21\",\"plan_open_date\":\"2024-11-22\"}]}",
+  "toilet_position_en": "Inside Pay Area rear of train bound for Caolu at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 七莘路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 七莘路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 七莘路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Caobao Rd Qixin Rd,Exit 2:Qixin Rd Caobao Rd,Exit 4:Caobao Rd Husong Highway,Exit 5:Caobao Rd Husong Highway,Exit 6:Qixin Rd Caobao Rd,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——漕宝路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:center of station hall to platform,Accessible Lift 2:on the left side of escalator in passage of Exit 1,to outsidenorth of Caobao Road",
+  "terminal": 0
+ }
+]

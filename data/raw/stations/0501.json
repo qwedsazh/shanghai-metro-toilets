@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "501",
+  "name_cn": "莘庄",
+  "name_en": "Xinzhuang",
+  "pinyin": "xz",
+  "station_code": "11-XZ",
+  "lines": "1,5",
+  "longitude": 121.391623,
+  "latitude": 31.116581,
+  "gao_lng": 121.385013640562,
+  "gao_lat": 31.1109271694604,
+  "x": 0.3201,
+  "y": 0.6252,
+  "station_pic": "莘庄.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 北1口公共厕所\"},{\"lineno\":5,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 北1口公共厕所\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  Outside the north entrance",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":\"南1出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"梅陇西路 莘朱路\",\"memo\":\"R*\",\"id_alias\":\"南1出入口\"},{\"id\":\"南2出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"梅陇西路 莘朱路\",\"memo\":\"R*\",\"id_alias\":\"南2出入口\"},{\"id\":\"北1出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莘建东路 水清南路\",\"memo\":\"R*\",\"id_alias\":\"北1出入口\"}]}]}",
+  "entrance_info_en": "South Exit:West Meilong Rd Dushi Rd,North Exit 1:East Xinjian Rd South Shuiqing Rd,North Exit 2:East Xinjian Rd South Shuiqing Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 站厅-站台——站厅东，往富锦路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——南1出口，南广场天桥（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站台-站厅——站厅东，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——北1口，站厅北（自助）\"}]},{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——南1出口，南广场天桥（自助）\"},{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅西管理通道内，往闵行开发区/奉贤新城方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站台-站厅——站厅东，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——北1口，站厅北（自助）\"}]}]}",
+  "elevator_en": "Line 1\r\n1# Inclined lift-Station hall to Platform——the station hall at the east end, at the head of the train bound for Fujin Road at the platform(non self-service)\r\n<br />2# Elevator-Station hall to Platform——at the rear of the train bound for Xinzhuang at the platform, the station hall at the east end(self-service)\r\nLine 5\r\n1# Elevator-Station hall to Platform——the station hall at the west end, at the head of the train bound for Minhang Development Zone at the platform(non self-service)\r\n<br />2# Elevator-Platform to Station hall——at the mid of platform, at the mid of station hall(self-service)\r\n<br />3# Elevator-Ground to Station hall——north exit 2, the station hall at the west end(non self-service)",
+  "terminal": 1
+ }
+]

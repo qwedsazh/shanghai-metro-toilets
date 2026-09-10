@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1829",
+  "name_cn": "莲溪路",
+  "name_en": "Lianxi Road",
+  "pinyin": "lxl",
+  "station_code": "21000-LXL",
+  "lines": "13,18",
+  "longitude": 121.572336,
+  "latitude": 31.175783,
+  "gao_lng": 121.565944549104,
+  "gao_lat": 31.1694401639827,
+  "x": 0.6753,
+  "y": 0.591,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往张江路方向车头\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Line 13 inside pay area train rear in the direction of Jinyun Road<br/>                       Line 18 inside pay area train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 莲溪路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 西中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 莲溪路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 莲溪路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路 高青路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路 高青路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路 绿科路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Luke Road and Lianxi Road,\r\nExit 2: Luke Road and Xizhong Road,\r\nExit 3: Luke Road and Lianxi Road,\r\nExit 4: Luke Road and Lianxi Road,\r\nExit 5: Lianxi Road and Gaoqing Road,\r\nExit 6: Lianxi Road and Gaoqing Road,\r\nExit 7: Lianxi Road and Luke Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近13号线客服中心，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——近18号线客服中心，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——近5号口，近5号口（自助）\"}]}]}",
+  "elevator_en": "Line 13\r\n1#  accessible elevator: inside pay area, station hall-platform -- near customer service center of exit 13, mid platform (self-service)<br/>\r\n2#  accessible elevator: outside pay area, ground-station hall -- near exit 2, near exit 2 (self-service)<br/>\r\n\r\nLine 18\r\n1#  accessible elevator: outside pay area, ground-station hall -- near exit 5, near exit 5 (self-service)<br/>\r\n2#  accessible elevator: inside pay area, station hall-platform -- near customer service center of exit 18, mid platform (self-service)",
+  "terminal": 0
+ }
+]

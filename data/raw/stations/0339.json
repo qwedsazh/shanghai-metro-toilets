@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "339",
+  "name_cn": "江杨北路",
+  "name_en": "North Jiangyang Road",
+  "pinyin": "jybl",
+  "station_code": "4-JYBL",
+  "lines": "3",
+  "longitude": 121.446217,
+  "latitude": 31.414218,
+  "gao_lng": 121.439830492438,
+  "gao_lat": 31.4078587067274,
+  "x": 0.5644,
+  "y": 0.0333,
+  "station_pic": "江杨北路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅靠近1号口\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-11-08\"}]}",
+  "toilet_position_en": "Line 3:Pay Zone  Next to the control room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江杨北路 富锦路 乐业小学\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:North Jiangyang Rd Fujin Rd Leye Primary School",
+  "street_pic": null,
+  "elevator": "",
+  "elevator_en": "",
+  "terminal": 1
+ }
+]

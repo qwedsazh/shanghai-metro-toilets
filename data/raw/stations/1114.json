@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1114",
+  "name_cn": "花桥",
+  "name_en": "Huaqiao",
+  "pinyin": "hq",
+  "station_code": "400-HQ",
+  "lines": "11",
+  "longitude": 121.110706,
+  "latitude": 31.304845,
+  "gao_lng": 121.104251374713,
+  "gao_lat": 31.2987409409136,
+  "x": 0.1655,
+  "y": 0.1875,
+  "station_pic": "花桥.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外副楼1楼\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  On the first floor of the station  Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"光明路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":\"2a号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"光明路 沿沪大道\",\"memo\":\"R*\",\"id_alias\":\"2a号出入口\"},{\"id\":\"2b号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"光明路\",\"memo\":\"R*\",\"id_alias\":\"2b号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Guangming Rd,Exit 2:Guangming Rd Yanhu Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——光明路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯，站厅-站台——近1号口，往花桥方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#是无障碍电梯，站厅-站台——近2b号口，往迪士尼方向站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1/2:From platform to hall,Accessible Lift 3:from ground to hall near Exit 2",
+  "terminal": 1
+ }
+]

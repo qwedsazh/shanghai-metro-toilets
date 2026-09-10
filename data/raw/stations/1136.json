@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1136",
+  "name_cn": "陈翔公路",
+  "name_en": "Chenxiang Highway",
+  "pinyin": "cxgl",
+  "station_code": "400-CXGL",
+  "lines": "11",
+  "longitude": 121.313188,
+  "latitude": 31.312832,
+  "gao_lng": 121.30677233335,
+  "gao_lat": 31.3065561391127,
+  "x": 0.2615,
+  "y": 0.1631,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\"},{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近4号口\"}]}",
+  "toilet_position_en": "Line11:out of the pay area，near exit 3 (in the station hall).\r\nwithin the pay area，near exit 4.",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古猗园路 陈翔公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古猗园路 陈翔公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古猗园路 陈翔公路 公交枢纽\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古猗园路 陈翔公路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "1 Exit:Chenxiang Highway,2 Exit:Chenxiang Highway,3 Exit:Guyiyan Road Chenxiang Highway,4 Exit: Guyiyan Road Chenxiang Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——南侧站厅中部（近2号口），下行（往嘉定北花桥方向）站台尾部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——南侧站厅中部（近3号口），上行（往迪士尼方向）站台头部（自助）\"}]}]}",
+  "elevator_en": "#1 Accessible Elevator: station hall – platform, in the middle of southern station hall (near exit 2) and at the end of the platform (to North Jiading/Huaqiao) respectively, self-service\r\n\r\n#2 Accessible Elevator: station hall – platform, in the middle of southern station hall (near exit 3) and at the front of the platform (to Disney Resort) respectively, self-service",
+  "terminal": 0
+ }
+]

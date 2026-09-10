@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1225",
+  "name_cn": "虹漕路",
+  "name_en": "Hongcao Road",
+  "pinyin": "hcl",
+  "station_code": "800-HCL",
+  "lines": "12",
+  "longitude": 121.41697,
+  "latitude": 31.170066,
+  "gao_lng": 121.410490744977,
+  "gao_lat": 31.164061771866,
+  "x": 0.3407,
+  "y": 0.5594,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往七莘路方向站台车头\"}]}",
+  "toilet_position_en": "outside pay area  exit 2 of station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 虹漕路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 桂箐路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1：Opened\r\nExit 2：Unopened\r\nExit 3：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——漕宝路，近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——3号口，往七莘路方向车头（非自助）\"}]}]}",
+  "elevator_en": "<img alt='' src='/resource/images/12-wuzhangai.png' width='32px' />:Accessible Lift 1：ground - station hall -- Caobao Rd,exit 1(self-help)\r\n<br />Accessible Lift 2：station hall - platform -- near TVM of eixt 1 ,train head of terminal-start line(non-self-help)",
+  "terminal": 0
+ }
+]

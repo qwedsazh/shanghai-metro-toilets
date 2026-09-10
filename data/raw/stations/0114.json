@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "114",
+  "name_cn": "锦江乐园",
+  "name_en": "Jinjiang Park",
+  "pinyin": "jjly",
+  "station_code": "1-JJLY",
+  "lines": "1",
+  "longitude": 121.42068,
+  "latitude": 31.148312,
+  "gao_lng": 121.414202624418,
+  "gao_lat": 31.1422335153031,
+  "x": 0.3569,
+  "y": 0.586,
+  "station_pic": "锦江乐园.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往富锦路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-10-21\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":\"北1出口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂江路 沪闵路 虹梅路\",\"memo\":\"N!\"},{\"id\":\"北2出口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂江路 沪闵路 虹梅路\",\"memo\":\"N!\"}]}]}",
+  "entrance_info_en": "North Exit 1:Humin Rd Shanghai southwest bus station Hong Mei Business Building Jinjiang Action Park,North Exit 2:Guijiang Rd Shanghai southwest bus station Hong Mei Business Building Jinjiang Action Park",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 站厅-站台——站厅，往富锦路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#斜挂梯 站厅-站厅——北1出口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#斜挂梯 地面-站厅——北1出口外（非自助）\"}]}]}",
+  "elevator_en": "Inclined Lift 1  Station Hall-Platform——Station Hall，Front End of Platform bound for Fujin Road（Non Self-service）",
+  "terminal": 0
+ }
+]

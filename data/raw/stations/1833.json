@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1833",
+  "name_cn": "迎春路",
+  "name_en": "Yingchun Road",
+  "pinyin": "ycl",
+  "station_code": "20000-YCL",
+  "lines": "18",
+  "longitude": 121.557684,
+  "latitude": 31.226972,
+  "gao_lng": 121.551250612648,
+  "gao_lat": 31.2206410814463,
+  "x": 0.6765,
+  "y": 0.4775,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Inside pay area train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 迎春路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 锦绣路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"锦绣路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 含笑路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Minsheng Road and Yingchun Road,\r\nExit 2: Minsheng Road and Jinxiu Road,\r\nExit 3: Jinxiu Road,\r\nExit 4: Minsheng Road and Hanxiao Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-地面——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-地面——近3号口，近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站台-站厅——站厅中部（客服中心旁）， 往康文路方向站台中部 （自助）\"}]}]}",
+  "elevator_en": "1# Accessible Elevator: outside pay area, station hall-ground -- near exit 2, near exit 2 (self-service)<br/>\r\n2# Accessible Elevator: outside pay area,station hall-ground -- near exit 3, near exit 3 (self-service)<br/>\r\n3# Accessible Elevator: inside pay area, platform-station hall -- mid station hall (near customer service center), mid platform in the direction of South Changjiang Road (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "421",
+  "name_cn": "南浦大桥",
+  "name_en": "Nanpu Bridge",
+  "pinyin": "npdq",
+  "station_code": "8-NPDQ",
+  "lines": "4",
+  "longitude": 121.506336,
+  "latitude": 31.214285,
+  "gao_lng": 121.499734235896,
+  "gao_lat": 31.2086473945202,
+  "x": 0.5543,
+  "y": 0.5068,
+  "station_pic": "南浦大桥.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往外圈方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-11-21\"}]}",
+  "toilet_position_en": "Inside Pay Area head of train bound for inner ring (clockwise) at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"公交枢纽\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国货路 中山南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Guohuo Rd Nanpu Mansion Shanghai No.8 High School,Exit 3:South Zhongshan Rd Technology College of Shanghai Jiao Tong University",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——国货路中山南路（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Guomao Road & South Zhongshan Road（Non Self-service）",
+  "terminal": 0
+ }
+]

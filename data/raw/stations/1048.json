@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1048",
+  "name_cn": "宋园路",
+  "name_en": "Songyuan Road",
+  "pinyin": "syl",
+  "station_code": "200-SYL",
+  "lines": "10",
+  "longitude": 121.418434,
+  "latitude": 31.202693,
+  "gao_lng": 121.411946798503,
+  "gao_lat": 31.1966570365669,
+  "x": 0.3809,
+  "y": 0.4459,
+  "station_pic": "宋园路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往虹桥火车站/航中路方向\",\"status\":1,\"plan_close_date\":\"2025-09-22\",\"plan_open_date\":\"2025-12-01\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹桥路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹桥路 宋园路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hongqiao Rd,2 Hongqiao Rd Songyuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——虹桥路宋园路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1public area of station hall near Exit 1 to ground,Accessible Lift 2:center of station hall to platform,Accessible Lift 3: west of station hall to platform",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1527",
+  "name_cn": "虹梅南路",
+  "name_en": "South Hongmei Road",
+  "pinyin": "hmnl",
+  "station_code": "4000-HMNL",
+  "lines": "15",
+  "longitude": 121.439866,
+  "latitude": 31.110175,
+  "gao_lng": 121.433435258698,
+  "gao_lat": 31.1038277236065,
+  "x": 0.4074,
+  "y": 0.6762,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"}]}",
+  "toilet_position_en": "inside pay area, the head of a train bound for Gucun Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"银都路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"银都路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹梅南路 银都路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Yindu Road,    \r\nExit 2: Yindu Road,    \r\nExit 4: South Hongmei Road Yindu Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator ground-station hall -- near exit 4 near exit 4 (self-service),                                       \r\nNo. 2:Accessible Elevator station hall-platform -- mid-station-hall mid-platform (self-service)",
+  "terminal": 0
+ }
+]

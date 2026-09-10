@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1841",
+  "name_cn": "抚顺路",
+  "name_en": "Fushun Road ",
+  "pinyin": "fsl",
+  "station_code": "20000-FSL",
+  "lines": "18",
+  "longitude": 121.522246,
+  "latitude": 31.289745,
+  "gao_lng": 121.515700617948,
+  "gao_lat": 31.2839972322545,
+  "x": 0.6309,
+  "y": 0.2727,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头\"}]}",
+  "toilet_position_en": "Inside pay area train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 抚顺路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 中山北二路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Jiangpu Road and Fushun Road,\r\nExit 2: Jiangpu Road and North No. 2 Zhongshan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——客服中心背面，往康文路方向站台中部（自助）\"}]}]}",
+  "elevator_en": "1# Accessible Elevator: outside pay area, ground-station hall -- near exit 2, near exit 2 (self-service)<br />\r\n2# Accessible Elevator: inside pay area,station hall-platform -- back of customer service center, mid platform in the direction of South Changjiang Road (self-service)",
+  "terminal": 0
+ }
+]

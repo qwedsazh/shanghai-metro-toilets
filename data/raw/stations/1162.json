@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1162",
+  "name_cn": "康新公路",
+  "name_en": "Kangxin Highway",
+  "pinyin": "kxgl",
+  "station_code": "400-KXGL",
+  "lines": "11",
+  "longitude": 121.62383,
+  "latitude": 31.136033,
+  "gao_lng": 121.617227861844,
+  "gao_lat": 31.1303918199417,
+  "x": 0.7349,
+  "y": 0.6911,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近西端客服中心\",\"status\":1,\"plan_close_date\":\"2024-09-15\",\"plan_open_date\":\"2024-11-07\"}]}",
+  "toilet_position_en": "inside pay area   near west Control Room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀浦路 康新公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀浦路 康新公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1：Unopened\r\nExit 2：Unopened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往迪士尼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往嘉定北/花桥方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——1号口，康新公路秀浦路（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——2号口，秀浦路（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1：ground - station hall -- Xiupu Rd，outside exit 1（self-help）\r\n<br />Accessible Lift 2：ground - station hall -- Xiupu Rd，outside exit 2（self-help）\r\n<br />Accessible Lift 3：station hall - platform -- mid of station hall，platform mid of start-terminal line（self-help）\r\n<br />Accessible Lift 4：station hall - platform -- mid of station hall，platform mid of terminal-start line（self-help）",
+  "terminal": 0
+ }
+]

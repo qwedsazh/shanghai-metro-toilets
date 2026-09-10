@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1064",
+  "name_cn": "五角场",
+  "name_en": "Wujiaochang",
+  "pinyin": "wjc",
+  "station_code": "200-WJC",
+  "lines": "10",
+  "longitude": 121.521191,
+  "latitude": 31.303805,
+  "gao_lng": 121.51464131455,
+  "gao_lat": 31.2980714858441,
+  "x": 0.6195,
+  "y": 0.2443,
+  "station_pic": "五角场.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 10号线往基隆路方向站台尾部\"},{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"四平路 黄兴路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"四平路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"四平路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"四平路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Siping Rd Huangxing Rd,Exit 3:Siping Rd,Exit 4:Siping Rd,Exit 5:Siping Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——四平路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅近4号口费区内（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:outside of Exit 3 to station hall,Accessible Lift 2:the middle of platform to station hall",
+  "terminal": 0
+ }
+]

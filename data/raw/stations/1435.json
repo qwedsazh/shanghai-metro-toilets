@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1435",
+  "name_cn": "一大会址·黄陂南路",
+  "name_en": "Site of the First CPC National Congress·South Huangpi Road",
+  "pinyin": "ydhz· hpnl",
+  "station_code": "2001-HPNL",
+  "lines": "1,14",
+  "longitude": 121.478484,
+  "latitude": 31.229555,
+  "gao_lng": 121.471956008976,
+  "gao_lat": 31.2235880900096,
+  "x": 0.524,
+  "y": 0.4176,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往富锦路方向站台车头\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往桂桥路方向车尾\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"}]}",
+  "toilet_position_en": "Line 1:Pay Zone  Xinzhuang direction to the front of the platform,\r\nLine 14:Inside pay area  train head in the direction of Fengbang，\r\nInside pay area  train rear in the direction of Guiqiao Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淡水路 淮海中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"黄陂南路 淮海中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金陵西路 马当路 淮海中路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金陵西路 宁海西路 连云路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金陵中路 黄陂南路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金陵西路 马当路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"重庆中路 长乐路 淡水路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Danshui Road  Mid Huaihai Road,\r\nExit 2: South Huangpi Road  Mid Huaihai Road,\r\nExit 3: West Jinling Road Madang Road  Mid Huaihai Road,\r\nExit 4: West Jinling Road West Ninghai Road  Lianyun Road,\r\nExit 5: Mid Jinling Road  South Huangpi Road,\r\nExit 6: West Jinling Road  Madang Road,\r\nExit 7: Mid Chongqing Road Changle Road  Danshui Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 地面-站厅——3号口，马当路（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口，办公区域内，往富锦路方向车头（非自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-地面——近7号口，近7号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近6号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助） \"}]}]}",
+  "elevator_en": "Line 1 Inclined Lift 1  Ground-Station Hall——Madang Road（Non Self-service）\r\n<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 2，Office Area，Front End of Platform bound for Fujin Road（Non Self-service）<br />\r\nLine 14\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 7: near exit 7 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- near Exit 6: mid platform (self-service)<br/>\r\n3#accessible elevator: inside pay area, station hall-platform -- near Exit 6: mid platform (self-service)",
+  "terminal": 0
+ }
+]

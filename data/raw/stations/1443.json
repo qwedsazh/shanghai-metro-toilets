@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1443",
+  "name_cn": "歇浦路",
+  "name_en": "Xiepu Road",
+  "pinyin": "xpl",
+  "station_code": "2000-XPL",
+  "lines": "14",
+  "longitude": 121.557881,
+  "latitude": 31.256882,
+  "gao_lng": 121.551456465896,
+  "gao_lat": 31.2505515647267,
+  "x": 0.6961,
+  "y": 0.3658,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车尾\"}]}",
+  "toilet_position_en": "Line 14:Inside pay area train rear in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 罗山路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 罗山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\" 浦东大道 罗山路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1 Luoshan Road  Pudong Avenue,\r\nExit 2 Luoshan Road  Pudong Avenue,\r\nExit 4 Luoshan Road  Pudong Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "1#accessible elevator: outside pay area, ground-station hall -- near Exit 4: near exit 4 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- mid station hall, mid platform (self-service)",
+  "terminal": 0
+ }
+]

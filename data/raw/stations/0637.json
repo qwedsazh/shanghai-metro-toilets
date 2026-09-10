@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "637",
+  "name_cn": "云山路",
+  "name_en": "Yunshan Road",
+  "pinyin": "ysl",
+  "station_code": "2020-YSL",
+  "lines": "6,14",
+  "longitude": 121.579314,
+  "latitude": 31.256659,
+  "gao_lng": 121.572878329103,
+  "gao_lat": 31.2503709992685,
+  "x": 0.7278,
+  "y": 0.3642,
+  "station_pic": "云山路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近站厅2号口处\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"}]}",
+  "toilet_position_en": "Line 6:Inside pay area  Near entrance 2 of station hall,\r\nLine 14:Inside pay area  train head in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金口路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"云山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"云山路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金口路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨路 云山路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨路 云山路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"云山路 博山东路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"云山路 博山东路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Jinkou Road，\r\nExit 2: Yunshan Road，\r\nExit 3: Yunshan Road，\r\nExit 4: Jinkou Road，\r\nExit 5: Zhangyang Road  Yunshan Road，\r\nExit 6: Zhangyang Road  Yunshan Road，\r\nExit 7: Yunshan Road  East Boshan Road，\r\nExit 8: Yunshan Road  East Boshan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——张杨路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅通道旁，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅通道旁，站台中部（自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近8号口，近8号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 换乘通道-换乘通道——近14号线站厅，近6号线站厅（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Line 6 Accessible Lift 1 Ground-Station Hall--Zhangyang Road & Yuanshen Road，between Exit 2 and Exit 3（Self-service）<br/>\r\nAccessible Lift 2 Station Hall-Platform--near the Staircase of Platform bound for Oriental Sports Center（Self-service）<br/>\r\nAccessible Lift 3 Station Hall-Platform--near the Staircase of Platform bound for Gangcheng Road（Self-service）<br/>\r\nLine 14\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 8: near exit 8 (self-service)<br/>\r\n2#accessible elevator: inside pay area, transfer passageway-transfer passageway -- near station hall of line 14, near station hall of line 6 (self-service)<br/>\r\n3#accessible elevator: inside pay area, station hall-platform -- mid station hall, mid platform (self-service)",
+  "terminal": 0
+ }
+]

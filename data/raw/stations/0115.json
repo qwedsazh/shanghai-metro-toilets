@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "115",
+  "name_cn": "上海南站",
+  "name_en": "Shanghai South Railway Station",
+  "pinyin": "shnz",
+  "station_code": "4005-SHNZ",
+  "lines": "1,3,15",
+  "longitude": 121.436708,
+  "latitude": 31.160405,
+  "gao_lng": 121.430302710382,
+  "gao_lat": 31.154090953287,
+  "x": 0.3732,
+  "y": 0.5724,
+  "station_pic": "上海南站.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至换乘15号线大厅\"},{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往上海南站方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2025-11-21\"},{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往紫竹高新区方向车头\"}]}",
+  "toilet_position_en": "Line 1 Inside Pay Area head of train bound for Fujin Road at the platform\r\n<br />Line 3 Inside Pay Area rear of train bound for Shanghai South Railway Station at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石龙路 龙川北路 柳州路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路上海南站南广场 石龙路 长途客运汽车南站 铁路上海南站\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路上海南站南广场 铁路上海南站（只进不出）\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路（只进不出）\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路（只进不出）\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路 铁路上海南站北广场 金山铁路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路 北广场公交站\",\"memo\":\"R*\",\"id_alias\":\"7号出入口\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"柳州路\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"柳州路 南宁路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Shilong Rd Shanghai Long-Distance Passenger Transport South Station,Exit 2:Shilong Rd,Exit 3:Shilong Rd,Exit 4:Shanghai South Railway Station North Square,Exit 5:Humin Rd North Dongli 1st Rd Shanghai South Railway Station Shanghai Long-Distance Passenger Transport South Station,Exit 6:Liuzhou Rd Shanghai South Railway Station Shanghai Long-Distance Passenger Transport South Station",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——6号口，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#直升电梯 站厅-站台——4号口，费区内（自助）\"}]},{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——西站厅（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#斜挂梯 站厅-地面——南广场1号口（非自助）\"}]},{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Shanghai South Railway Station North Square，Exit 6，Front End of Platform bound for Fujin Road（Non Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 4，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

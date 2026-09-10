@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1047",
+  "name_cn": "伊犁路",
+  "name_en": "Yili Road",
+  "pinyin": "yll",
+  "station_code": "200-YLL",
+  "lines": "10",
+  "longitude": 121.410671,
+  "latitude": 31.204634,
+  "gao_lng": 121.404144259649,
+  "gao_lat": 31.1987437977213,
+  "x": 0.3723,
+  "y": 0.4421,
+  "station_pic": "伊犁路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹桥路 伊犁路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹桥路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"虹桥路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hongqiao Rd Yili Rd,Exit 3:Japan Takashima House,Exit 4:Hongqiao Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——虹桥路，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 4 to ground,Accessible Lift 2:center of station hall to platform",
+  "terminal": 0
+ }
+]

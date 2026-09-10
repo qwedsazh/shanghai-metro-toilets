@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1068",
+  "name_cn": "新江湾城",
+  "name_en": "Xinjiangwancheng",
+  "pinyin": "xjwc",
+  "station_code": "200-XJWC",
+  "lines": "10",
+  "longitude": 121.513188,
+  "latitude": 31.334451,
+  "gao_lng": 121.506591425468,
+  "gao_lat": 31.3287912590652,
+  "x": 0.6321,
+  "y": 0.1741,
+  "station_pic": "新江湾城.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近2号口\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"殷行路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路 殷行路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路 殷行路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路 殷行路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Husong Rd Yinhang Rd,Exit 2:Husong Rd Yinhang Rd,Exit 5:Husong Rd ,Exit 6:Husong Rd Yinhang Rd,Exit 7:Husong Rd Yinhang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站台——淞沪路殷行路，6号口，往虹桥火车站/航中路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅近1号口（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:Exit 1 of platform to station hall and ground",
+  "terminal": 1
+ }
+]

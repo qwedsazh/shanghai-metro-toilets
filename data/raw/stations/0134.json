@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "134",
+  "name_cn": "呼兰路",
+  "name_en": "Hulan Road",
+  "pinyin": "hll",
+  "station_code": "20001-HLL",
+  "lines": "1,18",
+  "longitude": 121.444185,
+  "latitude": 31.345991,
+  "gao_lng": 121.437761563118,
+  "gao_lat": 31.3396250329413,
+  "x": 0.5,
+  "y": 0.1505,
+  "station_pic": "呼兰路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 2号口外公共厕所\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰路 呼玛路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"纪蕰路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰西路 纪蕰路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰西路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰西路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰西路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"呼兰西路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Gonghexin Rd Hulan Rd,Exit 2:Gonghexin Rd Hulan Rd,Exit 3:Gonghexin Rd Nanwenzao Rd,Exit 4:Gonghexin Rd near West Hulan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅无障碍电梯——靠近2号口\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台无障碍电梯——富锦路方向车头\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台无障碍电梯——富锦路方向车尾\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台无障碍电梯——莘庄方向车头\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 站厅-站台无障碍电梯——莘庄方向车尾\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台无障碍电梯——站厅中部，站台中部\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 18换乘通道-地面站厅无障碍电梯——靠近3/4号口\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯  地面站厅-2F换乘厅无障碍电梯——靠近3/4号口\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯  18换乘通道-地面站厅-2F换乘厅无障碍电梯——靠近7/8号口\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall——Gonghexin Road & Hulan Road，Exit 2（Self-service）\r\n<br/>\r\nAccessible Lift 2  Ground-Station Hall——Jiyun Road，Exit 3（Self-service）\r\n\r\n,\r\n<img src='/resource/images/1-zhishengpingtai.png' width='32px' />:\r\nLift Platform 3  Station Hall-Platform——Exit 2，Rear End of Platform bound for Fujin Road（Non Self-service）\r\n<br/>\r\nLift Platform 4  Station Hall-Platform——Exit 3，Front End of Platform bound for Xinzhuang（Non Self-service）",
+  "terminal": 0
+ }
+]

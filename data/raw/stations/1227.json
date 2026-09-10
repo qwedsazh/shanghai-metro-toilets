@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1227",
+  "name_cn": "漕宝路",
+  "name_en": "Caobao Road",
+  "pinyin": "cbl",
+  "station_code": "801-CBL",
+  "lines": "1,12",
+  "longitude": 121.441431,
+  "latitude": 31.174651,
+  "gao_lng": 121.43504055506,
+  "gao_lat": 31.1683044111734,
+  "x": 0.3841,
+  "y": 0.5612,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外第八人民医院\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近8号口\"}]}",
+  "toilet_position_en": "outside pay area  exit 8 of station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 沪闵路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪路 龙漕路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 漕东支路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 三江路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 漕溪路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 6：Opened\r\nExit 7：Unopened\r\nExit 8：Opened\r\nExit 9：Opened\r\nExit 10：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 地面-站厅——龙漕路，3号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#升降平台 站厅-站台——2号口，往富锦路方向车头（非自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 换乘通道-站厅——1号线换乘通道，站厅东端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 换乘通道-站厅——1号线换乘通道中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——西办公区域，往金海路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 平台-站厅——近8号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 平台-地面——近8号口（自助）\"}]}]}",
+  "elevator_en": "<img alt='' src='/resource/images/12-wuzhangai.png' width='32px' />:Accessible Lift 1：platform - west equipment floor - west office -- west end of station hall(non-self-help)\r\n<br />Accessible Lift 2：west station hall - west development floor - west interlayer  --  west end of station hall(self-help)\r\n<br />Accessible Lift 3：west interlayer - ground -- Caobao Rd，within SML Center，west end of station hall（non-self-help）\r\n<br />Accessible Lift 4：upper layer of passage for transfer - lower layer of passage for transfer -- east of station hall（self-help）\r\n<br />Accessible Lift 5：north station hall of line 1 - passage for transfer -- east of station hall（self-help）",
+  "terminal": 0
+ }
+]

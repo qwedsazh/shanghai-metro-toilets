@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "131",
+  "name_cn": "彭浦新村",
+  "name_en": "Pengpu Xincun",
+  "pinyin": "ppxc",
+  "station_code": "1-PPXC",
+  "lines": "1",
+  "longitude": 121.455097,
+  "latitude": 31.312943,
+  "gao_lng": 121.44869379751,
+  "gao_lat": 31.3066181009666,
+  "x": 0.5,
+  "y": 0.2207,
+  "station_pic": "彭浦新村.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 4号口外楼梯旁公共厕所\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  4 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"场中路 闻喜路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"场中路 闻喜路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"场中路 闻喜路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"场中路 闻喜路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Changzhong Rd Wenxi Rd,Exit 2:Changzhong Rd Wenxi Rd,Exit 3:Changzhong Rd Wenxi Rd,Exit 4:Changzhong Rd Wenxi Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——共和新路场中路，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——共和新路场中路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#升降平台 站厅-站台——2号口，往富锦路方向车尾（非自助）\",\"status\":1,\"plan_close_date\":\"2025-09-23\",\"plan_open_date\":\"2025-09-28\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#升降平台 站厅-站台——3号口，往莘庄方向车头（非自助）\",\"status\":1,\"plan_close_date\":\"2025-09-12\",\"plan_open_date\":\"2025-09-18\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall——Gonghexin Road & Changzhong Road，Exit 2（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall——Gonghexin Road & Changzhong Road，Exit 3（Self-service）\r\nLift Platform 3  Station Hall-Platform——Exit 2，Rear End of Platform bound for Fujin Road（Non Self-service）\r\nLift Platform 4  Station Hall-Platform——Exit 3，Front End of Platform bound for Xinzhuang（Non Self-service）",
+  "terminal": 0
+ }
+]

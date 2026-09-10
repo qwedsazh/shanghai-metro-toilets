@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1722",
+  "name_cn": "国家会展中心",
+  "name_en": "National Exhibition and Convention Center",
+  "pinyin": "gjhzzx",
+  "station_code": "10000-GJHZZX",
+  "lines": "17",
+  "longitude": 121.300251,
+  "latitude": 31.198468,
+  "gao_lng": 121.29377670329,
+  "gao_lat": 31.1923989055303,
+  "x": 0.2299,
+  "y": 0.4101,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往西岑方向车尾\"}]}",
+  "toilet_position_en": "in pay area rear of train bound for Oriental Land",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":15,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"诸光路\",\"id_alias\":\"15号出入口\",\"memo\":\"R*\"},{\"id\":16,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"蟠秀路\",\"id_alias\":\"16号出入口\",\"memo\":\"R*\"},{\"id\":\"隐藏17\",\"status\":-5,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"崧泽大道\",\"memo\":\"N!\",\"id_alias\":\"\"}]}]}",
+  "entrance_info_en": "Exit 1:Songze Avenue,Exit 2:Zhuguang Road,Exit3:Panxiu Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近16号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往虹桥火车站方向站台中部，站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——near exit 3（self-service）\r\n<br />2#Elevator-Station Hall to Platform——middle of the platform for train bound for Hongqiao Railway Station,middle of station hall（self-service）",
+  "terminal": 0
+ }
+]

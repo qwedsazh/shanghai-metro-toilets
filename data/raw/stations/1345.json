@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1345",
+  "name_cn": "北蔡",
+  "name_en": "Beicai",
+  "pinyin": "bc",
+  "station_code": "1000-BC",
+  "lines": "13",
+  "longitude": 121.558756,
+  "latitude": 31.186604,
+  "gao_lng": 121.552358419173,
+  "gao_lat": 31.1802731341947,
+  "x": 0.6395,
+  "y": 0.5928,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金运路方向车尾\"}]}",
+  "toilet_position_en": "Inside the pay-area,\r\nnear the rear of the train bound for Jinyun Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"成山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"成山路 莲安西路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2: Chengshan Road\r\nExit 3: Chengshan Road, West Lian’an Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站台中部,站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near Exit 2 (self-service)\r\n<br />2#elevator: from the station hall to the platform; at the central platform (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "404",
+  "name_cn": "延安西路",
+  "name_en": "West Yan'an Road",
+  "pinyin": "yaxl",
+  "station_code": "C-YAXL",
+  "lines": "3,4",
+  "longitude": 121.423584,
+  "latitude": 31.215865,
+  "gao_lng": 121.417108371562,
+  "gao_lat": 31.2097305106371,
+  "x": 0.3935,
+  "y": 0.4178,
+  "station_pic": "延安西路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 1楼地面，近2号口\",\"status\":1,\"plan_close_date\":\"2025-12-30\",\"plan_open_date\":\"2026-06-01\"},{\"lineno\":4,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 近2号口\",\"status\":1,\"plan_close_date\":\"2025-12-30\",\"plan_open_date\":\"2026-06-01\"}]}",
+  "toilet_position_en": "Line 3 Outside Pay Area near exit 2 (Lines 3 and 4 sharing the same line)",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路 武夷路 定西路 中山西路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路 延安西路 定西路 中山西路 仙霞路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dingxi Rd West Zhongshan Rd Zhaohua Rd Wuyi Rd Wuyi Garden Shanghai Kaiyuan School,Exit 2:Dingxi Rd West Zhongshan Rd Xianxia Rd Tianshan Park Long Feng Building",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——2号口站厅层，往上海南站方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口站厅层，往江杨北路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅--延安西路凯旋路，2号口站厅（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——2号口站厅层，往外圈方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口站厅层，往内圈方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅--延安西路凯旋路，2号口站厅（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——West Yan'an Road & Kaixun Road，Exit 2，Rear End of Platform bound for Yishan Road（Non Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall-Platform——West Yan'an Road & Kaixun Road，Exit 2，Front End of Platform bound for Shanghai Indoor Stadium（Non Self-service）",
+  "terminal": 0
+ }
+]

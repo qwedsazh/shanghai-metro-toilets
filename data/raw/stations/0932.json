@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "932",
+  "name_cn": "桂林路",
+  "name_en": "Guilin Road",
+  "pinyin": "gll",
+  "station_code": "4100-GLL",
+  "lines": "9,15",
+  "longitude": 121.424982,
+  "latitude": 31.181001,
+  "gao_lng": 121.418540895206,
+  "gao_lat": 31.1748492981251,
+  "x": 0.362,
+  "y": 0.5045,
+  "station_pic": "桂林路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近5号口\"},{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往顾村公园方向车头\"}]}",
+  "toilet_position_en": "Line 9:Pay Zone  The station hall central platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"柳州路 宜山路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路 宜山路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路 宜山路\",\"id_alias\":\"6号口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路 宜山路\",\"id_alias\":\"7号口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路\",\"id_alias\":\"8号口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路 钦江路\",\"id_alias\":\"9号口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"钦江路\",\"id_alias\":\"10号口\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路\",\"id_alias\":\"11号口\",\"memo\":\"R*\"},{\"id\":12,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路 钦州北路\",\"id_alias\":\"12号口\",\"memo\":\"R*\"},{\"id\":13,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"桂林路\",\"id_alias\":\"13号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yishan Rd Liuzhou Rd,Exit 4:Yishan Rd Guilin Rd,Exit 5:Yishan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——宜山路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近8号口，近7号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近10号口，近10号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅近换乘通道（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:on the right side of Exit 1outside to station hall,Accessible Lift 2:center of station hall to the middle of platformtowards Songjiang Xincheng Station,Accessible Lift 3: center of station hall to the middle of platformtowards Middle Yan",
+  "terminal": 0
+ }
+]

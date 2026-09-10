@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1018",
+  "name_cn": "航中路",
+  "name_en": "Hangzhong Road",
+  "pinyin": "hzl",
+  "station_code": "200-HZL",
+  "lines": "10",
+  "longitude": 121.361249,
+  "latitude": 31.171619,
+  "gao_lng": 121.35474485412,
+  "gao_lat": 31.1657134416779,
+  "x": 0.2925,
+  "y": 0.4785,
+  "station_pic": "航中路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近5号口\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 5",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴中路 新镇路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"航中路 吴中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"新镇路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴中路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴中路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Wuzhong Rd Hangzhong Rd,Exit 2:Wuzhong Rd Hangzhong Rd,Exit 4:Wuzhong Rd Xinzhen Rd,Exit 5:Wuzhong Rd Xinzhen Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——吴中路，5号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——5号口，往基隆路方向车头（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:outside of Exit 5east of Xinzhen Roadoutside to station hall,Accessible Lift 2:east of station hall to platform,Accessible Lift 3: east of station hall to platform",
+  "terminal": 1
+ }
+]

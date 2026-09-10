@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "259",
+  "name_cn": "川沙",
+  "name_en": "Chuansha",
+  "pinyin": "cs",
+  "station_code": "2-CS",
+  "lines": "2",
+  "longitude": 121.704499,
+  "latitude": 31.192886,
+  "gao_lng": 121.698066279434,
+  "gao_lat": 31.1866745350596,
+  "x": 0.8353,
+  "y": 0.5648,
+  "station_pic": "川沙.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口\"},{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅中部\"}]}",
+  "toilet_position_en": "Line 2:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川沙路 川环南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川环南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川环南路 华戴路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Chuansha RD South Chuanhuan RD,Exit 2:South Chuanhuan RD",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅东端，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅东端，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——川环南路，1号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——East of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——East of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall——South Chuanhuan Road，Exit 1（Self-service）",
+  "terminal": 0
+ }
+]

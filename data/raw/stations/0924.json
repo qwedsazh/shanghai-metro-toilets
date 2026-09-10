@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "924",
+  "name_cn": "佘山",
+  "name_en": "Sheshan",
+  "pinyin": "ss",
+  "station_code": "100-SS",
+  "lines": "9",
+  "longitude": 121.236257,
+  "latitude": 31.110609,
+  "gao_lng": 121.229739581401,
+  "gao_lat": 31.1045995989369,
+  "x": 0.209,
+  "y": 0.5499,
+  "station_pic": "佘山.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外100米\"}]}",
+  "toilet_position_en": "Line 9:Outside of a station  2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉松南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古楼公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Jiasong Highway,Exit 2:Gulou Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——1、2号口中间，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:center of station hall",
+  "terminal": 0
+ }
+]

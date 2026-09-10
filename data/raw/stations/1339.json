@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1339",
+  "name_cn": "世博大道",
+  "name_en": "Shibo Avenue",
+  "pinyin": "sbdd",
+  "station_code": "1000-SBDD",
+  "lines": "13",
+  "longitude": 121.490937,
+  "latitude": 31.18823,
+  "gao_lng": 121.484388364674,
+  "gao_lat": 31.1824839868814,
+  "x": 0.5155,
+  "y": 0.5546,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\"}]}",
+  "toilet_position_en": "outside pay area  near exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"博成路 长清北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国展路 长清北路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国展路 长清北路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"博成路 长清北路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1：Unopened\r\nExit 2：Unopened\r\nExit 3：Opened\r\nExit 4：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台—费区内站厅西侧，往张江路方向中间（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台—费区内站厅西东侧，往金运路方向中间（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅—长清北路，3号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1：ground - station hall -- North Changqing Rd，exit 3（self-help）\r\n<br />Accessible Lift 2：station hall - platform -- west of station hall inside pay area，platform mid of start-terminal line（self-help）\r\n<br />Accessible Lift 3：station hall - platform -- east of station hall inside pay area，platform mid of terminal-start line（self-help）",
+  "terminal": 0
+ }
+]

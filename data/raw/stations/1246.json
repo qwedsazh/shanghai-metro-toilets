@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1246",
+  "name_cn": "东陆路",
+  "name_en": "Donglu Road",
+  "pinyin": "dll",
+  "station_code": "800-DLUL",
+  "lines": "12",
+  "longitude": 121.585248,
+  "latitude": 31.288712,
+  "gao_lng": 121.578818123134,
+  "gao_lat": 31.2825139568409,
+  "x": 0.7128,
+  "y": 0.2986,
+  "station_pic": "东陆路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "Near Exit 1(Station Outside)",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东陆路 兴运路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东陆路 利津路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东陆路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Donglu Rd Xingyun Rd,Exit 2:Donglu Rd,Exit 3:Donglu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——办公区域旁，往七莘路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——东陆路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 2 to ground,Accessible Lift 2:platform to station hall near Exit 3",
+  "terminal": 0
+ }
+]

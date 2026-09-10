@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1117",
+  "name_cn": "安亭",
+  "name_en": "Anting",
+  "pinyin": "at",
+  "station_code": "400-AT",
+  "lines": "11",
+  "longitude": 121.168602,
+  "latitude": 31.294335,
+  "gao_lng": 121.162083571281,
+  "gao_lat": 31.2884860493288,
+  "x": 0.1973,
+  "y": 0.1685,
+  "station_pic": "安亭.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 地面层近1号口\"}]}",
+  "toilet_position_en": "Line 11:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"墨玉路 曹安公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉亭荟购物中心\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"嘉亭荟购物中心\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹安公路 新源路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Moyu Rd Cao'an Highway,Exit 4:Cao'an Highway Xinyuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——1号口，楼梯下通道内（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:the middle of platform",
+  "terminal": 0
+ }
+]

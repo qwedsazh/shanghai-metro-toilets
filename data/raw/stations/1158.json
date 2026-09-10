@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1158",
+  "name_cn": "康恒路",
+  "name_en": "Kangheng Road",
+  "pinyin": "khl",
+  "station_code": "400-KHL",
+  "lines": "11",
+  "longitude": 121.560513,
+  "latitude": 31.160803,
+  "gao_lng": 121.554055,
+  "gao_lat": 31.154458,
+  "x": 0.588,
+  "y": 0.6544,
+  "station_pic": "康恒路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"站厅近1号口\"},{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"站台往迪士尼方向车头(女厕)\"},{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"站台往花桥嘉定北方向车尾 (男厕)\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"御桥路 康恒路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\" 御桥路 康恒路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\" 御桥路 康恒路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\" 御桥路 康意路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅近客服中心，站台迪士尼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——御桥路 康恒路，3号口（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

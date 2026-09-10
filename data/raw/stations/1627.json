@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1627",
+  "name_cn": "新场",
+  "name_en": "Xinchang",
+  "pinyin": "xc",
+  "station_code": "8000-XC",
+  "lines": "16",
+  "longitude": 121.655259,
+  "latitude": 31.051489,
+  "gao_lng": 121.648771793208,
+  "gao_lat": 31.0455175053128,
+  "x": 0.7003,
+  "y": 0.7546,
+  "station_pic": "新场.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":16,\"icon1\":\"t_os.png\",\"icon2\":\"w_o.png\",\"description\":\"车站外 近1号口地面\"}]}",
+  "toilet_position_en": "Outside Pay Area near exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"航三路 申江南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"航三路 申江南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hangsan Highway South Shenjiang Rd,Exit 2:Hangsan Highway South Shenjiang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——航三路，2号口（自助）\",\"status\":1,\"plan_close_date\":\"2025-09-10\",\"plan_open_date\":\"2025-10-10\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——航三路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅近1号口闸机，往滴水湖方向站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-09-16\",\"plan_open_date\":\"2024-09-30\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——站厅近2号口闸机，往龙阳路方向站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 1 to ground,Accessible Lift 2:public area of station hall near Exit 2 to ground,Accessible Lift 3:East Hall platform to station hall,Accessible Lift 4:East Hall platform to station hall",
+  "terminal": 0
+ }
+]

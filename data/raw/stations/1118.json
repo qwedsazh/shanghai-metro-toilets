@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1118",
+  "name_cn": "上海汽车城",
+  "name_en": "Shanghai Automobile City",
+  "pinyin": "shqcc",
+  "station_code": "400-SHQCC",
+  "lines": "11",
+  "longitude": 121.18725,
+  "latitude": 31.291581,
+  "gao_lng": 121.180818932158,
+  "gao_lat": 31.2853918748043,
+  "x": 0.2015,
+  "y": 0.1595,
+  "station_pic": "上海汽车城.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往迪士尼方向站台车头、往花桥方向站台车尾\"}]}",
+  "toilet_position_en": "Inside Pay Area, head of train bound for Disney Resort at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹安公路 安谐路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"安驰路 安谐路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"安驰路 安悦路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹安公路 安悦路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Cao'an Highway,Exit 2:Anchi Rd,Exit 3:Anchi Rd Anyue Rd,Exit 4:Cao'an Highway Anyue Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-03-20\",\"plan_open_date\":\"2024-04-11\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-03-20\",\"plan_open_date\":\"2024-04-11\"}]}]}",
+  "elevator_en": "Accessible Lift 1:the middle of platform towards Jiangsu Road Station,Accessible Lift 2:the middle of platform towards Anting Station",
+  "terminal": 0
+ }
+]

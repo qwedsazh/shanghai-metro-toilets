@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "938",
+  "name_cn": "马当路",
+  "name_en": "Madang Road",
+  "pinyin": "mdl",
+  "station_code": "1100-MDL",
+  "lines": "9,13",
+  "longitude": 121.48331,
+  "latitude": 31.215357,
+  "gao_lng": 121.476768202581,
+  "gao_lat": 31.2094818672014,
+  "x": 0.5164,
+  "y": 0.4705,
+  "station_pic": "马当路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近1号口\"},{\"lineno\":13,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 3号口外KFC厕所\"}]}",
+  "toilet_position_en": "Line 9:Outside of a station  3 entrance outside FKC",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐家汇路 黄陂南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐家汇路 蒙自路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐家汇路 马当路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"建国东路 马当路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Xujiahui Rd South Huangpi Rd,Exit 3:Xujiahui Rd Mengzi Rd,Exit 6:Xujiahui Rd Madang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——徐家汇路黄陂南路路口，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅1号口费区内，往曹路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅1号口费区内，往上海松江站方向站台中部（自助）\"}]},{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:beside Exit 1,station hall to ground,Accessible Lift 2:center of station hallbeside east Customer Service Center,station hall to platform towards Middle Yanggao Road Station,Accessible Lift 3: center of station hallbeside east Customer S",
+  "terminal": 0
+ }
+]

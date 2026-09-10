@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "138",
+  "name_cn": "富锦路",
+  "name_en": "Fujin Road",
+  "pinyin": "fjl",
+  "station_code": "1-FJL",
+  "lines": "1",
+  "longitude": 121.43103,
+  "latitude": 31.398683,
+  "gao_lng": 121.424606869169,
+  "gao_lat": 31.3924349212202,
+  "x": 0.4623,
+  "y": 0.0284,
+  "station_pic": "富锦路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近2号口\"}]}",
+  "toilet_position_en": "Line 1:Pay Zone  The South Hall near the control room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"蕰川公路 杨北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"蕰川公路 杨宗路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Wenchuan Highway Yangbei Rd,Exit 2:Wenchuan Highway Yangzong Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——2号口，往富锦路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口，往莘庄方向车头（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 2，Rear End of Platform bound for Fujin Road（Self-service））<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 2，Front End of Platform bound for Xinzhuang（Self-service）",
+  "terminal": 1
+ }
+]

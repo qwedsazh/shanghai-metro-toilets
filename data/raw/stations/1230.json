@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1230",
+  "name_cn": "龙华中路",
+  "name_en": "Middle Longhua Road",
+  "pinyin": "lhzl",
+  "station_code": "840-LHZL",
+  "lines": "7,12",
+  "longitude": 121.463605,
+  "latitude": 31.191322,
+  "gao_lng": 121.4571769408,
+  "gao_lat": 31.1850977111441,
+  "x": 0.4525,
+  "y": 0.5612,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近11号口\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往七莘路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-10-31\",\"plan_open_date\":\"2024-12-20\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金海路方向站台中部\",\"status\":1,\"plan_close_date\":\"2024-09-29\",\"plan_open_date\":\"2024-12-07\"}]}",
+  "toilet_position_en": "Line 7 Outside Pay Area storey of station hall, near exit 11\r\n<br />Line 12 Inside Paid Area rear of train bound for Qixin Road at the platform\r\n<br />Line 12 Inside Paid Area mid of train bound for Jinhai Road at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 龙华中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 瑞平路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 龙华中路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 龙华中路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华中路\",\"memo\":\"R*\",\"id_alias\":\"8号出入口\"},{\"id\":9,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路 凯滨路 龙华中路\",\"memo\":\"R*\",\"id_alias\":\"9号出入口\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 龙华中路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 龙华路 中山南二路\",\"id_alias\":\"11号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台--站厅中部，站台中部 费区内(自助)\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面一站厅--龙华中路，地面端靠近10号口，站厅端靠近11号口 费区外(自助)\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-设备层-站台--站厅中部 往金海路方向站台中部 费区内(自助)\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站台-设备层--往七莘路方向车尾 费区内(自助)\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

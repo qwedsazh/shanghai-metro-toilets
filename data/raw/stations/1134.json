@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1134",
+  "name_cn": "嘉定新城",
+  "name_en": "Jiading Xincheng",
+  "pinyin": "jdxc",
+  "station_code": "400-JDXC",
+  "lines": "11",
+  "longitude": 121.26104,
+  "latitude": 31.335744,
+  "gao_lng": 121.254440368677,
+  "gao_lat": 31.330090555856,
+  "x": 0.2357,
+  "y": 0.1377,
+  "station_pic": "嘉定新城.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅中部\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"双丁路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"双单路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"胜辛路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"胜辛路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Shuangding Rd,Exit 2:Shuangdan Rd,Exit 3:Shengxin Rd,Exit 4:Shengxin Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-09\",\"plan_open_date\":\"2024-05-31\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-29\",\"plan_open_date\":\"2024-06-21\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——胜辛路双单路，2号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-09\",\"plan_open_date\":\"2024-05-31\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——胜辛路双丁路，4号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-29\",\"plan_open_date\":\"2024-06-21\"}]}]}",
+  "elevator_en": "Accessible Lift 1:the middle of platform towards Jiangsu Road Station,Accessible Lift 2:the middle of platform towards Anting Station,Accessible Lift 3: outside of Exit 4 to station hall",
+  "terminal": 0
+ }
+]

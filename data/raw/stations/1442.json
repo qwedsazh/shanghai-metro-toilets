@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1442",
+  "name_cn": "昌邑路",
+  "name_en": "Changyi Road",
+  "pinyin": "cyl",
+  "station_code": "22000-CYL",
+  "lines": "14,18",
+  "longitude": 121.546567,
+  "latitude": 31.250156,
+  "gao_lng": 121.540099862051,
+  "gao_lat": 31.2439689101197,
+  "x": 0.6753,
+  "y": 0.3646,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往桂桥路方向车头\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至14号线站台\"}]}",
+  "toilet_position_en": "Line 14 outside pay area  near exit 1<br/>\r\nLine 18 inside pay area  near exit 1<br/>\r\nLine 18 inside pay area  train rear in the direction of Guiqiao Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 民生路 昌邑路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 巨野路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 民生路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 民生路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 泽景路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Minsheng Road, Pudong Avenue and Changyi Road (temporarily unavailable),\r\nExit 2: Pudong Avenue and Juye Road,\r\nExit 3: Pudong Avenue and Minsheng Road,\r\nExit 4: Pudong Avenue and Minsheng Road,\r\nExit 5: Pudong Avenue and Xinxing Road,\r\nExit 6: Pudong Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中间，站台中部（自助）\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近4号口，18号线往航头方向（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"}]}]}",
+  "elevator_en": "line 14\r\n1# Accessible Elevator: outside pay area, ground-station hall -- near exit 2, near exit 2 (self-service)<br />\r\n2# Accessible Elevator: outside pay area, ground-station hall -- near exit 4, near exit 4 (self-service)<br />\r\n3# Accessible Elevator: inside pay area,station hall-platform -- mid station hall, mid platform (self-service)<br />\r\n\r\nline 18\r\n1# Accessible Elevator: inside pay area,station hall-platform -- near exit 4, the direction of Hangtou of line 18 (self-service)",
+  "terminal": 0
+ }
+]

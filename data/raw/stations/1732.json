@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1732",
+  "name_cn": "朱家角",
+  "name_en": "Zhujiajiao",
+  "pinyin": "zjj",
+  "station_code": "10000-ZJJ",
+  "lines": "17",
+  "longitude": 121.056725,
+  "latitude": 31.107012,
+  "gao_lng": 121.050208834082,
+  "gao_lat": 31.1010032859714,
+  "x": 0.1787,
+  "y": 0.5405,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往西岑方向车头\"}]}",
+  "toilet_position_en": "in pay area head of train bound for Oriental Land",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪青平公路 珠溪路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪青平公路 朱枫公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪青平公路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Huqingping Highway Zhufeng Highway,Exit 2:Huqingping Highway Zhufeng Highway,Exit 3:Huqingping Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往虹桥火车站方向站台中部，站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——near exit 1（self-service）\r\n<br />2#Elevator-Ground to Station Hall——near exit 2（self-service）\r\n<br />3#Elevator-Station Hall to Platform——middle of the platform for train bound for Hongqiao Railway Station,middle of station hall（self-service）",
+  "terminal": 0
+ }
+]

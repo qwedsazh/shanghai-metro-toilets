@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1625",
+  "name_cn": "鹤沙航城",
+  "name_en": "Heshahangcheng",
+  "pinyin": "hshc",
+  "station_code": "8000-HSHC",
+  "lines": "16",
+  "longitude": 121.617792,
+  "latitude": 31.083402,
+  "gao_lng": 121.611210919444,
+  "gao_lat": 31.0777302350387,
+  "x": 0.7003,
+  "y": 0.7111,
+  "station_pic": "鹤沙航城.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":16,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近往滴水湖方向无障碍电梯旁，近1号口\"},{\"lineno\":16,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 地面近2号口\"}]}",
+  "toilet_position_en": "Line 16:Non-paying zone  In North Hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古博路 公交枢纽\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古博路 公交枢纽\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Helei Rd Public Transportation Hub,Exit 2:Helei Rd Public Transportation Hub",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——天桥公告栏处，1号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-11-05\",\"plan_open_date\":\"2024-12-16\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——天桥公告栏处，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅靠近车控室旁，1号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-08-06\",\"plan_open_date\":\"2024-08-10\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——1号口厕所旁（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 站厅-站台——南厅站厅，往滴水湖方向车头（自助）\",\"status\":1,\"plan_close_date\":\"2024-09-16\",\"plan_open_date\":\"2024-09-30\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"6#无障碍电梯 站厅-站台——南厅客服中心对面，往龙阳路方向车尾（自助）\",\"status\":1,\"plan_close_date\":\"2024-09-16\",\"plan_open_date\":\"2024-09-30\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 1 to ground,Accessible Lift 2:public area of station hall near Exit 2 to ground,Accessible Lift 3:South Hall from hall to platform,Accessible Lift 4:North Hall from hall to platform",
+  "terminal": 0
+ }
+]

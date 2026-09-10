@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1350",
+  "name_cn": "学林路 ",
+  "name_en": "Xuelin Road",
+  "pinyin": "xll",
+  "station_code": "1000-XLL",
+  "lines": "13",
+  "longitude": 121.620857,
+  "latitude": 31.189093,
+  "gao_lng": 121.614282500363,
+  "gao_lat": 31.183445878195,
+  "x": 0.7601,
+  "y": 0.5892,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金运路方向车尾\"}]}",
+  "toilet_position_en": "Inside the pay-area,\r\nnear the head of the train bound for Zhangjiang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中科路 学林路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中科路 学林路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中科路 哥白尼路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Zhongke Road, Xuelin Road\r\nExit 2: Zhongke Road, Xuelin Road\r\nExit 3: Zhongke Road, Gebaini Road\r\nExit 4: Zhongke Road, Gebaini Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站台中部,近客服中心（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near Exit 1 (self-service)\r\n<br />2#elevator: from the station hall to the platform; at the central platform and near the Service Center (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1837",
+  "name_cn": "丹阳路",
+  "name_en": "Danyang Road",
+  "pinyin": "dyl",
+  "station_code": "20000-DYL",
+  "lines": "18",
+  "longitude": 121.538204,
+  "latitude": 31.259066,
+  "gao_lng": 121.531705475236,
+  "gao_lat": 31.2530317445212,
+  "x": 0.6737,
+  "y": 0.3269,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往航头方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Inside pay area train rear in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 福宁路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 杨树浦路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 杨树浦路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"江浦路 丹阳路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Jiangpu Road and Funing Road,\r\nExit 2: Yangshupu Road and Jiangpu Road,\r\nExit 3: Yangshupu Road and Jiangpu Road,\r\nExit 4: Jiangpu Road and Danyang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站台-站厅——近客服中心，往航头方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近3号口，近3号口（自助）\"}]}]}",
+  "elevator_en": "1# Accessible Elevator: inside pay area, platform-station hall -- near customer service center, mid in the direction of Hangtou (self-service)<br />\r\n2# Accessible Elevator: inside pay area, ground-station hall -- near exit 3, near exit 3 (self-service)",
+  "terminal": 0
+ }
+]

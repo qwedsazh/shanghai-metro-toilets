@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "629",
+  "name_cn": "上海儿童医学中心",
+  "name_en": "Shanghai Children's Medical Center",
+  "pinyin": "shetyxzx",
+  "station_code": "20-SHETYXZX",
+  "lines": "6",
+  "longitude": 121.52979,
+  "latitude": 31.209399,
+  "gao_lng": 121.523254354443,
+  "gao_lat": 31.2035235866273,
+  "x": 0.6052,
+  "y": 0.5308,
+  "station_pic": "上海儿童医学中心.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往东方体育中心方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-13\",\"plan_open_date\":\"2024-11-26\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 北园路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 龙阳路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 北园路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dongfang Rd,Exit 2:Dongfang Rd,Exit 3:Dongfang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——东方路，1、2号口中间，往港城路方向中部（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform--Dongfang Road，between Exit 1 and Exit 3，Middle of Platform bound for Gangcheng Road （Self-service）",
+  "terminal": 0
+ }
+]

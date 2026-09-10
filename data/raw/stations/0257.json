@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "257",
+  "name_cn": "创新中路",
+  "name_en": "Middle Chuangxin Road",
+  "pinyin": "cxzl",
+  "station_code": "2-CXZL",
+  "lines": "2",
+  "longitude": 121.680337,
+  "latitude": 31.219751,
+  "gao_lng": 121.673913033352,
+  "gao_lat": 31.2134015421357,
+  "x": 0.8043,
+  "y": 0.526,
+  "station_pic": "创新中路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往蟠祥路·国家会计学院方向站台车头\"},{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台中间\"},{\"lineno\":2,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"}]}",
+  "toilet_position_en": "Line 2:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"玉盘南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"玉盘南路 创新中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"玉盘南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Gaoke RD  Changxing RD,Exit 3  Chuangbin RD Chuangxin RD,Exit4:East Gaoke RD",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部、站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部、站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——玉盘南路，近4号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——East of Station Hall，Front End of Platform bound for Pudong International Airport（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——East of Station Hall，Rear End of Platform bound for East Xujing（Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall——Middle Chuangxin Road，between Exit 1 and Exit 3（Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1821",
+  "name_cn": "航头",
+  "name_en": "Hangtou",
+  "pinyin": "ht",
+  "station_code": "20000-HT",
+  "lines": "18",
+  "longitude": 121.602813,
+  "latitude": 31.04274,
+  "gao_lng": 121.59629767263,
+  "gao_lat": 31.0368621976457,
+  "x": 0.6115,
+  "y": 0.8561,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往航头方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Line 18:inside the pay area at the rear of a train bound for Yuqiao at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路 航圆路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hunan Highway and Hangyuan Road,                 \r\nExit 2:Hunan Highway,                                      \r\nExit 3:Hunan Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中央客服中心处，往康文路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近1号口，近1号口（自助）\"}]}]}",
+  "elevator_en": "No. 1 Accessible Elevator, outside the pay area, ground-station hall: near exit 1, near exit 1 (self-service) \r\n\r\nNo. 2 Accessible Elevator, inside the pay area, station hall-platform: the service center in the center of the station hall, mid-platform for trains bound for Yuqiao (self-service)",
+  "terminal": 0
+ }
+]

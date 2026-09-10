@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "821",
+  "name_cn": "联航路",
+  "name_en": "Lianhang Road",
+  "pinyin": "lhl",
+  "station_code": "80-LHL",
+  "lines": "8",
+  "longitude": 121.51713,
+  "latitude": 31.079655,
+  "gao_lng": 121.510557168592,
+  "gao_lat": 31.0739661268695,
+  "x": 0.4954,
+  "y": 0.7257,
+  "station_pic": "联航路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 2号口站外\"}]}",
+  "toilet_position_en": "Line 8:Outside of a station  1/2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 联航路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 联航路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Puxing Highway Lianhang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

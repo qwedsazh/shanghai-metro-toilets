@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "414",
+  "name_cn": "大连路",
+  "name_en": "Dalian Road",
+  "pinyin": "dll",
+  "station_code": "808-DLL",
+  "lines": "4,12",
+  "longitude": 121.519576,
+  "latitude": 31.263723,
+  "gao_lng": 121.513001055823,
+  "gao_lat": 31.2580047923184,
+  "x": 0.6173,
+  "y": 0.3246,
+  "station_pic": "大连路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往外圈方向站台头部\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-11-21\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近6号口\"}]}",
+  "toilet_position_en": "Line 4:Pay Zone  Outer front,Line 12:Outside of a station  Near Exit 6",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"昆明路 大连路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大连路 长阳路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"昆明路 大连路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大连路 长阳路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dalian Rd Lanqiao Mansion Shanghai Shidong Middle School Shanghai Tilanqiao Prison,Exit 2:Dalian Rd Changyang Rd Lanqiao Mansion Shanghai Shidong Middle School Shanghai Tilanqiao Prison",
+  "street_pic": null,
+  "elevator": "{\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——4号线，往内圈方向车头（自助）\"},{\"icon1\":\"l_i_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——12号线，往七莘路方向车头（非自助） \"},{\"status\":1,\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"3#无障碍电梯 地面-站厅——大连路长阳路，6号口（自助)\",\"plan_close_date\":\"2023-12-01\",\"plan_open_date\":\"2025-07-02\"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"4#无障碍电梯 地面-站厅——大连路长阳路，2号口（自助）\"}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Line 4，Front End of Platform bound for Yishan Road（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Line 12，Front End of Platform bound for Qufu Road（Non Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall——Dalian Road & Changyang Road，Exit 6（Self-service）",
+  "terminal": 0
+ }
+]

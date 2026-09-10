@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1622",
+  "name_cn": "华夏中路",
+  "name_en": "Middle Huaxia Road",
+  "pinyin": "hxzl",
+  "station_code": "9000-HXZL",
+  "lines": "13,16",
+  "longitude": 121.589873,
+  "latitude": 31.18115,
+  "gao_lng": 121.583423478122,
+  "gao_lat": 31.1750307482104,
+  "x": 0.7017,
+  "y": 0.591,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近3号口客服中心\"},{\"lineno\":16,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 近换乘通道处\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 5",
+  "entrance_info": "{\"line\":[{\"lineno\":\"13\",\"entrance\":[{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 罗山路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 环业东路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"绿科路 环业东路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]},{\"lineno\":\"16\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Luoshan Rd,Exit 2:Luoshan Rd,Exit 3:Luoshan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往张江路方向车头,近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往金运路方向车尾,近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅——近16号线天桥换乘通道（自助）\"}]},{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——站厅东侧天桥20米处，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——站厅西侧天桥20米处，2号口（自助）\",\"status\":1,\"plan_close_date\":\"2025-10-07\",\"plan_open_date\":\"2025-11-07\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:in Middle of Exit 1/2 hall to platform",
+  "terminal": 0
+ }
+]

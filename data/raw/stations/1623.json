@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1623",
+  "name_cn": "罗山路",
+  "name_en": "Luoshan Road",
+  "pinyin": "lsl",
+  "station_code": "8400-LSL",
+  "lines": "11,16",
+  "longitude": 121.599723,
+  "latitude": 31.159221,
+  "gao_lng": 121.593219668866,
+  "gao_lat": 31.1532854352243,
+  "x": 0.7017,
+  "y": 0.6553,
+  "station_pic": "罗山路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_os.png\",\"icon2\":\"w_o.png\",\"description\":\"车站外 5号口外\"},{\"lineno\":16,\"icon1\":\"t_os.png\",\"icon2\":\"w_o.png\",\"description\":\"车站外 近5号口\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 5",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路 康桥东路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路 康桥东路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路 康桥东路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗山路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Luoshan Rd East Kangqiao Rd,Exit 3:Luoshan Rd,Exit 4:Luoshan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅近2号口，往嘉定北，花桥方向车尾（自助）\"}]},{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅近2号口，往滴水湖方向车头（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:in Middle of Exit 1/2 hall to platform",
+  "terminal": 0
+ }
+]

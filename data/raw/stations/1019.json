@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1019",
+  "name_cn": "紫藤路",
+  "name_en": "Ziteng Road",
+  "pinyin": "ztl",
+  "station_code": "200-ZTL",
+  "lines": "10",
+  "longitude": 121.37097,
+  "latitude": 31.175533,
+  "gao_lng": 121.364425104832,
+  "gao_lat": 31.1697881837491,
+  "x": 0.3051,
+  "y": 0.4709,
+  "station_pic": "紫藤路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往基隆路方向车头\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"紫藤路 吴中路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴中路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"外环路 吴中路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Wuzhong Rd,Ziteng Rd,Exit 3:Ziteng Rd,Wuzhong Rd near Outer Ring",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——吴中路，近2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:platform towards Xinjiangwancheng tation,Hangzhong Road Station to station hall",
+  "terminal": 0
+ }
+]

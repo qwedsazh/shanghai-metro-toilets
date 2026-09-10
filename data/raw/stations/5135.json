@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "5135",
+  "name_cn": "康桥东",
+  "name_en": "East Kangqiao",
+  "pinyin": "kqd",
+  "station_code": "4000000000000-KQD",
+  "lines": "51",
+  "longitude": 121.620236,
+  "latitude": 31.15242,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.7442,
+  "y": 0.6621,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往虹桥2号航站楼方向车头\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往浦东1号2号航站楼方向车头\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"康人路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"康人路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"康人路 康新公路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"康人路 康新公路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kangren Road,\r\nExit 2:Kangren Road,\r\nExit 3:Kangren Road   Kangxin Highway,\r\nExit 4:Kangren Road   Kangxin Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":51,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区外 地面-站厅——近2号口，站厅东端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区外 地面-站厅——近3号口，站厅西端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区内 站厅-站台——站厅中部，往虹桥2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 站厅-站台——站厅中部，往浦东1号2号航站楼方向站台中部（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "820",
+  "name_cn": "沈杜公路",
+  "name_en": "Shendu Highway",
+  "pinyin": "sdgl",
+  "station_code": "10000000080-SDGL",
+  "lines": "8,41",
+  "longitude": 121.518803,
+  "latitude": 31.06706,
+  "gao_lng": 121.512244708916,
+  "gao_lat": 31.0613556257045,
+  "x": 0.494,
+  "y": 0.7421,
+  "station_pic": "沈杜公路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外\"},{\"lineno\":41,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外\"}]}",
+  "toilet_position_en": "Line 8:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 沈杜公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 沈杜公路 联达路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Puxing Highway Shendu Highway Lianda Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——2号口，站台中部（自助）\"}]},{\"lineno\":41,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往沈杜公路方向车头，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往汇臻路方向车尾，近1号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--Exit 1，Middle of Platform（Self-service）",
+  "terminal": 1
+ }
+]

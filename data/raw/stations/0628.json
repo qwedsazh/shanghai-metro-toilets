@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "628",
+  "name_cn": "临沂新村 ",
+  "name_en": "Linyi Xincun",
+  "pinyin": "lyxc",
+  "station_code": "20-LYXC",
+  "lines": "6",
+  "longitude": 121.52308,
+  "latitude": 31.198949,
+  "gao_lng": 121.516526514318,
+  "gao_lat": 31.1931863872956,
+  "x": 0.597,
+  "y": 0.552,
+  "station_pic": "临沂新村 .jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往港城路方向站台车尾\"}]}",
+  "toilet_position_en": "Line 6:Pay Zone  Oriental Sports Center direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Dongfang Rd,Exit 2:Dongfang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——东方路，1、2号口中间，站台中部（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform--Dongfang Road，between Exit 1 and Exit 2，Middle of Platform（Non Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "723",
+  "name_cn": "潘广路",
+  "name_en": "Panguang Road",
+  "pinyin": "pgl",
+  "station_code": "40-PGL",
+  "lines": "7",
+  "longitude": 121.362293,
+  "latitude": 31.370197,
+  "gao_lng": 121.355750639686,
+  "gao_lat": 31.3643020592831,
+  "x": 0.3409,
+  "y": 0.076,
+  "station_pic": "潘广路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\"}]}",
+  "toilet_position_en": "Line 7:Outside of a station  2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陆翔路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陆翔路 潘广路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陆翔路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Luchen Rd,Exit2:Luxiang Rd,Exit 3:Luchen Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——陆翔路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Luxiang Road，Exit 2（Self-service）<br /> \r\nAccessible Lift 2  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

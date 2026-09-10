@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "927",
+  "name_cn": "中春路",
+  "name_en": "Zhongchun Road",
+  "pinyin": "zcl",
+  "station_code": "4000000000100-ZCL",
+  "lines": "9,51",
+  "longitude": 121.344742,
+  "latitude": 31.155955,
+  "gao_lng": 121.338305612285,
+  "gao_lat": 31.1497472625007,
+  "x": 0.2644,
+  "y": 0.5027,
+  "station_pic": "中春路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近客服中心\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往虹桥2号航站楼方向车头\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"往浦东1号2号航站楼方向车尾\"}]}",
+  "toilet_position_en": "Line 9:Pay Zone  Central station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中春路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中春路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华宝路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 新龙路\",\"memo\":\"R*\",\"id_alias\":\"8号口\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"新龙路\",\"memo\":\"R*\",\"id_alias\":\"9号口\"}]}]}",
+  "entrance_info_en": "Exit 2:Zhongchun Rd,Exit 3:Husong Highway,Exit 6:Husong Highway,Exit 7:Huabao Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——沪松公路中春路，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":51,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区外 地面-站厅——近8号口，近8号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区内 站厅-站台——站厅中部靠南侧，往虹桥2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区内 站厅-站台——站厅中部靠北侧，往浦东1号2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 换乘通道-站台——站台尾部，往虹桥2号航站楼站方向站台尾部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 费区内 换乘通道-站台——站台头部，往浦东1号2号航站楼方向站台头部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:east of Exit 7outside,outside to station hall ,Accessible Lift 2:station hall to the middle of platform towards Middle Yanggao Road Station,station hall to the middle of platform towards Songjiang Xincheng Station",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "935",
+  "name_cn": "肇嘉浜路",
+  "name_en": "Zhaojiabang Road",
+  "pinyin": "zjbl",
+  "station_code": "140-ZJBL",
+  "lines": "7,9",
+  "longitude": 121.456463,
+  "latitude": 31.205392,
+  "gao_lng": 121.450044765069,
+  "gao_lat": 31.1990762696861,
+  "x": 0.4521,
+  "y": 0.4704,
+  "station_pic": "肇嘉浜路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往花木路方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-12-01\"},{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"},{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往上海松江站方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-10-31\",\"plan_open_date\":\"2024-12-27\"},{\"lineno\":9,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"}]}",
+  "toilet_position_en": "Line 7 Outside Pay Area storey of station hall, near exit 4\r\n<br />Line 7 Inside Paid Area head of train bound for Huamu Road at the platform\r\n<br />Line 9 Inside Paid Area mid of train bound for Songjiang Xincheng at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 肇嘉浜路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东安路 肇嘉浜路 青松城\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Dong'an Rd Zhaojiabang Rd,Exit 3:Yixueyuan Rd Dong'an Rd,Exit 4:Dong'an Rd Zhaojiabang Rd",
+  "street_pic": null,
+  "elevator": "{\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台--9号线站台中部 费区内(自助)\"},{\"icon1\":\"l_i_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台--7号线站台中部 费区内(自助)\"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"3#无障碍电梯 地面-站厅--东安路，4号口 费区外(自助)\"}]}",
+  "elevator_en": "Accessible Lift 1:beside Customer Service Center of Exit 4,Accessible Lift 2:near Exit 4,Accessible Lift 3: beside Customer Service Center of Exit 3",
+  "terminal": 0
+ }
+]

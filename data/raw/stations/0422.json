@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "422",
+  "name_cn": "西藏南路",
+  "name_en": "South Xizang Road",
+  "pinyin": "xznl",
+  "station_code": "88-XZNL",
+  "lines": "4,8",
+  "longitude": 121.496122,
+  "latitude": 31.207672,
+  "gao_lng": 121.4895401837,
+  "gao_lat": 31.2019835358262,
+  "x": 0.5393,
+  "y": 0.5088,
+  "station_pic": "西藏南路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至8号线往市光路方向站台车头\"},{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往沈杜公路方向站台车尾\"}]}",
+  "toilet_position_en": "Line 4 Inside Pay Area to platform of line 8\r\n<br />Line 8 Inside Paid Area head of train bound for Shengdu Highway at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南路 西藏南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南一路 西藏南路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南一路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"西藏南路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:South Zhongshan Rd,Exit 2:South Zhongshan Rd,Exit 3:South Xizang Rd,Exit 4:Zhongshan 1st Rd,Exit 5:South Xizang Rd",
+  "street_pic": null,
+  "elevator": "{\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口（自助）\"},{\"icon1\":\"l_i_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——8号线，南厅，8号线往沈杜公路方向车头（自助）\"},{\"icon1\":\"l_i_s.png\",\"icon2\":\"w_n.png\",\"description\":\"3#无障碍电梯 地面-站厅-站台——4号线，4号口，往内圈方向车头（非自助）\"}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Platform——Exit 2（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Line 8，South Station Hall，Front End of Platform bound for Shendu Highway（Non Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall-Platform——Line 4，Exit 4，Front End of Platform bound for Shanghai Indoor Stadium（Non Self-service）",
+  "terminal": 0
+ }
+]

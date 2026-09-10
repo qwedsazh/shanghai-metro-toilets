@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1429",
+  "name_cn": "真如",
+  "name_en": "Zhenru",
+  "pinyin": "zr",
+  "station_code": "2400-ZR",
+  "lines": "11,14",
+  "longitude": 121.413716,
+  "latitude": 31.256863,
+  "gao_lng": 121.40719346529,
+  "gao_lat": 31.250913609503,
+  "x": 0.3889,
+  "y": 0.2925,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至14号线站台\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往桂桥路方向车尾\"}]}",
+  "toilet_position_en": "Line 11:Outside pay area near exit 2,\r\nLine 14:Inside pay area train rear in the direction of Guiqiao Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铜川路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹杨路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹杨路 铜川路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铜川路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铜川路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铜川路\",\"memo\":\"R*\",\"id_alias\":\"8号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1: Tongchuan Road,\r\nExit 2: Caoyang Road,\r\nExit 5: Caoyang Road  Tongchuan Road,\r\nExit 6: Tongchuan Road,\r\nExit 7: Tongchuan Road,\r\nExit 8: Tongchuan Road (temporarily unavailable)",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，往嘉定北、花桥方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，往迪士尼方向站台中部（自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近6号口，近6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近6号口，站台中部（自助）\"}]}]}",
+  "elevator_en": "Line 11\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 1: near exit 1 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- near Exit 1: mid platform in the direction of North Jiading  Huaqiao (self-service)<br/>\r\n3#accessible elevator: inside pay area, station hall-platform -- near Exit 2: mid platform in the direction of Disney Resort (self-service)\r\n\r\nLine 14\r\n1#accessible elevator: outside pay area, ground-station hall -- near Exit 6: near exit 6 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- near Exit 6: mid platform (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "314",
+  "name_cn": "漕溪路",
+  "name_en": "Caoxi Road",
+  "pinyin": "cxl",
+  "station_code": "4-CXL",
+  "lines": "3",
+  "longitude": 121.444739,
+  "latitude": 31.182978,
+  "gao_lng": 121.438350226193,
+  "gao_lat": 31.1766198777388,
+  "x": 0.3932,
+  "y": 0.5209,
+  "station_pic": "漕溪路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"status\":1,\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\",\"plan_close_date\":\"2024-02-19\",\"plan_open_date\":\"2024-03-06\",\"memo\":\"女厕故障停用\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕东支路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪北路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kaixuan South Rd Caodong Branch Rd Hua Fu Building Qiangsheng Flower Garden,Exit 2:Caodong Branch Rd Caoxi Park,Exit 3:Caodong Branch Rd Shanghai Market of Light Textile,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯  地面-站厅——凯旋南路，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯  站厅-站台——站厅南端，往江杨北路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯  站厅-站台——站厅南端，往上海南站方向车头（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——South Kaixuan Road，Exit 1，Rear End of Platform bound for North Jiangyang Road（Non Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall-Platform——South Kaixuan Road & Caodong Sub-road，Exit 2，Front End of Platform bound for Shanghai South Railway Station（Non Self-service）",
+  "terminal": 0
+ }
+]

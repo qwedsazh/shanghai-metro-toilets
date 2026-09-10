@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1441",
+  "name_cn": "源深路",
+  "name_en": "Yuanshen Road",
+  "pinyin": "ysl",
+  "station_code": "2000-YSL",
+  "lines": "14",
+  "longitude": 121.537157,
+  "latitude": 31.247246,
+  "gao_lng": 121.530644115495,
+  "gao_lat": 31.2412293195508,
+  "x": 0.6563,
+  "y": 0.3848,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往桂桥路方向车尾\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车尾\"}]}",
+  "toilet_position_en": "Line 14:Inside pay area train rear in the direction of Guiqiao Road,\r\nInside pay area train rear in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"源深路 浦东大道\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华开路 浦东大道\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":\"3A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道\",\"memo\":\"R*\",\"id_alias\":\"3A号出入口\"},{\"id\":\"3B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道\",\"memo\":\"R*\",\"id_alias\":\"3B号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"源深路 浦东大道\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1A: Yuanshen Road  Pudong Avenue,\r\nExit 1B: Yuanshen Road  Pudong Avenue,\r\nExit 2: Huakai Road  Pudong Avenue,\r\nExit 3A: Pudong Avenue,\r\nExit 3B: Pudong Avenue,\r\nExit 4: Yuanshen Road  Pudong Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近3A号口，往封浜方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近3A号口，往桂桥路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"}]}]}",
+  "elevator_en": "1#accessible elevator: inside pay area, station hall-platform -- near exit 3A, mid platform (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- near exit 3A, mid platform (self-service)<br/>\r\n3#accessible elevator: outside pay area, ground-station hall -- near Exit 2: near exit 2 (self-service)<br/>\r\n4#accessible elevator: outside pay area, ground-station hall -- near Exit 2: near exit 2 (self-service)",
+  "terminal": 0
+ }
+]

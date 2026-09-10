@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1220",
+  "name_cn": "七莘路",
+  "name_en": "Qixin Road",
+  "pinyin": "qxl",
+  "station_code": "800-QXL",
+  "lines": "12",
+  "longitude": 121.369818,
+  "latitude": 31.137797,
+  "gao_lng": 121.363249956556,
+  "gao_lat": 31.1320287390421,
+  "x": 0.2783,
+  "y": 0.5624,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\",\"status\":1,\"plan_close_date\":\"2025-09-05\",\"plan_open_date\":\"2026-01-01\"}]}",
+  "toilet_position_en": "outside pay area  station hall, exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"七莘路 顾戴路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"七莘路 顾戴路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀波路 顾戴路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀波路 顾戴路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀波路 顾戴路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"顾戴路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秀波路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1：Unopened\r\nExit 2：Opened\r\nExit 3：Opened\r\nExit 4：Opened\r\nExit 5：Opened\r\nExit 6：Opened\r\nExit 7：Unopened\r\nExit 8：Unopened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往金海路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——顾戴路秀波路，3号口（自助）\"}]}]}",
+  "elevator_en": "<img alt='' src='/resource/images/12-wuzhangai.png' width='32px' />:Accessible Lift 1：station hall - platform -- station hall floor,exit 2，train head of terminal-start line（non-self-help）\r\n<img alt=‘‘ src=‘/resource/images/4-wuzhangai.png’ width=‘32px’ />:Accessible Lift 1：ground - station hall -- Gudai Rd/Qixin Rd,station hall floor,exit 2(self-help)",
+  "terminal": 1
+ }
+]

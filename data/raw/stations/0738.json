@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "738",
+  "name_cn": "昌平路",
+  "name_en": "Changping Road",
+  "pinyin": "cpl",
+  "station_code": "40-CPL",
+  "lines": "7",
+  "longitude": 121.448746,
+  "latitude": 31.240476,
+  "gao_lng": 121.442320215577,
+  "gao_lat": 31.2341093439662,
+  "x": 0.4543,
+  "y": 0.3724,
+  "station_pic": "昌平路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近3号口\"}]}",
+  "toilet_position_en": "Line 7:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 康定路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 康定路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"常德路 昌平路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"昌平路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Kangding Rd Changde Rd,Exit 3:Kangding Rd Changde Rd,Exit 4:Changde Rd Changping Rd,Exit 5:Changping Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往花木路方向侧，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往美兰湖方向侧，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——常德路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--Exit 3，Middle of Platform（Self-service） <br />\r\nAccessible Lift 2  Station Hall-Platform--Exit 2，Middle of Platform（Self-service）<br />                 Accessible Lift 3  Ground-Station Hall--800 Changde Road，Exit 2（Self-service）",
+  "terminal": 0
+ }
+]

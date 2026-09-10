@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "234",
+  "name_cn": "国家会展中心",
+  "name_en": "National Exhibition and Convention Center ",
+  "pinyin": "gjhzzx",
+  "station_code": "2-GJHZZX",
+  "lines": "2",
+  "longitude": 121.307524,
+  "latitude": 31.195431,
+  "gao_lng": 121.301085239729,
+  "gao_lat": 31.1892350383809,
+  "x": 0.2298,
+  "y": 0.4143,
+  "station_pic": "徐泾东.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\",\"status\":1,\"plan_close_date\":\"2025-03-13\",\"plan_open_date\":\"2025-03-17\"}]}",
+  "toilet_position_en": "Line 2:Non-paying zone  Exit 2 entrance side",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海) 展馆 商业广场 办公楼B、C座\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海) 展馆 商业广场 办公楼B、C座\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海) 展馆 办公楼A座\",\"memo\":\"R*\",\"id_alias\":\"4号出入口\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海) 展馆 办公楼A座\",\"memo\":\"R*\",\"id_alias\":\"5号出入口\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"诸光路 徐民东路 国家会展中心(上海)\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路\",\"memo\":\"R*\",\"id_alias\":\"8号出入口\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路 诸光路\",\"memo\":\"R*\",\"id_alias\":\"9号出入口\"},{\"id\":13,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海)\",\"memo\":\"R*\",\"id_alias\":\"13号出入口\"},{\"id\":14,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国家会展中心(上海)\",\"memo\":\"R*\",\"id_alias\":\"14号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Laigang Rd,Exit 2:East Xumin Rd,Exit 3:East Xumin Rd,Exit 4:East Xumin Rd,Exit 5:East Yinggang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——徐民路诸光路口，9号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1 Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2 Ground-Station Hall——Xumin Road & Zhuguang Road，Exit 9（Self-service）",
+  "terminal": 1
+ }
+]

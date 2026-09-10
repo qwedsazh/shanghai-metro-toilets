@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "124",
+  "name_cn": "新闸路",
+  "name_en": "Xinzha Road",
+  "pinyin": "xzl",
+  "station_code": "1-XZL",
+  "lines": "1",
+  "longitude": 121.474802,
+  "latitude": 31.244699,
+  "gao_lng": 121.46829292607,
+  "gao_lat": 31.2386621709297,
+  "x": 0.5154,
+  "y": 0.3609,
+  "station_pic": "新闸路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往富锦路方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-05\",\"plan_open_date\":\"2024-11-05\"}]}",
+  "toilet_position_en": "Line 1:Pay Zone  Fujin Rd direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"新昌路 新闸路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"黄河路 新闸路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"温州路 新闸路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Xinchang Rd Xinzha Rd,Exit 5:Huanghe Rd Xinzha Rd,Exit 6:Wenzhou Rd Xinzha Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——新闸路黄河路357号，近5号口，往莘庄方向车头（非自助）\",\"status\":1,\"plan_close_date\":\"2025-09-20\",\"plan_open_date\":\"2025-10-20\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——357 Xinzha Road & Huanghe Road，near Exit 5，Front End of Platform bound for Xinzhuang（Non Self-service）",
+  "terminal": 0
+ }
+]

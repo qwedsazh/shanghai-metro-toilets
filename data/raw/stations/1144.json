@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1144",
+  "name_cn": "枫桥路",
+  "name_en": "Fengqiao Road",
+  "pinyin": "fql",
+  "station_code": "400-FQL",
+  "lines": "11",
+  "longitude": 121.41754,
+  "latitude": 31.248068,
+  "gao_lng": 121.411029472045,
+  "gao_lat": 31.2420441539672,
+  "x": 0.4005,
+  "y": 0.3073,
+  "station_pic": "枫桥路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近1号口\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹杨路 真华南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"曹杨路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"枫桥路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Caoyang Rd,Exit 2:Caoyang Rd,Exit 3:Fengqiao Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-31\",\"plan_open_date\":\"2024-06-22\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——曹杨路，1号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-31\",\"plan_open_date\":\"2024-06-22\"}]}]}",
+  "elevator_en": "Accessible Lift 1:center of station,Accessible Lift 2:near Exit 1",
+  "terminal": 0
+ }
+]

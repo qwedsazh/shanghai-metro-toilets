@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1150",
+  "name_cn": "上海游泳馆",
+  "name_en": "Shanghai Swimming Center",
+  "pinyin": "shyyg",
+  "station_code": "400-SHYYG",
+  "lines": "11",
+  "longitude": 121.448026,
+  "latitude": 31.185365,
+  "gao_lng": 121.441636328253,
+  "gao_lat": 31.1790062250974,
+  "x": 0.4195,
+  "y": 0.5245,
+  "station_pic": "上海游泳馆.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\",\"status\":1,\"plan_close_date\":\"2025-10-12\",\"plan_open_date\":\"2025-12-01\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 2 and Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南二路 上海体育场 上海游泳馆\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南二路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中山南二路 上海游泳馆\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:South 2nd Zhongshan Rd Shanghai Stadium Shanghai Swimming Center,Exit 2: South 2nd Zhongshan Rd,Exut 3:South 2nd Zhongshan Rd Shanghai Swimming Center",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——1号口，往嘉定北/花桥方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——中山南二路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 1 to ground,Accessible Lift 2:near Exit 2 to Platform",
+  "terminal": 0
+ }
+]

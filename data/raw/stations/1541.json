@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1541",
+  "name_cn": "梅岭北路",
+  "name_en": "North Meiling Road",
+  "pinyin": "mlbl",
+  "station_code": "4000-MLBL",
+  "lines": "15",
+  "longitude": 121.40336,
+  "latitude": 31.248867,
+  "gao_lng": 121.396785345174,
+  "gao_lat": 31.2430943653469,
+  "x": 0.3602,
+  "y": 0.3194,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往紫竹高新区方向车头\"}]}",
+  "toilet_position_en": "inside pay area, the head of a train bound for Zizhu High-Tech Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路 武宁路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路 梅岭北路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"大渡河路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"武宁路 大渡河路\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"}]}]}",
+  "entrance_info_en": "Exit 4:  North Meiling Road Daduhe Road，   \r\nExit 5: Daduhe Road，    \r\nExit 6: Wuning Road Daduhe Road（not open）",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近6号口，近站厅北面（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator ground-station hall -- near exit 6, near exit 6 (self-service)\r\nNo. 2:Accessible Elevator station hall-platform -- mid-station-hall, mid-platform (self-service)",
+  "terminal": 0
+ }
+]

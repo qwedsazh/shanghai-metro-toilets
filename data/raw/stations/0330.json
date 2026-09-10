@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "330",
+  "name_cn": "殷高西路",
+  "name_en": "West Yingao Road",
+  "pinyin": "ygxl",
+  "station_code": "4-YGXL",
+  "lines": "3",
+  "longitude": 121.491418,
+  "latitude": 31.325557,
+  "gao_lng": 121.484852295962,
+  "gao_lat": 31.3198137153148,
+  "x": 0.5678,
+  "y": 0.1971,
+  "station_pic": "殷高西路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 靠近站厅1号口车控室旁\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  Next to the control room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"逸仙路 殷高西路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"逸仙路 殷高西路 殷高路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:West Yingao Rd Yixian Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——1号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——1号口，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

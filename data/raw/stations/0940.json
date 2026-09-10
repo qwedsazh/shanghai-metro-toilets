@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "940",
+  "name_cn": "小南门",
+  "name_en": "Xiaonanmen",
+  "pinyin": "xnm",
+  "station_code": "100-XNM",
+  "lines": "9",
+  "longitude": 121.504895,
+  "latitude": 31.222656,
+  "gao_lng": 121.498286848023,
+  "gao_lat": 31.2170153978795,
+  "x": 0.561,
+  "y": 0.4573,
+  "station_pic": "小南门.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往上海松江站方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-11-08\"}]}",
+  "toilet_position_en": "Line 9:Pay Zone  Songjiang Xincheng direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中华路 王家码头路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中华路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中华路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Zhonghua Rd,Exit 3:Zhonghua Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 地面-站厅——中华路王家码头路，1号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#斜挂梯 站厅-站厅——B1，1号口中间（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:,",
+  "terminal": 0
+ }
+]

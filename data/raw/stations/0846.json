@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "846",
+  "name_cn": "黄兴公园",
+  "name_en": "Huangxing Park",
+  "pinyin": "hxgy",
+  "station_code": "80-HXGY",
+  "lines": "8",
+  "longitude": 121.539677,
+  "latitude": 31.301934,
+  "gao_lng": 121.533210986817,
+  "gao_lat": 31.2958783778265,
+  "x": 0.6692,
+  "y": 0.2439,
+  "station_pic": "黄兴公园.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 1、2号口售票机旁\"}]}",
+  "toilet_position_en": "Line 8:Non-paying zone  Near Exit 1 Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"营口路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"营口路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yingkou Rd,Exit 2:Yingkou Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站台——营口路，2号口，站台中部（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——1号口，站台中部（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform--Yingkou Road，Exit 2，Middle of Platform（Non Self-service） <br />\r\nAccessible Lift 2  Station Hall-Platform--Exit 1，Middle of Platform（Non Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1066",
+  "name_cn": "三门路",
+  "name_en": "Sanmen Road",
+  "pinyin": "sml",
+  "station_code": "200-SML",
+  "lines": "10",
+  "longitude": 121.514701,
+  "latitude": 31.318613,
+  "gao_lng": 121.508122895447,
+  "gao_lat": 31.3129463135218,
+  "x": 0.6197,
+  "y": 0.2087,
+  "station_pic": "三门路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往基隆路方向站台车尾\",\"status\":1,\"plan_close_date\":\"2024-10-19\",\"plan_open_date\":\"2024-12-20\"}]}",
+  "toilet_position_en": "Line 10:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路 闸殷路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"淞沪路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 3:Songhu Rd Zhayin Rd,Exit 6:Songhu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——淞沪路三门路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:outside of Exit 3 to station hall,Accessible Lift 2:the middle of platform to station hall",
+  "terminal": 0
+ }
+]

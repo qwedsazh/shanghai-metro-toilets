@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "260",
+  "name_cn": "凌空路",
+  "name_en": "Lingkong Road",
+  "pinyin": "lkl",
+  "station_code": "2-LKL",
+  "lines": "2",
+  "longitude": 121.730308,
+  "latitude": 31.198595,
+  "gao_lng": 121.723753411239,
+  "gao_lat": 31.1928384839448,
+  "x": 0.8355,
+  "y": 0.5892,
+  "station_pic": "凌空路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近3号口\"}]}",
+  "toilet_position_en": "Line 2:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华川路 凌空路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华川路 凌空路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华川路 凌空路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"华川路 凌空路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 3:South Chuanhuan RD Lingkong RD,Exit 4:South Chuanhuan RD Lingkong RD,Exit 5:South Chuanhuan RD Lingkong RD",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅东端，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅西端，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——凌空路，3号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——East of Station Hall，Front End of Platform bound for Pudong International Airport（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——West of Station Hall，Rear End of Platform bound for East Xujing（Non Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall——Lingkong Road，Exit 3（Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1138",
+  "name_cn": "桃浦新村",
+  "name_en": "Taopu Xincun",
+  "pinyin": "tpxc",
+  "station_code": "400-TPXC",
+  "lines": "11",
+  "longitude": 121.355937,
+  "latitude": 31.287647,
+  "gao_lng": 121.349457309927,
+  "gao_lat": 31.2816407924102,
+  "x": 0.2943,
+  "y": 0.1967,
+  "station_pic": "桃浦新村.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往迪士尼方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-01\",\"plan_open_date\":\"2024-10-28\"}]}",
+  "toilet_position_en": "Inside Pay Area, head of train bound for Disney Resort at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"红棉路 武威路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"红棉路 武威路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"武威路 白丽路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hongmian Rd Wuwei Rd,Exit 2:Hongmian Rd Wuwei Rd,Exit 4:Wuwei Rd Baili Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\",\"status\":1,\"plan_close_date\":\"2024-03-23\",\"plan_open_date\":\"2024-04-13\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——武威路，4号口（自助）\",\"status\":1,\"plan_close_date\":\"2024-03-23\",\"plan_open_date\":\"2024-04-13\"}]}]}",
+  "elevator_en": "Accessible Lift 1:center of platform,Accessible Lift 2:outside of Exit 4 to station hall",
+  "terminal": 0
+ }
+]

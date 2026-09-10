@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "824",
+  "name_cn": "芦恒路",
+  "name_en": "Luheng Road",
+  "pinyin": "lhl",
+  "station_code": "80-UHL",
+  "lines": "8",
+  "longitude": 121.504377,
+  "latitude": 31.124907,
+  "gao_lng": 121.497766913424,
+  "gao_lat": 31.1192648114038,
+  "x": 0.4952,
+  "y": 0.6649,
+  "station_pic": "芦恒路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 服务中心旁\",\"status\":1,\"plan_close_date\":\"2025-09-11\",\"plan_open_date\":\"2025-12-03\"}]}",
+  "toilet_position_en": "Line 8:Non-paying zone  Near Exit 3",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"公交枢纽站\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 林恒路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路 芦恒路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦星公路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Puxing Highway West Xinhua Rd,Exit 3:Puxing Highway Luheng Rd,Exit 5:Puxing Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——浦星公路/林恒路，2号口，往市光路方向车尾（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform--Puxing Highway/Linheng Road，Exit 2，Rear End of Platform bound for Shiguang Road（Non Self-service）",
+  "terminal": 0
+ }
+]

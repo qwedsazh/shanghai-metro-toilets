@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "937",
+  "name_cn": "打浦桥",
+  "name_en": "Dapuqiao",
+  "pinyin": "dpq",
+  "station_code": "100-DPQ",
+  "lines": "9",
+  "longitude": 121.475402,
+  "latitude": 31.212073,
+  "gao_lng": 121.468901322921,
+  "gao_lat": 31.2060505054736,
+  "x": 0.4992,
+  "y": 0.4723,
+  "station_pic": "打浦桥.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外商场厕所\"}]}",
+  "toilet_position_en": "Line 9:Non-paying zone  Exit 4 KFC",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"泰康路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐家汇路 打浦路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐家汇路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瑞金二路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Xujiahui Rd Taikang Rd,Exit 2:Xujiahui Rd Dapu Rd,Exit 3:Xujiahui Rd Ruijin 2nd Rd,Exit 4:Ruijin 2nd Rd Xujiahui Rd near Zhaojiabang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——瑞金二路徐家汇路路口，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅西费区，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:beside Exit 4,station hall to ground,Accessible Lift 2:west of station hall,station hall to platform",
+  "terminal": 0
+ }
+]

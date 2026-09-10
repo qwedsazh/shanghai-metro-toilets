@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "126",
+  "name_cn": "上海火车站",
+  "name_en": "Shanghai Railway Station",
+  "pinyin": "shhcz",
+  "station_code": "D-SHHCZ",
+  "lines": "1,3,4",
+  "longitude": 121.46396,
+  "latitude": 31.255155,
+  "gao_lng": 121.457506808239,
+  "gao_lat": 31.2489298990181,
+  "x": 0.5013,
+  "y": 0.3271,
+  "station_pic": "上海火车站.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往莘庄方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-10-08\",\"plan_open_date\":\"2024-11-28\"},{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 往江杨北路方向站台车头\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 往内圈方向站台车头\"}]}",
+  "toilet_position_en": "Line 1 Inside Pay Area head of train bound for Xinzhuang at the platform\r\n<br />Line 3 Inside Pay Area head of train bound for North Jiangyang Road at the platform (Lines 3 and 4 sharing the same line)",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路南广场\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路南广场\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秣陵路 民立路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秣陵路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民立路 天目西路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"秣陵路 铁路上海站南广场\",\"id_alias\":\"6号出入口（2）\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路上海站北广场 上海长途汽车客运总站 恒丰北路\",\"id_alias\":\"7号出入口（6）\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁路上海站北广场\",\"id_alias\":\"8号出入口（5）\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"太阳山路 大统路  铁路上海站北广场 上海长途汽车客运总站\",\"id_alias\":\"10号出入口（1）\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Shanghai Railway Station South Square,Exit 2:Shanghai Railway Station South Square,Exit 3:Moling Rd Minli Rd,Exit 4:Moling Rd,Exit 5:Minli Rd West Tianmu Rd,Exit 6:The Shens' House Taiyangshan Rd Jiaotong Rd Shanghai Railway Station North Square Shanghai Long-distance Bus Passenger Transport Terminal",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——民立路100号，近3号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅南端费区内，站台往莘庄方向22号门(自助)\"}]},{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——靠近换乘通道，往江杨北路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——西站厅，往江杨北路方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——北广场7号口（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——靠近换乘通道，往上海体育馆方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——西站厅，往上海体育馆方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——北广场7号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——100 Minli Road，near Exit 3，Front End of Platform bound for Xinzhuang\r\n（Non Self-service）",
+  "terminal": 1
+ }
+]

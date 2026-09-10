@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "336",
+  "name_cn": "宝杨路",
+  "name_en": "Baoyang Road",
+  "pinyin": "byl",
+  "station_code": "4-BYL",
+  "lines": "3",
+  "longitude": 121.486126,
+  "latitude": 31.401287,
+  "gao_lng": 121.47959440963,
+  "gao_lat": 31.3954665957692,
+  "x": 0.6172,
+  "y": 0.0857,
+  "station_pic": "宝杨路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅靠近管理用房旁\",\"status\":1,\"plan_close_date\":\"2025-06-01\",\"plan_open_date\":\"2025-06-20\"}]}",
+  "toilet_position_en": "Line 3:Pay Zone  Next to the control room",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"同济路 宝杨路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Tongji Rd Baoshan People's Government Baoshan Cultural Center",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Exit 1，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

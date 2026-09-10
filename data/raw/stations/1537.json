@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1537",
+  "name_cn": "红宝石路",
+  "name_en": "Hongbaoshi Road",
+  "pinyin": "hbsl",
+  "station_code": "4000-HBSL",
+  "lines": "15",
+  "longitude": 121.404838,
+  "latitude": 31.20417,
+  "gao_lng": 121.398286188171,
+  "gao_lat": 31.1983792969927,
+  "x": 0.3602,
+  "y": 0.4516,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":15,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往紫竹高新区方向车头\"}]}",
+  "toilet_position_en": "inside pay area, the head of a train bound for Zizhu High-Tech Park",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古北路 延安西路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古北路 红宝石路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古北路 延安西路\",\"id_alias\":\"4号口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古北路 延安西路\",\"id_alias\":\"5号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2: Gubei Road Hongbaoshi Road,    \r\nExit 4: Gubei Road West Yan'an Road,    \r\nExit 5: Gubei Road West Yan'an Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":15,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近4号口，近5号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "No. 1:Accessible Elevator: outside pay area -- near exit 4, near exit 4 (self-service),                                       No. 2:Accessible Elevator: inside pay area -- mid-station-hall, mid-platform (self-service)",
+  "terminal": 0
+ }
+]

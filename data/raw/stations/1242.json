@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1242",
+  "name_cn": "宁国路",
+  "name_en": "Ningguo Road",
+  "pinyin": "ngl",
+  "station_code": "800-NGL",
+  "lines": "12",
+  "longitude": 121.539069,
+  "latitude": 31.274769,
+  "gao_lng": 121.532590164146,
+  "gao_lat": 31.2687223133616,
+  "x": 0.6674,
+  "y": 0.2986,
+  "station_pic": "宁国路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"}]}",
+  "toilet_position_en": "Near Exit 4(Station Outside)",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路 黄兴路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路 黄兴路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路 宁国路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路 宁国路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长阳路 眉州路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Changyang Rd Ningguo Rd,Exit 2:Changyang Rd Ningguo Rd,Exit 3:Changyang Rd Ningguo Rd,Exit 4:Changyang Rd Ningguo Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——4号口，3号口长通道内（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站台西端，往七莘路方向车头（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 3 to ground,Accessible Lift 2:public area of station hall near Exit 4 to ground,Accessible Lift 3:platform to station hall near Exit 5",
+  "terminal": 0
+ }
+]

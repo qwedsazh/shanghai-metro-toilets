@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1052",
+  "name_cn": "陕西南路",
+  "name_en": "South Shaanxi Road",
+  "pinyin": "sxnl",
+  "station_code": "A01-SXNL",
+  "lines": "1,10,12",
+  "longitude": 121.465296,
+  "latitude": 31.222124,
+  "gao_lng": 121.458833361459,
+  "gao_lat": 31.21591857238,
+  "x": 0.4786,
+  "y": 0.4444,
+  "station_pic": "陕西南路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往莘庄方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-14\",\"plan_open_date\":\"2024-11-17\"},{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近7号口\"},{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台中部\"},{\"lineno\":12,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往金海路方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-14\",\"plan_open_date\":\"2024-10-01\"}]}",
+  "toilet_position_en": "Line 1 Inside Pay Area head of train bound for Xinzhuang at the platform\r\n<br />Line 10 Outside Paid Area west end of station hall, near exit 7\r\n<br />Line 12 Inside Paid Area head of train bound for Jinhai Road at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陕西南路 淮海中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陕西南路 淮海中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名南路 淮海中路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名南路 淮海中路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南昌路 陕西南路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南昌路 襄阳南路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陕西南路 南昌路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陕西南路\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"陕西南路 淮海中路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 6:Nanchang Rd South Shanxi Rd,Exit 7:Nanchang Rd Xiangyang South Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#斜挂梯 地面-站厅——近3号口，近3号口(非自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近8号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Line 10:Helicopter ladder  The ground station hall  Near Exit 6,Line 10:Helicopter ladder  The station hall to the platform  The station hall central platform",
+  "terminal": 0
+ }
+]

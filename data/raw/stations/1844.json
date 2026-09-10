@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1844",
+  "name_cn": "上海财经大学",
+  "name_en": "Shanghai University of Finance and Economics",
+  "pinyin": "shcjdx",
+  "station_code": "20000-SHCJDX",
+  "lines": "18",
+  "longitude": 121.502865,
+  "latitude": 31.313669,
+  "gao_lng": 121.496284426159,
+  "gao_lat": 31.3080299100865,
+  "x": 0.5859,
+  "y": 0.2213,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Inside pay area train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"武川路 上海财经大学\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"政立路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"国权北路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Wuchuan Road,\r\nExit 2: Wuchuan Road and Shanghai University of Finance and Economics,\r\nExit 3: Wuchuan Road,\r\nExit 4: Zhengli Road,\r\nExit 5: North Guoquan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——客服中心背面，往康文路方向站台中部 （自助）\"}]}]}",
+  "elevator_en": "1# Accessible Elevator: outside pay area, ground-station hall -- near exit 1, near exit 1 (self-service)(Closed for Construction)<br />\r\n2# Accessible Elevator: inside pay area,station hall-platform -- back of customer service center, mid in the direction of South Changjiang Road (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "848",
+  "name_cn": "嫩江路",
+  "name_en": "Nenjiang Road",
+  "pinyin": "njl",
+  "station_code": "80-NJL",
+  "lines": "8",
+  "longitude": 121.538559,
+  "latitude": 31.320923,
+  "gao_lng": 121.532074196512,
+  "gao_lat": 31.3148850803737,
+  "x": 0.6692,
+  "y": 0.2155,
+  "station_pic": "嫩江路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往沈杜公路方向站台中部\"}]}",
+  "toilet_position_en": "Line 8:Pay Zone  Shendu Highway direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中原路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中原路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中原路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:Zhongyuan Rd,Exit 3:Zhongyuan Rd,Exit 4:Zhongyuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——中原路嫩江路，3号口，往沈杜公路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口，往市光路方向车尾（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform--Zhongyuan Road & Nenjiang Road，Exit 3，Front End of Platform bound for Shendu Highway（Non Self-service）<br /> \r\nAccessible Lift 2  Station Hall-Platform--Exit 2，Rear End of Platform bound for Shiguang Road（Self-service）",
+  "terminal": 0
+ }
+]

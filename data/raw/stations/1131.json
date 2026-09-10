@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1131",
+  "name_cn": "嘉定北",
+  "name_en": "North Jiading",
+  "pinyin": "jdb",
+  "station_code": "400-JDB",
+  "lines": "11",
+  "longitude": 121.24401,
+  "latitude": 31.397409,
+  "gao_lng": 121.237484805777,
+  "gao_lat": 31.3915511824521,
+  "x": 0.2199,
+  "y": 0.0693,
+  "station_pic": "嘉定北.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外公共厕所\"}]}",
+  "toilet_position_en": "Line 11：Outside of a station  2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"平城路 城北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"平城路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"日月光中心\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Pingcheng Rd Chengbei Rd,Exit 2:Pingcheng Rd Chengbei Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——平城路，2号口（自助）\",\"plan_close_date\":\"2023-11-21\",\"plan_open_date\":\"2023-12-31\"},{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——平城路，1号口（自助）\",\"plan_close_date\":\"2023-11-21\",\"plan_open_date\":\"2023-12-31\"}]}]}",
+  "elevator_en": "Accessible Lift 1:east of platform towards Anting Station,Accessible Lift 2:east of platform towards Jiangsu Road Station",
+  "terminal": 0
+ }
+]

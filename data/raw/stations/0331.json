@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "331",
+  "name_cn": "长江南路",
+  "name_en": "South Changjiang Road",
+  "pinyin": "cjnl",
+  "station_code": "20004-CJNL",
+  "lines": "3,18",
+  "longitude": 121.498185,
+  "latitude": 31.337669,
+  "gao_lng": 121.491588663034,
+  "gao_lat": 31.3319966089636,
+  "x": 0.5844,
+  "y": 0.1833,
+  "station_pic": "长江南路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 站厅内靠近站房门旁边\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往长江南路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Line 3 Pay Zone  Next to the control room\r\n<br />Line 18       \r\nInside pay area,train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"何家湾路 逸仙路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江南路 逸仙路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江南路 逸仙路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Hejiawan Road and Yixian Road,\r\nExit 2: South Changjiang Road and Yixian Road,\r\nExit 3: South Changjiang Road and Yixian Road,\r\nExit 4: South Changjiang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 换乘通道——换乘通道底部位置，换乘通道上部平台（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站台-站厅——客服中心背面，往长江南路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-地面——规划公交枢纽，近3号口（自助）\"}]}]}",
+  "elevator_en": "Line 3 Accessible Lift 1  Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）<br />Line 18\r\n1# Accessible Elevator: inside pay area, transfer passageway -- bottom of transfer passageway, platform above transfer passageway (self-service)<br />\r\n2# Accessible Elevator: inside pay area, platform-station hall -- north of customer service center, mid platform in the direction of South Changjiang Road (self-service)<br />\r\n3# Accessible Elevator: outside pay area,station hall-ground -- planned public transportation hub, near exit 3 (self-service)",
+  "terminal": 0
+ }
+]

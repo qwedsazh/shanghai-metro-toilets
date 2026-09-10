@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "246",
+  "name_cn": "南京东路",
+  "name_en": "East Nanjing Road",
+  "pinyin": "njdl",
+  "station_code": "202-NJDL",
+  "lines": "2,10",
+  "longitude": 121.490857,
+  "latitude": 31.243738,
+  "gao_lng": 121.484275200919,
+  "gao_lat": 31.2379823089828,
+  "x": 0.5579,
+  "y": 0.3947,
+  "station_pic": "南京东路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车尾\"},{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"10号线 费区内 站厅北端，近6号口\"}]}",
+  "toilet_position_en": "Line 2:Pay Zone  Guanglan Rd direction to the rear of the platform,Line 10:Non-paying zone  Near Exit 6",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京东路 山西南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京东路 河南中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"九江路 山东中路 南京东路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":\"4A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京东路 山西南路 九江路\",\"id_alias\":\"4A号出入口\",\"memo\":\"R*\"},{\"id\":\"4B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京东路 山西南路 九江路\",\"id_alias\":\"4B号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"河南中路 天津路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁波路 河南中路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"河南中路 南京东路 天津路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:South Shanxi Rd East Nanjing Rd,Exit 2:East Nanjing Rd,Exit 3:Middle Shandong Rd,Exit 4:East Nanjing Rd,Exit 5:South Tianjin Rd Middle Henan Rd,Exit 6:Middle Henan Rd,Exit 7:East Nanjing Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——南京东路，2号口（自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——河南中路天津路，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——East of Station Hall，Rear End of Platform bound for East Xujing（Non Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall——East Nanjing Road，Exit 2（Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "929",
+  "name_cn": "星中路",
+  "name_en": "Xingzhong Road",
+  "pinyin": "xzl",
+  "station_code": "100-XZL",
+  "lines": "9",
+  "longitude": 121.375571,
+  "latitude": 31.163862,
+  "gao_lng": 121.369008006801,
+  "gao_lat": 31.1581721031731,
+  "x": 0.2974,
+  "y": 0.5029,
+  "station_pic": "星中路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往曹路方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-21\",\"plan_open_date\":\"2024-11-22\"}]}",
+  "toilet_position_en": "Inside Pay Area head of train bound for Caolu at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 星中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":\"2号东口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 星中路\",\"id_alias\":\"2号东出入口\",\"memo\":\"R*\"},{\"id\":\"2号西口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 星中路\",\"id_alias\":\"2号西出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Caobao Rd Xingzhong Rd,East Exit 2:Caobao Rd Waihuan Rd,West Exit 2:Caobao Rd Waihuan Rd,Exit 3:Caobao Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——漕宝路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:1outside of Exit 1 north of Caobao Roadoutside to station hall,Accessible Lift 2:beside Customer Service Centerstation hall to platform",
+  "terminal": 0
+ }
+]

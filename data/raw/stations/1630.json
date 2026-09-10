@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1630",
+  "name_cn": "惠南东",
+  "name_en": "East Huinan",
+  "pinyin": "hnd",
+  "station_code": "8000-HND",
+  "lines": "16",
+  "longitude": 121.799711,
+  "latitude": 31.032764,
+  "gao_lng": 121.793304982098,
+  "gao_lat": 31.02642317509,
+  "x": 0.7508,
+  "y": 0.8319,
+  "station_pic": "惠南东.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":16,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近4号口\"}]}",
+  "toilet_position_en": "Line 16:Non-paying zone  Exit 4 entrance side",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"辛新路 海桥路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"（暂未开通）\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"（暂未开通）\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"幸新路 海桥路 公交枢纽\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Haiqiao Rd Haiqiao Rd,Exit 2:Xinxin Rd Haiqiao Rd Transit Bub",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":16,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，往滴水湖方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，往龙阳路方向站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:\r\ntrain upstream from hall to platform,Accessible Lift 2:train downstream from hall to platform",
+  "terminal": 0
+ }
+]

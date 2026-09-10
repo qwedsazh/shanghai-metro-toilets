@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "534",
+  "name_cn": "奉浦大道",
+  "name_en": "Fengpu Avenue",
+  "pinyin": "fpdd",
+  "station_code": "10-FPDD",
+  "lines": "5",
+  "longitude": 121.455712,
+  "latitude": 30.948101,
+  "gao_lng": 121.449309854548,
+  "gao_lat": 30.94178219911,
+  "x": 0.3382,
+  "y": 0.8065,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"}]}",
+  "toilet_position_en": "Outside the pay-area,\r\nnear Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪杭公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方美谷大道 沪杭公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"奉浦大道\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1: Shanghai-Hangzhou?Highway\r\nExit 2: Fengpu Avenue, Shanghai-Hangzhou?Highway\r\nExit 3: Fengpu Avenue",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往奉贤新城方向站台中部,近3号口（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the station hall to the platform; at the side of trains bound for Fengxian Xincheng and at the central platform ,near Exit 3(self-service)",
+  "terminal": 0
+ }
+]

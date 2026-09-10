@@ -1,0 +1,44 @@
+name: 厕所数据上报
+description: 上报厕所位置错误、关闭改造、新增厕所，或上传平面图/照片
+title: "[数据上报] "
+labels: ["data-report"]
+body:
+  - type: input
+    id: station
+    attributes:
+      label: 车站名
+      description: 例如：武宁路
+      placeholder: 哪个车站？
+    validations:
+      required: true
+  - type: input
+    id: line
+    attributes:
+      label: 线路
+      placeholder: 例如：13号线（换乘站可填多条）
+  - type: dropdown
+    id: type
+    attributes:
+      label: 问题类型
+      options:
+        - 厕所位置/描述有误
+        - 厕所关闭或改造中
+        - 数据里缺少这个厕所
+        - 上传平面图或现场照片
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 详细说明
+      description: 尽量写清位置（站台/站厅、车头/车尾、近几号口、费区内/外）
+      placeholder: 例如：13号线往张江路方向车头的厕所已经改造完开放了
+    validations:
+      required: true
+  - type: textarea
+    id: photos
+    attributes:
+      label: 照片/平面图
+      description: 直接把图片拖进这个输入框即可上传（可选）
+      placeholder: 拖拽图片到此处上传

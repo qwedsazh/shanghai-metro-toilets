@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1848",
+  "name_cn": "长江西路",
+  "name_en": "West Changjiang Road",
+  "pinyin": "cjxl",
+  "station_code": "20000-CJXL",
+  "lines": "18",
+  "longitude": 121.481722,
+  "latitude": 31.351803,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.5401,
+  "y": 0.152,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"铁山路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江西路 郁江巷路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"长江西路 郁江巷路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Line 1:Tieshan Road,Line 2:West Changjiang Road  Yujiangxiang Road,Line 3:West Changjiang Road  Yujiangxiang Road,Line 4:Tieshan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台无障碍电梯——站厅中部，站台中部\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅无障碍电梯——靠近3号口\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

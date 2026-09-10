@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "423",
+  "name_cn": "鲁班路",
+  "name_en": "Luban Road",
+  "pinyin": "lbl",
+  "station_code": "8-LBL",
+  "lines": "4",
+  "longitude": 121.480988,
+  "latitude": 31.20494,
+  "gao_lng": 121.474467281998,
+  "gao_lat": 31.1990251262881,
+  "x": 0.5015,
+  "y": 0.5068,
+  "station_pic": "鲁班路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"}]}",
+  "toilet_position_en": "<img alt='' src='/resource/images/toliet-o.png' width='32px' />:Line 4:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瞿溪路 鲁班路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瞿溪路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"瞿溪路 打浦路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Luban RdSouth Zhongshan 1st Rd Shanghai Green Harbour Welfare Hospital Shanghai Aurora Foreign Language Middle School,Exit 2:Luban Rd South Zhongshan 1st Rd Qianjin College,Exit 3:Luban Rd South Zhongshan 1st RdDongnan Hospital,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——瞿溪路打浦路，3号口（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Quxi Road & Dapu Road，Exit 3（Non Self-service）",
+  "terminal": 0
+ }
+]

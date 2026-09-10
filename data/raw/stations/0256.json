@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "256",
+  "name_cn": "唐镇",
+  "name_en": "Tangzhen",
+  "pinyin": "tz",
+  "station_code": "2-TZ",
+  "lines": "2",
+  "longitude": 121.662625,
+  "latitude": 31.219828,
+  "gao_lng": 121.656141686451,
+  "gao_lat": 31.213709656694,
+  "x": 0.7841,
+  "y": 0.5052,
+  "station_pic": "唐镇.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"高科东路 齐爱路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"高科东路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"高科东路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Gaoke RD  Qi'ai RD,Exit 2:East Gaoke RD",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——高科东路、齐爱路，1号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform——Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall——East Gaoke Road & Qiai Road，Exit 1（Self-service）",
+  "terminal": 0
+ }
+]

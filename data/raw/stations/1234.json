@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1234",
+  "name_cn": "南京西路",
+  "name_en": "West Nanjing Road",
+  "pinyin": "njxl",
+  "station_code": "1802-NJXL",
+  "lines": "2,12,13",
+  "longitude": 121.467221,
+  "latitude": 31.234971,
+  "gao_lng": 121.46074540581,
+  "gao_lat": 31.2287958758826,
+  "x": 0.4918,
+  "y": 0.3978,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区内 往金海路方向站台车头\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅服务中心对面\"},{\"lineno\":13,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近8号口\"}]}",
+  "toilet_position_en": "outside pay area  oppsite to Service Center",
+  "entrance_info": "{\"line\":[{\"lineno\":\"2\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 泰兴路 茂名北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"南京西路 石门一路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴江路 石门一路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名北路 吴江路 泰兴路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]},{\"lineno\":\"13\",\"entrance\":[{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴江路 石门一路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石门一路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石门一路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石门一路 威海路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石门一路\",\"memo\":\"R*\",\"id_alias\":\"9号出入口\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"石门一路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"吴江路 石门一路\",\"id_alias\":\"11号出入口\",\"memo\":\"R*\"}]},{\"lineno\":\"12\",\"entrance\":[{\"id\":12,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名北路 威海路\",\"id_alias\":\"12号出入口\",\"memo\":\"R*\"},{\"id\":13,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名北路\",\"id_alias\":\"13号出入口\",\"memo\":\"R*\"},{\"id\":14,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"茂名北路 吴江路\",\"id_alias\":\"14号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 12：Opened\r\nExit 13：Opened\r\nExit 14：Opened",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近服务中心，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——吴江路步行街，4号口（自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近服务中心，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近13号口（自助）\"}]},{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-B1——近8号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 B1-站台——近8号口，往张江路方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 B1-站台——近8号口，往金运路方向车尾（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1：ground - station hall -- No. 1 Shimen Rd，near exit 8（non-self-help）\r\n<br />Accessible Lift 2：station hall - platform -- south end of B1 floor/south end of station hall，train head of start-terminal line（non-self-help）\r\n<br />Accessible Lift 3：station hall - platform -- south end of B1 floor/south end of station hall，train end of terminal-start line（non-self-help）",
+  "terminal": 0
+ }
+]

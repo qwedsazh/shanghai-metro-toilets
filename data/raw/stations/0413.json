@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "413",
+  "name_cn": "临平路",
+  "name_en": "Linping Road",
+  "pinyin": "lpl",
+  "station_code": "8-LPL",
+  "lines": "4",
+  "longitude": 121.507604,
+  "latitude": 31.26658,
+  "gao_lng": 121.501010962482,
+  "gao_lat": 31.2609440456749,
+  "x": 0.5883,
+  "y": 0.3208,
+  "station_pic": "临平路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"}]}",
+  "toilet_position_en": "Line 4：Outside of a station  1 and 2 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"飞虹路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"天虹路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"临平路 飞虹路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"天虹路 飞虹路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Feihong Rd Ruihong New Town Hongkou People's Government,Exit 2:Feihong Rd Hongling Apartment Ruihong New Town,Exit 3:Feihong Rd Linping Rd Hongling Apartment Ruihong New Town,Exit 4:Feihong Rd Hongling Apartment Ruihong New Town",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——天虹路，1号口，往外圈方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅-站台——天虹路，1号口，往内圈方向车头（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——Zhoushan Road，between Exit 1 and Exit 2，Rear End of Platform bound for Shanghai Indoor Stadium（Non Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall-Platform——Zhoushan Road，between Exit 1 and Exit 2，Front End of Platform bound for Yishan Road（Non Self-service）",
+  "terminal": 0
+ }
+]

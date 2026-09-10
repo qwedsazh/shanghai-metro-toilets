@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "647",
+  "name_cn": "外高桥保税区北",
+  "name_en": "North Waigaoqiao Free Trade Zone",
+  "pinyin": "wgqbsqbz",
+  "station_code": "20-WGQBSQBZ",
+  "lines": "6",
+  "longitude": 121.593445,
+  "latitude": 31.353883,
+  "gao_lng": 121.586940731259,
+  "gao_lat": 31.3478199390473,
+  "x": 0.7562,
+  "y": 0.185,
+  "station_pic": "外高桥保税区北站.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站外2号口处下楼\"}]}",
+  "toilet_position_en": "Line 6:Pay Zone  South station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"马吉路 基隆路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"学前街 海春路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Maji Rd Jilong Rd,Exit 2:Xueqian St Haichun Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#直升电梯：地面至站厅——杨高北路，2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#直升电梯：地面至站厅——杨高北路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#直升电梯：站厅至站台——2号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#直升电梯：站厅至站台——1号口，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--North Yanggao Road,Exit 2（Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall--North Yanggao Road,Exit 1（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Exit 2，Middle of Platform（Self-service）<br />\r\nAccessible Lift 4  Station Hall-Platform--Exit 1，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

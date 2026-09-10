@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1070",
+  "name_cn": "双江路",
+  "name_en": "Shuangjiang Road",
+  "pinyin": "sjl",
+  "station_code": "200-SJL",
+  "lines": "10",
+  "longitude": 121.54465,
+  "latitude": 31.360158,
+  "gao_lng": 121.538170023462,
+  "gao_lat": 31.3540022083921,
+  "x": 0.7017,
+  "y": 0.1743,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 天桥近2号口\"}]}",
+  "toilet_position_en": "Line 10:outside the pay area on the footbridge near exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"双江路 港城路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"双江路 港城路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Shuangjiang Road and Gangcheng Road,                                   Exit 2:Shuangjiang Road and Gangcheng Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区外 地面-天桥——近1号口，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区外 地面-天桥——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区内 站厅-站台——近1号口，往虹桥火车站、航中路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 站厅-站台——近2号口，往基隆路方向站台中部（自助）\"}]}]}",
+  "elevator_en": "No. 1 Accessible Elevator, outside the pay area, ground-footbridge: near exit 1, near eixt 1 (self-service)                                                                                               No. 2 Accessible Elevator, outside the pay area, ground-footbridge: near exit 2, near eixt 2 (self-service)                                                                                               No. 3 Accessible Elevator, inside the pay area, station hall-platform: near exit 1, mid-platform for trains bound for Hongqiao Railway Station and Hangzhong Rd (self-service)                             No. 4 Accessible Elevator, inside the pay area, station hall-platform: near exit 2, mid-platform for trains bound for Jilong Rd (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1327",
+  "name_cn": "金沙江路",
+  "name_en": "Jinshajiang Road",
+  "pinyin": "jsjl",
+  "station_code": "100C-JSJL",
+  "lines": "3,4,13",
+  "longitude": 121.419507,
+  "latitude": 31.237991,
+  "gao_lng": 121.413002426921,
+  "gao_lat": 31.2319289331239,
+  "x": 0.3935,
+  "y": 0.3496,
+  "station_pic": "金沙江路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 站厅中部警务站对面\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 至3号线站厅中部警务站对面\"},{\"lineno\":13,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近6号口\"},{\"lineno\":13,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往张江路方向车尾\"}]}",
+  "toilet_position_en": "Line 3 Inside Pay Area Storey of Station Hall, near the transfer passageway, near line 13 (Lines 3 and 4 sharing the same line)\r\n<br />Line 13 Outside Pay Area Storey of Station Hall, near exit 6",
+  "entrance_info": "{\"line\":[{\"lineno\":[\"3\",\"4\"],\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 凯旋北路 中山北路 金沙江路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 凯旋北路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 凯旋北路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]},{\"lineno\":\"13\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 凯旋北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 金沙江路 中山北路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宁夏路 金沙江路 中山北路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Ningxia Rd North Kaixuan Rd,Exit 2:Ningxia Rd Jingshajiang Rd North Zhongshan Rd,Exit 3:Ningxia Rd Jingshajiang Rd North Zhongshan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——换乘通道，往上海南站方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——换乘通道，往江杨北路方向车尾（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——换乘通道，往外圈方向车头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——换乘通道，往内圈方向车尾（自助）\"}]},{\"lineno\":13,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——中山北路，6号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台—中山北路，站厅东端，往张江路方向车头（非自助）\"}]}]}",
+  "elevator_en": "Line 13:Helicopter ladder  The ground station hall  Near Exit 6,Line 13:Helicopter ladder  The station hall to the platform  Jinshajiang Rd direction to the front of the platform",
+  "terminal": 0
+ }
+]

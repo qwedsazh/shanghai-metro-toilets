@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>上海地铁厕所通</title>
+  <meta name="description" content="上海地铁车站卫生间查询：定位找最近、按线路浏览、地图查看">
+  <meta name="theme-color" content="#0a5bd6">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="地铁厕所通">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-top">
+      <h1 class="app-title">🚻 上海地铁厕所通</h1>
+      <p id="data-version" class="data-version">数据加载中…</p>
+    </div>
+    <div class="search-row">
+      <input id="search-input" type="search" inputmode="search" autocomplete="off"
+             placeholder="搜索站名 / 拼音" aria-label="搜索站名或拼音">
+    </div>
+    <div class="filter-chips" id="filter-chips" role="group" aria-label="按费区筛选">
+      <button class="chip active" data-filter="all">全部</button>
+      <button class="chip" data-filter="outside">仅费区外(含车站外)</button>
+      <button class="chip" data-filter="inside">仅费区内</button>
+    </div>
+  </header>
+
+  <main class="app-main" id="main">
+    <section id="view-nearby" class="view active" aria-label="附近">
+      <div id="locate-panel" class="locate-panel"></div>
+      <div id="station-list" class="station-list"></div>
+    </section>
+
+    <section id="view-lines" class="view" aria-label="线路">
+      <div id="line-chips" class="line-chips" role="group" aria-label="选择线路"></div>
+      <div id="line-station-list" class="station-list"></div>
+    </section>
+
+    <section id="view-map" class="view" aria-label="地图">
+      <div id="map" class="map-container"></div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span id="disclaimer"></span>
+    <a id="repo-link" href="#" target="_blank" rel="noopener">项目仓库</a>
+  </footer>
+
+  <nav class="tab-bar" aria-label="主导航">
+    <button class="tab active" data-tab="nearby">📍<span>附近</span></button>
+    <button class="tab" data-tab="lines">🚇<span>线路</span></button>
+    <button class="tab" data-tab="map">🗺️<span>地图</span></button>
+  </nav>
+
+  <div id="station-modal" class="modal" hidden>
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-sheet" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-handle" aria-hidden="true"></div>
+      <div id="modal-content" class="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

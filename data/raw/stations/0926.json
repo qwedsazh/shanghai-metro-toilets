@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "926",
+  "name_cn": "九亭",
+  "name_en": "Jiuting",
+  "pinyin": "jt",
+  "station_code": "100-JT",
+  "lines": "9",
+  "longitude": 121.325378,
+  "latitude": 31.143844,
+  "gao_lng": 121.318969069599,
+  "gao_lat": 31.1374801110195,
+  "x": 0.2398,
+  "y": 0.5187,
+  "station_pic": "九亭.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近2号口\",\"status\":1,\"plan_close_date\":\"2025-11-18\",\"plan_open_date\":\"2026-02-08\"}]}",
+  "toilet_position_en": "Line 9:Outside of a station  4 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 沪亭路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 沪亭路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪松公路 沪亭路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Husong Highway South Huting Rd,Exit 3:Husong Highway,Exit 4:Husong Highway North Huting Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——沪松公路，3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——客服中心旁，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:on the right side of west station hall,to outside of Exit 3,Accessible Lift 2:Customer Service Center,station hall to platform",
+  "terminal": 0
+ }
+]

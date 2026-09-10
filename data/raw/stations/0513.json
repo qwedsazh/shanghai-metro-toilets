@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "513",
+  "name_cn": "闵行开发区",
+  "name_en": "Minhang Development Zone",
+  "pinyin": "mhkfq",
+  "station_code": "10-MHKFQ",
+  "lines": "5",
+  "longitude": 121.376495,
+  "latitude": 31.006315,
+  "gao_lng": 121.369897850934,
+  "gao_lat": 31.0006260356832,
+  "x": 0.2406,
+  "y": 0.7527,
+  "station_pic": "闵行开发区.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 2号口外\"}]}",
+  "toilet_position_en": "Outside Pay Area near exit 2 public toilet",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东川路 天星路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东川路 天星路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kunyang Rd,Dongchuan Rd,Exit 2:Kunyang Rd,Dongchuan Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——东川路天星路，天桥（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Dongchuan Road & Tianxing Road，Overpass（Self-service） <br />\r\nAccessible Lift 2  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 1
+ }
+]

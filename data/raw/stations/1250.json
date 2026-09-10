@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1250",
+  "name_cn": "申江路",
+  "name_en": "Shenjiang Road",
+  "pinyin": "sjl",
+  "station_code": "800-SJL",
+  "lines": "12",
+  "longitude": 121.633793,
+  "latitude": 31.285856,
+  "gao_lng": 121.62722262009,
+  "gao_lat": 31.2801988955874,
+  "x": 0.7884,
+  "y": 0.3062,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "Outside Pay Area  near exit 5",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"巨峰路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"巨峰路 申江路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Jufeng Rd Exit 3:Jufeng Rd Shenjiang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——3号口，往金海路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——申江路巨峰路，公厕旁，1号口（自助）\"}]}]}",
+  "elevator_en": "<img alt='' src='/resource/images/12-wuzhangai.png' width='32px' />:ElevatorStation Hall - Platformnear Exit 1\r\n<img alt=‘‘ src=‘/resource/images/4-wuzhangai.png’ width=‘32px’ />:ElevatorGround - Platformnear Control Room",
+  "terminal": 0
+ }
+]

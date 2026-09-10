@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1725",
+  "name_cn": "徐泾北城",
+  "name_en": "Xujingbeicheng",
+  "pinyin": "xjbc",
+  "station_code": "10000-XJBC",
+  "lines": "17",
+  "longitude": 121.251783,
+  "latitude": 31.18235,
+  "gao_lng": 121.245234201089,
+  "gao_lat": 31.176615690727,
+  "x": 0.2125,
+  "y": 0.4443,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往虹桥火车站方向车头\"}]}",
+  "toilet_position_en": "in pay area head of train bound for Hongqiao Railway Station",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"崧泽大道 徐乐路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐泾北城公交枢纽\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"崧泽大道\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Songze Avenue Xule Road,Exit 2:Songze Avenue,Exit 3:Xule Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往虹桥火车站方向站台中部，站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#Elevator- Station Hall to Platform——middle of the platform for train bound for Hongqiao Railway Station,middle of station hall（self-service）",
+  "terminal": 0
+ }
+]

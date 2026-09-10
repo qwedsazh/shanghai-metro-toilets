@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "644",
+  "name_cn": "洲海路",
+  "name_en": "Zhouhai Road",
+  "pinyin": "zhl",
+  "station_code": "20-ZHL",
+  "lines": "6",
+  "longitude": 121.595922,
+  "latitude": 31.318355,
+  "gao_lng": 121.589432389956,
+  "gao_lat": 31.3123459060007,
+  "x": 0.7298,
+  "y": 0.239,
+  "station_pic": "洲海路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅TVM旁通道内\"}]}",
+  "toilet_position_en": "Line 6:Non-paying zone  North station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨北路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨北路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:North Zhangyang Rd,Exit 2:North Zhangyang Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——1号口，站台中部（自助）\",\"memo\":\"\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——2号口，站台中部（自助）\"},{\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——张杨北路启帆路，2号口（自助）\",\"plan_close_date\":\"2023-10-18\",\"plan_open_date\":\"2023-10-26\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--Exit 1，Middle of Platform（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform--Exit 2，Middle of Platform（Self-service）<br />\r\nAccessible Lift 3  Ground-Station Hall--North Zhangyang Road & Qifang Road，Exit 2（Self-service）",
+  "terminal": 0
+ }
+]

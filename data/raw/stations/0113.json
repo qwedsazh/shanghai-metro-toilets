@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "113",
+  "name_cn": "莲花路",
+  "name_en": "Lianhua Road",
+  "pinyin": "lhl",
+  "station_code": "1-LHL",
+  "lines": "1",
+  "longitude": 121.409334,
+  "latitude": 31.136734,
+  "gao_lng": 121.402790739799,
+  "gao_lat": 31.1308651542539,
+  "x": 0.3445,
+  "y": 0.5978,
+  "station_pic": "莲花路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 北站厅中部\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  3 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"梅陇西路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"梅陇西路\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "North Exit 2:Humin Rd Gufang Rd,North Exit 3:Humin Rd Wanyuan Rd,South Exit 1:West Meilong Rd Lianhua Rd,South Exit 2:West Meilong Rd Luoxiu Rd,South Exit 3:West Meilong Rd Luoxiu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 通道-地面——7号口（非自助）\",\"status\":1},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 天桥-站厅-站台——站台中部，往莘庄方向中部（自助）\",\"status\":1},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 天桥-站台——站台中部，往富锦路方向中部（自助）\",\"status\":1},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-通道——6号口（自助）\",\"status\":1,\"plan_close_date\":\"2025-09-01\",\"plan_open_date\":\"2025-09-17\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 站厅-站台——站台，往富锦路方向车头（自助）\",\"status\":1}]}]}",
+  "elevator_en": "Inclined Lift 1  Ground-Station Hall——North Exit 2，in the Channel（Non Self-service）<br />\r\nInclined Lift 2  Ground-Platform——in the Channel，Front End of Platform bound for Fujin Road（Non Self-service）<br />\r\nInclined Lift 3  Channel-Ground——South Exit 1，the Platform bound for Xinzhuang（Non Self-service)\r\n<br />\r\nLift Platform 4  Ground-Station Hall-Platform——North Exit 2，Turnstile Entrance bond for Xinzhuang（Non Self-service）",
+  "terminal": 0
+ }
+]

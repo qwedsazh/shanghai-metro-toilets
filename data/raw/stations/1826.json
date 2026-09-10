@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1826",
+  "name_cn": "周浦",
+  "name_en": "Zhoupu",
+  "pinyin": "zp",
+  "station_code": "20000-ZP",
+  "lines": "18",
+  "longitude": 121.57417,
+  "latitude": 31.120135,
+  "gao_lng": 121.567736992178,
+  "gao_lat": 31.1137944707206,
+  "x": 0.6115,
+  "y": 0.7171,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往康文路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Line 18:inside the pay area at the front of a train bound for Yuqiao at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路 年家浜路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"年家浜路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪南公路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hunan Highway and Nianjiabang Road,                                       \r\nExit 2:Nianjiabang Road,                                 \r\nExit 3:Hunan Highway,                                                         \r\nExit 5:Hunan Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——客服中心旁，往康文路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-地面——近2号口，2号口（自助）\"}]}]}",
+  "elevator_en": "No. 1 Accessible Elevator, inside the pay area, station hall-platform: near the service center, mid-platform for trains bound for Yuqiao (self-service)                                                                                                 No. 2 Accessible Elevator, inside the pay area, station hall-ground: near exit 2, exit 2 (self-service)",
+  "terminal": 0
+ }
+]

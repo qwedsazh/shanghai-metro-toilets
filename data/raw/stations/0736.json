@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "736",
+  "name_cn": "镇坪路",
+  "name_en": "Zhenping Road",
+  "pinyin": "zpl",
+  "station_code": "4C-ZPL",
+  "lines": "3,4,7",
+  "longitude": 121.436805,
+  "latitude": 31.253,
+  "gao_lng": 121.430374730476,
+  "gao_lat": 31.246678509661,
+  "x": 0.4521,
+  "y": 0.3211,
+  "station_pic": "镇坪路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅近换乘通道\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至3号线站厅近换乘通道\"},{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近6号口\",\"status\":1,\"plan_close_date\":\"2025-03-25\",\"plan_open_date\":\"2025-06-16\"}]}",
+  "toilet_position_en": "Line 3 Inside Pay Area Storey of Station Hall, under the stairway of east station hall (near the transfer passageway) (Lines 3 and 4 sharing the same line)\r\n<br />Line 7 Outside Pay Area near exit 6",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋北路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋北路 中山北路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"镇坪路 凯旋北路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"镇坪路 光复西路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"镇坪路 光复西路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"镇坪路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": ",Exit 2:North Kaixuan Rd,Exit 3:North Kaixuan Rd,4 Zhenping Rd,5 Zhenping Rd,6 Zhenping Rd,7 Zhenping Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——换乘通道处，往上海南站方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——换乘通道处，往江杨北路方向车头（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——换乘通道处，往外圈方向车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——换乘通道处，往内圈方向车头（自助）\"}]},{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅客服中心旁，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——镇坪路凯旋北路，换乘通道内（非自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--Exit 5，Middle of Platform（Self-service）<br /> \r\nAccessible Lift 2  Ground-Station Hall--Zhenping Road & North Kaixuan Road，in Transfer Channel（Non Self-service）",
+  "terminal": 0
+ }
+]

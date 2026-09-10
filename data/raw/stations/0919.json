@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "919",
+  "name_cn": "醉白池",
+  "name_en": "Zuibaichi Park",
+  "pinyin": "zbc",
+  "station_code": "100-ZBC",
+  "lines": "9",
+  "longitude": 121.235829,
+  "latitude": 31.006987,
+  "gao_lng": 121.229316009179,
+  "gao_lat": 31.0009700675662,
+  "x": 0.184,
+  "y": 0.6727,
+  "station_pic": "醉白池.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 2号口外马路对面公共厕所\"}]}",
+  "toilet_position_en": "Line 9:Pay Zone  Middle Yanggao Rd direction to the rear of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"梅园路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"人民南路 松江火车站\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"人民南路 醉白池公园\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 2:South Renmin Rd Songjiang Railway Station, Exit 3:South Renmin Rd Zuibaichi Park",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1: between the server centres, from hall to platform",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1439",
+  "name_cn": "浦东南路",
+  "name_en": "South Pudong Road",
+  "pinyin": "pdnl",
+  "station_code": "2000-PDNL",
+  "lines": "14",
+  "longitude": 121.517282,
+  "latitude": 31.243588,
+  "gao_lng": 121.510684966671,
+  "gao_lat": 31.2378913769095,
+  "x": 0.6045,
+  "y": 0.4098,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车头\"}]}",
+  "toilet_position_en": "Line 14:Inside pay area train head in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 即墨路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 即墨路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":\"3A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 即墨路\",\"memo\":\"R*\",\"id_alias\":\"3A号出入口\"},{\"id\":\"3B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 浦东南路\",\"memo\":\"R*\",\"id_alias\":\"3B号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1: Pudong Avenue  Jimo Road，\r\nExit 2: Jimo Road  Pudong Avenue，\r\nExit 3A, Pudong Avenue  Jimo Road，\r\nExit 3B, Pudong Avenue  South Pudong Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近2号口，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#accessible elevator: outside pay area, ground-station hall -- near Exit 2: near exit 2 (self-service)<br/>\r\n2#accessible elevator: inside pay area, station hall-platform -- customer service, mid platform (self-service)",
+  "terminal": 0
+ }
+]

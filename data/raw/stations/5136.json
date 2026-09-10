@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "5136",
+  "name_cn": "上海国际旅游度假区",
+  "name_en": "Shanghai International Resort",
+  "pinyin": "shgjlydjq",
+  "station_code": "4000000000000-SHGJLYDJQ",
+  "lines": "51",
+  "longitude": 121.685553,
+  "latitude": 31.162507,
+  "gao_lng": 0.0,
+  "gao_lat": 0.0,
+  "x": 0.7734,
+  "y": 0.6699,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外  站厅近1号口（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外  站厅近3号口（有母婴室）\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  往虹桥2号航站楼方向车头\"},{\"lineno\":51,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内  往浦东1号2号航站楼方向车头\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川展路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川金路 川展路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"川展路 唐黄路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Chuanzhan Road,\r\nExit 2: Chuanzhan Road,\r\nExit 3:Chuanzhan Road   Tanghuang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":51,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 费区外 地面-站厅——近1号口，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 费区外 地面-站厅——近3号口，近3号口（自助）\",\"status\":1,\"plan_close_date\":\"2025-12-03\",\"plan_open_date\":\"2026-01-28\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 费区内 站厅-站台——站厅中部，往虹桥2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 费区内 站厅-站台——站厅中部，往浦东1号2号航站楼方向站台中部（自助）\"}]}]}",
+  "elevator_en": "",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "537",
+  "name_cn": "金海湖",
+  "name_en": "Jinhai Lake",
+  "pinyin": "jhh",
+  "station_code": "10-JHH",
+  "lines": "5",
+  "longitude": 121.499047,
+  "latitude": 30.93462,
+  "gao_lng": 121.492480520686,
+  "gao_lat": 30.9289619967913,
+  "x": 0.4866,
+  "y": 0.8589,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往莘庄方向车头\"}]}",
+  "toilet_position_en": "Inside the pay-area,\r\nnear the head of the train bound for Xinzhuang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金海公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"金海公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"泽丰路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Jinhai Highway\r\nExit 2: Jinhai Highway\r\nExit 3: Zefeng Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近3号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往奉贤新城方向站台中部，站厅中部（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near Exit 3 (self-service)\r\n<br/>2#elevator: from the station hall to the platform; at the side of trains bound for Fengxian Xincheng and at the central platform (self-service)",
+  "terminal": 0
+ }
+]

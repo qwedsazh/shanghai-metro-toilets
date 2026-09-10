@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "648",
+  "name_cn": "港城路",
+  "name_en": "Gangcheng Road",
+  "pinyin": "gcl",
+  "station_code": "220-GCL",
+  "lines": "6,10",
+  "longitude": 121.581148,
+  "latitude": 31.359297,
+  "gao_lng": 121.574696646066,
+  "gao_lat": 31.3530294717986,
+  "x": 0.758,
+  "y": 0.157,
+  "station_pic": "港城路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 2号口\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"港城路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"草高支路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"港城路 张杨北路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:North Zhangyang Rd Ougao Rd,Exit 2:Ougao Rd Gangcheng Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅自动扶梯旁，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅自动扶梯旁，站台中部（自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近3号口，往虹桥火车站、航中路方向站台头部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Station Hall-Platform--near the Escalator in Station Hall，Middle of Platform（Self-service） <br />          \r\nAccessible Lift 2  Station Hall-Platform--near the Escalator in Station Hall，Middle of Platform（Self-service）",
+  "terminal": 1
+ }
+]

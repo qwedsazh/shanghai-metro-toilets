@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "634",
+  "name_cn": "民生路",
+  "name_en": "Minsheng Road",
+  "pinyin": "msl",
+  "station_code": "20020-MSL",
+  "lines": "6,18",
+  "longitude": 121.549926,
+  "latitude": 31.242115,
+  "gao_lng": 121.543468195808,
+  "gao_lat": 31.2358745424896,
+  "x": 0.674,
+  "y": 0.4176,
+  "station_pic": "民生路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":6,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 18号线往航头方向车头（有母婴室）\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往航头方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "Line 6 Pay Zone  Near Exit 2/3<br/>Line 18 Inside pay area train rear in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨路 民生路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨路 民生路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"张杨路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"民生路 羽山路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Zhangyang Road and Minsheng Road,\r\nExit 2: Zhangyang Road and Minsheng Road,\r\nExit 3: Zhangyang Road,\r\nExit 4: Minsheng Road,\r\nExit 5: Minsheng Road,\r\nExit 6: Minsheng Road Yushan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——张杨路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往东方体育中心方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往港城路方向中部（自助）\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近4号口，近4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——近客服中心，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 换乘通道-站厅——18号线换乘通道到6号线站厅（自助）\"}]}]}",
+  "elevator_en": "line 6 Accessible Lift 1  Ground-Station Hall--Zhangyang Road，Exit 1（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform--Middle of Platform bound for Oriental Sports Center（Self-service）<br />\r\nAccessible Lift 3  Station Hall-Platform--Middle of Platform bound for Gangcheng Road （Self-service）<br />line 18\r\n1# Accessible Elevator: outside pay area, ground-station hall -- near exit 4, near exit 4 (self-service)<br />\r\n2# Accessible Elevator: inside pay area,station hall-platform -- near customer service center, mid platform (self-service)<br />\r\n3# Accessible Elevator: inside pay area, passageway-station hall -- transfer passageway between line 18 and line 6, near exit 2 (self-service)",
+  "terminal": 0
+ }
+]

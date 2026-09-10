@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "409",
+  "name_cn": "中潭路",
+  "name_en": "Zhongtan Road",
+  "pinyin": "ztl",
+  "station_code": "C-ZTL",
+  "lines": "3,4",
+  "longitude": 121.447452,
+  "latitude": 31.261022,
+  "gao_lng": 121.441040656591,
+  "gao_lat": 31.2546568448957,
+  "x": 0.475,
+  "y": 0.3212,
+  "station_pic": "中潭路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 西厅一楼站厅层\"},{\"lineno\":4,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 西厅一楼站厅层\"}]}",
+  "toilet_position_en": "Line 3:Non-paying zone  4 5 entrance,Line 4:Non-paying zone  4 5 entrance",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"远景路 中潭路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"远景路 中潭路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"远景路 中潭路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"远景路 中潭路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中潭路 远景路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"中潭路 远景路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yuanjing Rd Boshiwa Kindergarten,Exit 2:Yuanjing Rd Yichuan Dry-cleaning Center Shanghai Unicom Mansion Huajing Mansion,Exit 3:Yuanjing Rd Cosco Two Bay City Cosco Experimental School,Exit 4:Yuanjing Rd Shanghai Commerce Accounting School",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——远景路，4号口，往上海南站方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——远景路，3号口，往江杨北路方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——远景路，5号口（自助）\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——远景路，4号口，往外圈方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——远景路，3号口，往内圈方向中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——远景路，5号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall-Platform——North Zhongshan Road，Exit 4，Middle of Platform bound for Shanghai Indoor Stadium（Non Self-service）<br />\r\nAccessible Lift 2  Ground-Station Hall-Platform——Yuanjing Road，Exit 3，Middle of Platform bound for Yishan Road（Non Self-service）",
+  "terminal": 0
+ }
+]

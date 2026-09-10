@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1440",
+  "name_cn": "浦东大道",
+  "name_en": "Pudong Avenue",
+  "pinyin": "pddd",
+  "station_code": "2008-PDDD",
+  "lines": "4,14",
+  "longitude": 121.526193,
+  "latitude": 31.246212,
+  "gao_lng": 121.51962817447,
+  "gao_lat": 31.2403950460872,
+  "x": 0.6337,
+  "y": 0.4082,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":4,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车尾\"},{\"lineno\":14,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外公共厕所\"},{\"lineno\":14,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往封浜方向车尾\"}]}",
+  "toilet_position_en": "Line 4:Outside station public toilet outside exit 1,\r\nLine 14:Inside pay area train rear in the direction of Fengbang",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 昌邑路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 栖霞路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":-2,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路 浦东大道\",\"memo\":\"R*\",\"id_alias\":\"4号出入口\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道\",\"memo\":\"R*\",\"id_alias\":\"5号出入口\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 荣成路\",\"memo\":\"R*\",\"id_alias\":\"6号出入口\"},{\"id\":\"7A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道 东方路\",\"memo\":\"R*\",\"id_alias\":\"7A号出入口\"},{\"id\":\"7B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"浦东大道\",\"memo\":\"R*\",\"id_alias\":\"7B号出入口\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"东方路\",\"memo\":\"R*\",\"id_alias\":\"8号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1: Dongfang Road  Changyi Road,\r\nExit 3: Dongfang Road  Qixia Road,\r\nExit 4: Dongfang Road  Pudong Avenue,\r\nExit 5: Pudong Avenue,\r\nExit 6: Rongcheng Road  Pudong Avenue,\r\nExit 7A: Dongfang Road  Pudong Avenue,\r\nExit 7B: Pudong Avenue,\r\nExit 8: Dongfang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅-站台——浦东大道东方路，3号口，往上海体育馆方向车尾（非自助）\"}]},{\"lineno\":14,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近1号口，往桂桥路方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近5号口，近5号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近6号口，近6号口（自助）\"}]}]}",
+  "elevator_en": "Line 4\r\n1#accessible elevator: outside pay area, ground-platform -- near Exit 3: train head in the direction of Shiji Avenue (non self-service)\r\n<br/>\r\nLine 14\r\n1#accessible elevator: inside pay area, station hall-platform -- near Exit 1: train rear in the direction of Guiqiao Road (self-service)<br/>\r\n2#accessible elevator: outside pay area, ground-station hall -- near Exit 5: near exit 5 (self-service)<br/>\r\n3#accessible elevator: outside pay area, ground-station hall -- near Exit 6: near exit 6 (self-service)",
+  "terminal": 0
+ }
+]

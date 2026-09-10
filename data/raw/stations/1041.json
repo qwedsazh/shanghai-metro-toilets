@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1041",
+  "name_cn": "虹桥火车站",
+  "name_en": "Hongqiao Railway Station",
+  "pinyin": "hqhcz",
+  "station_code": "10202-HQHCZ",
+  "lines": "2,10,17",
+  "longitude": 121.327907,
+  "latitude": 31.200316,
+  "gao_lng": 121.321506008609,
+  "gao_lat": 31.1939544833094,
+  "x": 0.2482,
+  "y": 0.4122,
+  "station_pic": "虹桥火车站.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往浦东1号2号航站楼方向站台车头\"},{\"lineno\":10,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至2号线往浦东1号2号航站楼方向站台车头\"},{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 至2号线往浦东1号2号航站楼方向站台车头\"}]}",
+  "toilet_position_en": "Line 2:Pay Zone  Guanglan Rd direction to the front of the platform,Line 10:Non-paying zone  Hongqiao railway station hall",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":\"AB区\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"通往高铁出发层 通往火车售票处\",\"memo\":\"N!\"},{\"id\":\"CD区\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"通往高铁出发层 通往长途汽车\",\"memo\":\"N!\"}]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，往浦东1号2号航站楼方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，往蟠祥路·国家会计学院方向站台中部（自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"}]},{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，往西岑方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部，往虹桥火车站方向站台中部（自助）\"}]}]}",
+  "elevator_en": "Line 10:Helicopter ladder  The ground to the platform  The station hall central platform",
+  "terminal": 1
+ }
+]

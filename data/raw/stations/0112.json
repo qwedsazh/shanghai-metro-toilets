@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "112",
+  "name_cn": "外环路",
+  "name_en": "Waihuanlu",
+  "pinyin": "whl",
+  "station_code": "1-WHL",
+  "lines": "1",
+  "longitude": 121.399814,
+  "latitude": 31.126929,
+  "gao_lng": 121.393226131841,
+  "gao_lat": 31.1212040392949,
+  "x": 0.332,
+  "y": 0.6099,
+  "station_pic": "外环路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 北广场公交站点厕所\"}]}",
+  "toilet_position_en": "Line 1:Outside of a station  Outside the north entrance",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":\"北2出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路 虹莘路 龙茗路 报春路\",\"memo\":\"R*\",\"id_alias\":\"北2号出入口\"},{\"id\":\"南1出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗锦路 梅陇西路\",\"memo\":\"R*\",\"id_alias\":\"南1号出入口\"},{\"id\":\"南2出入口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"罗锦路 梅陇西路\",\"memo\":\"R*\",\"id_alias\":\"南2号出入口\"}]}]}",
+  "entrance_info_en": "North Exit 2:Humin Rd Hongxin Rd Longming Rd Baochun Rd Xinmei Plaza Xinmei Apartment Xinmei Flower Garden Humin Elevated Rd,South Exit 1:Luojin Rd West Meilong Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 通道-站台——通道内，往富锦路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#斜挂梯 地面-通道——北出口（非自助）\",\"status\":1,\"plan_close_date\":\"2024-11-25\",\"plan_open_date\":\"2024-12-10\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-通道——南出口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#升降平台 地面-站厅——北2口，往莘庄方向进闸机口（非自助）\",\"status\":1,\"plan_close_date\":\"2025-10-24\",\"plan_open_date\":\"2025-10-30\"}]}]}",
+  "elevator_en": "Inclined Lift 1  Channel-Platform——in the Channel，Rear End of Platform bound for Fujin Road（Non Self-service）<br />\r\nInclined Lift 2  Ground-Channel——North Exit（Non Self-service）\r\n\r\n<br />Lift Platform 3  Ground-Station Hall-Platform——North Exit 2，Turnstile Entrance bond for Xinzhuang（Non Self-service）",
+  "terminal": 0
+ }
+]

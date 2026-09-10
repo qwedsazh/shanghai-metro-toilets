@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "116",
+  "name_cn": "漕宝路",
+  "name_en": "Caobao Road",
+  "pinyin": "cbl",
+  "station_code": "801-CBL",
+  "lines": "1,12",
+  "longitude": 121.436708,
+  "latitude": 31.160405,
+  "gao_lng": 121.430302710382,
+  "gao_lat": 31.154090953287,
+  "x": 0.3841,
+  "y": 0.5612,
+  "station_pic": "漕宝路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":1,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 1号口外第八人民医院\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近8号口\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 沪闵路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕溪路 龙漕路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 漕东支路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙漕路 三江路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪闵路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 漕溪路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"漕宝路 商场\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Caobao Rd Humin Rd,Exit 2:Caoxi Rd Longcao Rd Hangtian Buliding Caoxi Park Shanghai Longhua Funeral House,Exit 3:Caodong Branch Rd Longcao Rd Shanghai Huizhi School Shanghai Xuhui Occupation Senior High School,Exit 4:Longcao Rd Sanjiang Rd,Exit 5:Humin Rd,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":1,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 地面-站厅——龙漕路，3号口（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#升降平台 站厅-站台——2号口，往富锦路方向车头（非自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 换乘通道-站厅——1号线换乘通道，站厅东端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 换乘通道-站厅——1号线换乘通道中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——西办公区域，往金海路方向车尾（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 平台-站厅——近8号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 平台-地面——近8号口（自助）\"}]}]}",
+  "elevator_en": "Inclined Lift 1  Ground-Station Hall——Longcao Road & Caoxi Road，Exit 3（Non Self-service）\r\n<br />\r\nLift Platform 2  Station Hall-Platform——Exit 2，Front End of Platform bound for Fujin Road（Non Self-service）",
+  "terminal": 0
+ }
+]

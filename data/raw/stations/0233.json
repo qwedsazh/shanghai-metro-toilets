@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "233",
+  "name_cn": "蟠祥路·国家会计学院",
+  "name_en": "Panxiang Road·Shanghai National Accounting Institute",
+  "pinyin": "pxlgjkjxy",
+  "station_code": "2-PXL",
+  "lines": "2",
+  "longitude": 121.292642,
+  "latitude": 31.187302,
+  "gao_lng": 121.301085239729,
+  "gao_lat": 31.1892350383809,
+  "x": 0.2214,
+  "y": 0.4245,
+  "station_pic": "0233.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":2,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往蟠祥路·国家会计学院方向车头\"}]}",
+  "toilet_position_en": "",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路 蟠祥路\",\"id_alias\":\"1号口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路 蟠龙路\",\"id_alias\":\"2号口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路 蟠龙路\",\"id_alias\":\"3号口\",\"memo\":\"R*\"},{\"id\":\"4A号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路\",\"id_alias\":\"4A号口\",\"memo\":\"R*\"},{\"id\":\"4B号口\",\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"徐民东路 蟠祥路\",\"id_alias\":\"4B号口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":2,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台无障碍电梯——站厅中部，站台中部\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——靠近1号口\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——靠近3号口\"}]}]}",
+  "elevator_en": "",
+  "terminal": 1
+ }
+]

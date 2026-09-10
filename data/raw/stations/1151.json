@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1151",
+  "name_cn": "龙华",
+  "name_en": "Longhua",
+  "pinyin": "lh",
+  "station_code": "C00-LH",
+  "lines": "11,12",
+  "longitude": 121.459229,
+  "latitude": 31.179259,
+  "gao_lng": 121.452821596665,
+  "gao_lat": 31.1729775153693,
+  "x": 0.4181,
+  "y": 0.5609,
+  "station_pic": "龙华.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 12号线站厅近4号口\"},{\"lineno\":12,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近4号口\"}]}",
+  "toilet_position_en": "Line 11:Outside of a station  Out of Exit 2(Walk for 3 min)",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路 龙华西路 龙华寺\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路 龙华寺\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"龙华路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Longhua Rd,Exit 2:Longhua Rd West Longhua Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——龙华路，2号口(自助)\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅靠近客服中心，往迪士尼方向车尾（自助）\"}]},{\"lineno\":12,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往金海路方向尾头（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-地面——4号口旁，4号口站厅层厕所旁（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:public area of station hall near Exit 1 to platform",
+  "terminal": 0
+ }
+]

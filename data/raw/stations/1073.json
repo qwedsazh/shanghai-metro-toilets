@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1073",
+  "name_cn": "港城路",
+  "name_en": "Gangcheng Road",
+  "pinyin": "gcl",
+  "station_code": "220-GCL",
+  "lines": "6,10",
+  "longitude": 121.581108,
+  "latitude": 31.359615,
+  "gao_lng": 121.574656841357,
+  "gao_lat": 31.3533469572836,
+  "x": 0.758,
+  "y": 0.157,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":10,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近2号口\"}]}",
+  "toilet_position_en": "Line 10:outside the pay area in the station hall near exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"港城路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"草高支路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"港城路 张杨北路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Gangcheng Road,\r\nExit 2:Caogao By-pass,\r\nExit 3:Gangcheng Road and North Zhangyang Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":6,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅自动扶梯旁，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅自动扶梯旁，站台中部（自助）\"}]},{\"lineno\":10,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——近3号口，往虹桥火车站、航中路方向站台头部（自助）\"}]}]}",
+  "elevator_en": "Line 6                                                                                                No. 1 Accessible Elevator, station hall-platform: near the escalator in the station hall, mid-platform (self-service)                                                                                               No. 2 Accessible Elevator, station hall-platform: near the escalator in the station hall, mid-platform (self-service)                                                                                               Line 10                                                                                               No. 1 Accessible Elevator, station hall-platform: near exit 3, at the head of the platform for trains bound for Hongqiao Railway Station and Hangzhong Rd (self-service)",
+  "terminal": 0
+ }
+]

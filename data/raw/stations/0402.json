@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "402",
+  "name_cn": "宜山路",
+  "name_en": "Yishan Road",
+  "pinyin": "ysl",
+  "station_code": "10C-YSL",
+  "lines": "3,4,9",
+  "longitude": 121.433798,
+  "latitude": 31.192584,
+  "gao_lng": 121.427384134817,
+  "gao_lat": 31.1863005717051,
+  "x": 0.3934,
+  "y": 0.4702,
+  "station_pic": "宜山路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":3,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅1层，近1号口\",\"status\":1,\"plan_close_date\":\"2024-10-29\",\"plan_open_date\":\"2024-12-21\"},{\"lineno\":4,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往外圈方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-11-21\"},{\"lineno\":9,\"icon1\":\"t_o.png\",\"icon2\":\"w_os.png\",\"description\":\"费区外 B1站厅层，近8号口\",\"status\":1,\"plan_close_date\":\"2024-09-20\",\"plan_open_date\":\"2024-10-29\"},{\"lineno\":9,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台层，往上海松江站站台车尾\",\"status\":1,\"plan_close_date\":\"2025-08-20\",\"plan_open_date\":\"2025-08-22\"}]}",
+  "toilet_position_en": "Line 3 Outside Station toilet of KFC\r\n<br />Line 3 Inside Pay Area to platform of Line 4\r\n<br />Line 4 Inside Pay Area head of train bound for outer ring (anticlockwise) at the platform\r\n<br />Line 9 Outside Pay Area stoery (B1) of station hall, near exit 4",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路 徐虹北路 凯旋路 柿子湾路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路 宜山路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"},{\"id\":5,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路 徐虹北路\",\"id_alias\":\"5号出入口\",\"memo\":\"R*\"},{\"id\":6,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"凯旋路\",\"id_alias\":\"6号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"},{\"id\":8,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路 中山西路\",\"id_alias\":\"8号出入口\",\"memo\":\"R*\"},{\"id\":9,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路 中山西路\",\"id_alias\":\"9号出入口\",\"memo\":\"R*\"},{\"id\":10,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"宜山路 古宜路\",\"id_alias\":\"10号出入口\",\"memo\":\"R*\"},{\"id\":11,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"古宜路\",\"memo\":\"R*\",\"id_alias\":\"11号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Kaixuan Rd,Exit 3:Yishan Rd,Exit 4:Kaixuan Rd,Exit 5:Kaixuan Rd North Xuhong Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":3,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——凯旋路，2号口，往上海南站方向车头（自助）\",\"status\":1,\"plan_close_date\":\"2024-08-12\",\"plan_open_date\":\"2024-10-30\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——凯旋路，2号口，往江杨北路方向车尾（自助）\",\"status\":1,\"plan_close_date\":\"2024-05-11\",\"plan_open_date\":\"2024-10-11\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 换乘通道B1-站厅——换乘通道，换乘通道近3、4号线端（自助）\",\"status\":1,\"plan_close_date\":\"2024-10-29\",\"plan_open_date\":\"2025-10-11\"}]},{\"lineno\":4,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#斜挂梯 换乘通道站厅端-换乘通道平台（非自助）\",\"status\":1,\"plan_close_date\":\"2026-08-29\",\"plan_open_date\":\"2026-09-16\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——凯旋路，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——凯旋路，6号口，往内圈方向车头（非自助）\"}]},{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯  地面-站厅——宜山路，7号口，站厅中部（自助） \"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯  站厅-站台——宜山路  站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 换乘通道B1-换乘通道B2——换乘通道近3/4号线端（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 换乘通道B2-换乘通道B3——换乘通道中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall——Kaixuan Road，Exit 4（Self-service）<br />\r\nAccessible Lift 2  Station Hall-Platform——between Exit 1 and Exit 4，Front End of Platform bound for Yishan Road（Non Self-service）",
+  "terminal": 1
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1726",
+  "name_cn": "嘉松中路",
+  "name_en": "Middle Jiasong Road",
+  "pinyin": "jszl",
+  "station_code": "10000-JSZL",
+  "lines": "17",
+  "longitude": 121.231306,
+  "latitude": 31.170011,
+  "gao_lng": 121.224849539105,
+  "gao_lat": 31.1639180475391,
+  "x": 0.2125,
+  "y": 0.4573,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站厅东端通道口\"},{\"lineno\":17,\"icon1\":\"t_i.png\",\"icon2\":\"w_os.png\",\"description\":\"费区内 站厅西端通道口\"}]}",
+  "toilet_position_en": "in pay area the passageway at east end\r\n<br /> the passageway at west end",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"盈港东路 嘉松中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"盈港东路 嘉松中路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:East Yinggang Road Middle Jiasong Road,Exit 2:East Yinggang Road Middle Jiasong Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":17,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——往虹桥火车站方向车尾，近2号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——往西岑方向车头，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 地面-站厅——近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 地面-站厅——近2号口（自助）\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——near exit 1（self-service）\r\n<br />2#Elevator-Ground to Station Hall——near exit 2（self-service）\r\n<br />3#Elevator-Station Hall to Platform——rear of train bound for Hongqiao Railway Station,near exit 2（self-service）\r\n<br />4#Elevator-Station Hall to Platform——head of train bound for Oriental Land,near exit 1（self-service）",
+  "terminal": 0
+ }
+]

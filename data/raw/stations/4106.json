@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "4106",
+  "name_cn": "汇臻路",
+  "name_en": "Huizhen Road",
+  "pinyin": "hzl",
+  "station_code": "10000000000-HZL",
+  "lines": "41",
+  "longitude": 121.530443,
+  "latitude": 31.031209,
+  "gao_lng": 121.523919193975,
+  "gao_lat": 31.025324025877,
+  "x": 0.4984,
+  "y": 0.8051,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":41,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\"}]}",
+  "toilet_position_en": "off pay area near exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"汇臻路 鲁南路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"汇臻路 鲁南路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Huizhen Road Lu nan Road,Exit 2:Huizhen Road Lu nan Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":41,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——往沈杜公路方向车尾，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——往汇臻路方向车头，近2号口（自助)\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往沈杜公路方向车头，近2号口（自助)\"}]}]}",
+  "elevator_en": "1#Elevator-Ground to Station Hall——rear of train bound for Shendu Highway,near exit 1（self-service）\r\n<br />2#Elevator-Ground to Station Hall——head of train bound for Huizhen Road,near exit 2（self-service）\r\n<br />3#Elevator- Station Hall to Platform——head of train bound for Shendu Highway,near exit 2（self-service）",
+  "terminal": 1
+ }
+]

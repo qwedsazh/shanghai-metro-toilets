@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "533",
+  "name_cn": "萧塘",
+  "name_en": "Xiaotang",
+  "pinyin": "xt",
+  "station_code": "10-XT",
+  "lines": "",
+  "longitude": 121.448409,
+  "latitude": 30.972224,
+  "gao_lng": 121.441995229964,
+  "gao_lat": 30.9658599105625,
+  "x": 0.3262,
+  "y": 0.7943,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":5,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口，萧塘附属楼3楼公共区域\"}]}",
+  "toilet_position_en": "Outside the pay-area,\r\nF3 of the ancillary?building near Exit 1",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪杭公路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪杭公路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Shanghai-Hangzhou?Highway\r\nExit 2: Shanghai-Hangzhou?Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":5,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口天桥（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——近2号口天桥（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——往莘庄方向站台中部，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——往奉贤新城方向站台中部,近2号口（自助）\"}]}]}",
+  "elevator_en": "1#elevator: from the ground to the station hall; near the pedestrian overpass at Exit 1 (self-service)\r\n<br/>2#elevator: from the ground to the station hall; near the pedestrian overpass at Exit 2 (self-service)\r\n<br/>3#elevator: from the station hall to the platform; at the side of trains bound for Xinzhuang and at the central platform (self-service)\r\n<br/>4#elevator: from the station hall to the platform; at the side of trains bound for Xinzhuang and at the central platform (self-service)",
+  "terminal": 0
+ }
+]

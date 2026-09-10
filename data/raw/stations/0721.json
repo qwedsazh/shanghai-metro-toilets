@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "721",
+  "name_cn": "美兰湖",
+  "name_en": "Meilan Lake",
+  "pinyin": "mlh",
+  "station_code": "40-MLH",
+  "lines": "7",
+  "longitude": 121.356426,
+  "latitude": 31.407854,
+  "gao_lng": 121.349943992571,
+  "gao_lat": 31.4018571509478,
+  "x": 0.3409,
+  "y": 0.029,
+  "station_pic": "美兰湖.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近1号口\",\"status\":1,\"plan_close_date\":\"2025-09-15\",\"plan_open_date\":\"2025-12-01\"}]}",
+  "toilet_position_en": "Line 7:Outside of a station  1 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪太路 美丹路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"沪太路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Hutai Highway,Exit 2:Hutai Highway",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——沪太路，1号口天桥处（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——1号口，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——2号口，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Hutai Road，near Overpass of Exit 1（Self-service）<br /> \r\nAccessible Lift 2  Station Hall-Platform--Exit 1，Middle of Platform（Self-service） <br />Accessible Lift 3  Station Hall-Platform--Exit 2，Middle of Platform（Self-service）",
+  "terminal": 1
+ }
+]

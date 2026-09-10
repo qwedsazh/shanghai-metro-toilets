@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1830",
+  "name_cn": "北中路",
+  "name_en": "Beizhong Road",
+  "pinyin": "bzl",
+  "station_code": "20000-BZL",
+  "lines": "18",
+  "longitude": 121.567777,
+  "latitude": 31.188991,
+  "gao_lng": 121.561385400609,
+  "gao_lat": 31.1826309943955,
+  "x": 0.6765,
+  "y": 0.5645,
+  "station_pic": "",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往康文路方向车头（有母婴室）\"}]}",
+  "toilet_position_en": "inside pay area train head in the direction of South Changjiang Road",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路 北中路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路 莲安东路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"莲溪路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1: Lianxi Road and Beizhong Road,\r\nExit 2: Lianxi Road and East Lian'an Road,\r\nExit 3: Lianxi Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——近1号口，近1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅中部近客服中心，站台中部（自助）\"}]}]}",
+  "elevator_en": "1# Accessible Elevator: outside pay area, ground-station hall -- near exit 1, near exit 1 (self-service)<br/>\r\n2# Accessible Elevator: inside pay area, station hall-platform -- near customer service center of mid station hall, mid platform (self-service)",
+  "terminal": 0
+ }
+]

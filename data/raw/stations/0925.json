@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "925",
+  "name_cn": "泗泾",
+  "name_en": "Sijing",
+  "pinyin": "sj",
+  "station_code": "100-SJ",
+  "lines": "9",
+  "longitude": 121.267259,
+  "latitude": 31.123976,
+  "gao_lng": 121.260648011888,
+  "gao_lat": 31.1183349507814,
+  "x": 0.2246,
+  "y": 0.5343,
+  "station_pic": "泗泾.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":9,\"icon1\":\"t_os.png\",\"icon2\":\"w_os.png\",\"description\":\"车站外 站外70米\"}]}",
+  "toilet_position_en": "Line 9:Outside of a station  4 entrance outside",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"泗陈公路\",\"memo\":\"R*\",\"id_alias\":\"1号出入口\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"横港公路\",\"memo\":\"R*\",\"id_alias\":\"2号出入口\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"横港公路\",\"memo\":\"R*\",\"id_alias\":\"3号出入口\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"泗陈公路\",\"memo\":\"R*\",\"id_alias\":\"4号出入口\"}]}]}",
+  "entrance_info_en": "Exit 1:Sichen Highway,Exit 2:Henggang Highway,",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":9,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——2、3号口中间，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——1、4号口中间，站台中部（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1:station hall to platform towards Songjiang Xincheng Station,Accessible Lift 2:station hall to platform towards Middle Yanggao Road Station",
+  "terminal": 0
+ }
+]

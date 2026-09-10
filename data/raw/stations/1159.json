@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "1159",
+  "name_cn": "御桥",
+  "name_en": "Yuqiao",
+  "pinyin": "yq",
+  "station_code": "20400-YQ",
+  "lines": "11,18",
+  "longitude": 121.577365,
+  "latitude": 31.164663,
+  "gao_lng": 121.570959812607,
+  "gao_lat": 31.158359845775,
+  "x": 0.6101,
+  "y": 0.6551,
+  "station_pic": "御桥.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":11,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 站厅近7号口\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往航头方向车尾\"},{\"lineno\":18,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 站台往长江南路方向车头\"}]}",
+  "toilet_position_en": "Line 11:Non-paying zone  Near Exit 3,\r\nLine 18:inside the pay area, at the rear of a train bound for Hangtou at the platform,                             \r\nLine 18:inside the pay area, at the front of a train bound for Yuqiao at the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"御桥路 御青路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"御桥路 御青路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"御青路 御桥路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":7,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"御桥路 御青路\",\"id_alias\":\"7号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Yuqiao Rd Yuqing Rd ,Exit 2:Yuqiao Rd Yuqing Rd ,Exit 5:Yuqiao Rd Yushan Rd ,Exit 6:Yuqiao Rd ,Exit 7:Yuqiao Rd Yuqing Rd,Exit 8:Yuqing Road and Yuqiao Road,Exit:9 Yuqing Road and Yuqiao Road",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":11,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——1、2号口中间，往迪士尼方向车头（非自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——御桥路，1号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——近11号线客服中心，11号线站台中部，18号线往长江南路方向站台车尾（自助）\",\"status\":1,\"plan_close_date\":\"2025-06-20\",\"plan_open_date\":\"2025-06-26\"}]},{\"lineno\":18,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"3#无障碍电梯 站厅-站台——近11号线客服中心，11号线站台中部，18号线往长江南路方向站台车尾（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"4#无障碍电梯 站厅-站台——18号线站厅中部，18号线往航头方向站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"5#无障碍电梯 地面-站厅——御青路，8号口（自助）\"}]}]}",
+  "elevator_en": "Line 11:Accessible Lift 1/2:near Exit 1\r\nLine 18:No. 1 Accessible Elevator, inside the pay area, station hall-platform: near exit 7, mid-platform for trains bound for Yuqiao (self-service)                                                                                                                                                        Line 18:No. 2 Accessible Elevator, inside the pay area, station hall-platform: near exit 8, the rear of a train bound for Hangtou (self-service)                                                                                                                                                                Line 18:No. 3 Accessible Elevator, outside the pay area, ground-station hall: near exit 8, exit 8 (self-service)",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "750",
+  "name_cn": "锦绣路",
+  "name_en": "Jinxiu Road",
+  "pinyin": "jxl",
+  "station_code": "40-JXL",
+  "lines": "7",
+  "longitude": 121.546398,
+  "latitude": 31.193767,
+  "gao_lng": 121.539955925251,
+  "gao_lat": 31.1875893498831,
+  "x": 0.6373,
+  "y": 0.5411,
+  "station_pic": "锦绣路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":7,\"icon1\":\"t_o.png\",\"icon2\":\"w_o.png\",\"description\":\"费区外 近2号口\"}]}",
+  "toilet_position_en": "Line 7:Non-paying zone  Near Exit 2",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"锦绣路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":2,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"锦绣路\",\"id_alias\":\"2号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"锦绣路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Jinxiu Rd Pudong Library,Exit 2:Jinxiu Rd,Exit 4:Jinxiu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":7,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 站厅-站台——站厅中部，站台中部（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 地面-站厅——锦绣路高科西路，2号口（自助）\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Jingxiu Road & West Gaoke Road，Exit 2（Self-service） <br />\r\nAccessible Lift 2  Station Hall-Platform--Middle of Station Hall，Middle of Platform（Self-service）",
+  "terminal": 0
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "stat_id": "844",
+  "name_cn": "黄兴路",
+  "name_en": "Huangxing Road",
+  "pinyin": "hxl",
+  "station_code": "80-HXL",
+  "lines": "8",
+  "longitude": 121.534441,
+  "latitude": 31.284573,
+  "gao_lng": 121.527946907363,
+  "gao_lat": 31.2786163484233,
+  "x": 0.6592,
+  "y": 0.2695,
+  "station_pic": "黄兴路.jpg",
+  "toilet_inside": false,
+  "toilet_position": "{\"toilet\":[{\"lineno\":8,\"icon1\":\"t_i.png\",\"icon2\":\"w_i.png\",\"description\":\"费区内 往市光路方向站台车头\",\"status\":1,\"plan_close_date\":\"2024-11-24\",\"plan_open_date\":\"2024-12-15\"}]}",
+  "toilet_position_en": "Line 8:Pay Zone  Shiguang Rd direction to the front of the platform",
+  "entrance_info": "{\"line\":[{\"lineno\":\"\",\"entrance\":[{\"id\":1,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"控江路\",\"id_alias\":\"1号出入口\",\"memo\":\"R*\"},{\"id\":3,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"控江路\",\"id_alias\":\"3号出入口\",\"memo\":\"R*\"},{\"id\":4,\"status\":1,\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"控江路 靖宇南路\",\"id_alias\":\"4号出入口\",\"memo\":\"R*\"}]}]}",
+  "entrance_info_en": "Exit 1:Kongjiang Rd,Exit 3:Kongjiang Rd,Exit 4:Kongjiang Rd South Jingyu Rd",
+  "street_pic": null,
+  "elevator": "{\"line\":[{\"lineno\":8,\"elevator\":[{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"1#无障碍电梯 地面-站厅——控江路，4号口（自助）\"},{\"icon1\":\"l_o_n.png\",\"icon2\":\"w_y.png\",\"description\":\"2#无障碍电梯 站厅-站台——站厅费区内中部，往沈杜公路方向站台中部(自助)\"}]}]}",
+  "elevator_en": "Accessible Lift 1  Ground-Station Hall--Kongjiang Road，Exit 4（Self-service）<br /> \r\nAccessible Lift 2  Station Hall-Platform--between Exit 3 and Exit 4，Front End of Platform bound for Shendu Highway，near Middle of Platform（Non Self-service）",
+  "terminal": 0
+ }
+]
