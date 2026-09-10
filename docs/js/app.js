@@ -30,7 +30,6 @@ const state = {
   stations: [],
   byName: new Map(),
   pos: null,          // { lat, lng } WGS84
-  filter: 'all',      // all | outside | inside
   query: '',
   searchScope: 'auto', // auto | line | all（线路 tab 搜索范围，auto=线路内优先、无则全局）
   tab: 'nearby',      // nearby | lines
@@ -72,10 +71,24 @@ function lineBadgeHtml(id) {
   return `<span class="line-badge" style="background:${bg};color:${fg}">${escapeHtml(lineName(id))}</span>`;
 }
 
-function toiletMatchesFilter(t) {
-  if (state.filter === 'outside') return ['outside', 'station_outside', 'both'].includes(t.zone);
-  if (state.filter === 'inside') return ['inside', 'both'].includes(t.zone);
-  return true;
+// 车站级厕所状态：费区内（绿，最优）> 仅费区外（黄）> 未注明（灰）
+const STATION_ZONE_LABELS = { inside: '费区内', outside: '仅费区外', unknown: '未注明' };
+
+function stationZoneStatus(s) {
+  let hasInside = false;
+  let hasOutside = false;
+  for (const t of s.toilets) {
+    if (t.zone === 'inside' || t.zone === 'both') hasInside = true;
+    else if (t.zone === 'outside' || t.zone === 'station_outside') hasOutside = true;
+  }
+  if (hasInside) return 'inside';
+  if (hasOutside) return 'outside';
+  return 'unknown';
+}
+
+function stationZoneBadgeHtml(s) {
+  const z = stationZoneStatus(s);
+  return `<span class="station-zone sz-${z}">${STATION_ZONE_LABELS[z]}</span>`;
 }
 
 // 今天处于 [plan_close_date, plan_open_date] 封闭区间 → 改造中
@@ -119,14 +132,14 @@ function stationDistance(s) {
 }
 
 function stationCardHtml(s, distM) {
-  const toilets = s.toilets.filter(toiletMatchesFilter);
   return `<article class="station-card" data-name="${escapeHtml(s.name)}">
     <div class="station-head">
       <h3>${escapeHtml(s.name)}</h3>
+      ${stationZoneBadgeHtml(s)}
       ${distM != null ? `<span class="distance">${formatDistance(distM)}</span>` : ''}
     </div>
     <div class="line-badges">${s.lines.map(lineBadgeHtml).join('')}</div>
-    <ul class="toilet-list">${toilets.map(toiletItemHtml).join('')}</ul>
+    <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
   </article>`;
 }
 
@@ -188,9 +201,7 @@ function renderNearby() {
   // 搜索模式：不依赖定位，全站过滤
   if (state.query) {
     panel.style.display = 'none';
-    let matches = state.stations.filter(
-      (s) => stationMatchesQuery(s) && s.toilets.some(toiletMatchesFilter)
-    );
+    let matches = state.stations.filter(stationMatchesQuery);
     if (state.pos) {
       matches = matches
         .map((s) => [s, stationDistance(s)])
@@ -211,14 +222,13 @@ function renderNearby() {
   }
 
   const nearest = state.stations
-    .filter((s) => s.toilets.some(toiletMatchesFilter))
     .map((s) => [s, stationDistance(s)])
     .sort((a, b) => a[1] - b[1])
     .slice(0, NEARBY_LIMIT);
 
   list.innerHTML = nearest.length
     ? nearest.map(([s, d]) => stationCardHtml(s, d)).join('')
-    : '<p class="empty-msg">当前筛选条件下没有附近车站</p>';
+    : '<p class="empty-msg">附近暂无车站数据</p>';
 }
 
 /* ---------------- 线路浏览 ---------------- */
@@ -234,7 +244,7 @@ function renderLineChips() {
     const style = active
       ? `background:${bg};border-color:${bg};color:${LIGHT_BG_LINES.has(l) ? '#222222' : '#ffffff'}`
       : `color:${bg};border-color:${bg}`;
-    return `<button class="chip line-chip${active ? ' active' : ''}" data-line="${l}" style="${style}">${escapeHtml(lineName(l))}</button>`;
+    return `<button class="line-chip${active ? ' active' : ''}" data-line="${l}" style="${style}">${escapeHtml(lineName(l))}</button>`;
   }).join('');
   updateChipFades();
 }
@@ -254,7 +264,7 @@ function lineStationOrder(s, line) {
 }
 
 function renderLineStations() {
-  const matches = (s) => stationMatchesQuery(s) && s.toilets.some(toiletMatchesFilter);
+  const matches = (s) => stationMatchesQuery(s);
   const inLine = state.stations
     .filter((s) => s.lines.includes(state.line) && matches(s))
     .sort((a, b) => lineStationOrder(a, state.line) - lineStationOrder(b, state.line));
@@ -266,7 +276,7 @@ function renderLineStations() {
     hintEl.innerHTML = '';
     listEl.innerHTML = inLine.length
       ? inLine.map((s) => stationCardHtml(s, stationDistance(s))).join('')
-      : '<p class="empty-msg">该线路在当前筛选条件下没有匹配车站</p>';
+      : '<p class="empty-msg">该线路暂无车站数据</p>';
     return;
   }
 
@@ -313,6 +323,7 @@ function openStationModal(s) {
     </div>
     <div class="line-badges">
       ${s.lines.map(lineBadgeHtml).join('')}
+      ${stationZoneBadgeHtml(s)}
       ${dist != null ? `<span class="distance">${formatDistance(dist)}</span>` : ''}
     </div>
     <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
@@ -364,17 +375,6 @@ function bindEvents() {
   document.querySelectorAll('.tab').forEach((b) =>
     b.addEventListener('click', () => switchTab(b.dataset.tab))
   );
-
-  $('#filter-chips').addEventListener('click', (e) => {
-    const chip = e.target.closest('.chip');
-    if (!chip) return;
-    state.filter = chip.dataset.filter;
-    document.querySelectorAll('#filter-chips .chip').forEach((c) =>
-      c.classList.toggle('active', c === chip)
-    );
-    renderNearby();
-    renderLineStations();
-  });
 
   let searchTimer = null;
   $('#search-input').addEventListener('input', (e) => {
