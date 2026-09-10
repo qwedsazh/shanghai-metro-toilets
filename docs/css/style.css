@@ -251,8 +251,6 @@ body.modal-open { overflow: hidden; }
   line-height: 16px;
 }
 
-.accessible { flex: none; font-size: 15px; }
-
 .toilet-loc { flex: 1 1 60%; min-width: 0; color: #333; }
 
 .renovating {

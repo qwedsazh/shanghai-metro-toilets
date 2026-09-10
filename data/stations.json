@@ -53,14 +53,12 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 北1口公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 北1口公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -166,7 +164,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 北广场公交站点厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -240,7 +237,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 北站厅中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -321,7 +317,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往富锦路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -387,14 +382,12 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 至换乘15号线大厅",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "3",
      "zone": "inside",
      "location": "费区内 往上海南站方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -404,7 +397,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -480,14 +472,12 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 1号口外第八人民医院",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近8号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -577,7 +567,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-03",
@@ -587,7 +576,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -657,7 +645,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-10",
@@ -667,21 +654,19 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 近17号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台头部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "费区外 至1号线、9号线站台站厅厕所",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_os.png",
      "zone_conflict": true
     }
@@ -775,7 +760,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -832,14 +816,12 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台头部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "7",
      "zone": "outside",
      "location": "费区外 近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -914,7 +896,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-14",
@@ -924,21 +905,18 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近7号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 往金海路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-14",
@@ -1017,21 +995,18 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往富锦路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -1109,7 +1084,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-05",
@@ -1119,7 +1093,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-21",
@@ -1129,7 +1102,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-11",
@@ -1206,7 +1178,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往富锦路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-05",
@@ -1261,21 +1232,18 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 近10号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 近10号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 近10号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -1355,7 +1323,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 往莘庄方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-08",
@@ -1365,14 +1332,14 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 往江杨北路方向站台车头",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 往内圈方向站台车头",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     }
    ],
@@ -1468,7 +1435,6 @@
      "line": "1",
      "zone": "outside",
      "location": "费区外 站外近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -1520,7 +1486,6 @@
      "line": "1",
      "zone": "outside",
      "location": "费区外 站外近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -1565,7 +1530,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -1620,7 +1584,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 2号口外自动扶梯旁公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -1693,7 +1656,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 4号口外楼梯旁公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -1766,7 +1728,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 4号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -1842,7 +1803,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -1923,14 +1883,12 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2025,7 +1983,6 @@
      "line": "1",
      "zone": "station_outside",
      "location": "车站外 2、4号口外公交站点厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -2078,7 +2035,6 @@
      "line": "1",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -2131,7 +2087,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 站厅近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2182,7 +2137,6 @@
      "line": "1",
      "zone": "inside",
      "location": "费区内 站厅近2号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2233,7 +2187,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2292,7 +2245,6 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-03-13",
@@ -2302,7 +2254,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2373,21 +2324,18 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 至2号线往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "17",
      "zone": "inside",
      "location": "费区内 至2号线往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2463,98 +2411,84 @@
      "line": "2",
      "zone": "station_outside",
      "location": "车站外 机场厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "10",
      "zone": "station_outside",
      "location": "车站外 机场厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 B1北厅东端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 B1北厅北端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 B1北厅（近北进站口）（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 B1南厅东端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 B1南厅南端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 B1南厅（近南进站口）（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 2F东客服南端（女厕所内有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 2F东客服北端（女厕所内有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 3F北厅东端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 3F北厅南端（女厕所内有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 3F南厅东端",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 3F南厅北端（女厕所内有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -2675,14 +2609,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "2",
      "zone": "outside",
      "location": "费区外 4、5号口长通道内",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -2734,7 +2666,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2786,7 +2717,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2846,21 +2776,18 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 换乘通道内",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -2944,14 +2871,13 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "3",
      "zone": "outside",
      "location": "费区外 北面站厅，近龙之梦通道口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-10-20",
@@ -2961,7 +2887,7 @@
      "line": "4",
      "zone": "outside",
      "location": "费区外 北面站厅，近龙之梦通道口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-10-20",
@@ -3050,14 +2976,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "费区外 B1层站厅近5、8号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -3141,21 +3065,18 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "7",
      "zone": "inside",
      "location": "费区内 近8、9号口客服中心后方",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3241,14 +3162,13 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 往金海路方向站台车头",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true
     },
@@ -3256,14 +3176,12 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅服务中心对面",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近8号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -3355,14 +3273,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "10号线 费区内 站厅北端，近6号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3431,14 +3347,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3519,14 +3433,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3599,28 +3511,24 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 至6号线站台",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 至6号线站台",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "6",
      "zone": "inside",
      "location": "费区内 往港城路方向站台车头,往东方体育中心方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 至6号线站台",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3732,7 +3640,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3784,7 +3691,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -3842,14 +3748,12 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "7",
      "zone": "inside",
      "location": "费区内 近换入通道出口处",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-18",
@@ -3859,21 +3763,18 @@
      "line": "16",
      "zone": "inside",
      "location": "费区内 近16号线换乘18号线的换乘通道",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往长江南路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4035,7 +3936,6 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -4087,7 +3987,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 站台西端",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-07-25",
@@ -4142,7 +4041,7 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 3号站台西端",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true
     },
@@ -4150,7 +4049,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 站厅中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4209,7 +4107,6 @@
      "line": "2",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -4261,21 +4158,18 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向站台中间",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "2",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -4334,21 +4228,18 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "2",
      "zone": "inside",
      "location": "费区内 往蟠祥路·国家会计学院方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "2",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4407,14 +4298,12 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "2",
      "zone": "inside",
      "location": "费区内 站厅中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4473,7 +4362,6 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -4532,7 +4420,7 @@
      "line": "2",
      "zone": "outside",
      "location": "费区外 2号出入口外",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_os.png",
      "zone_conflict": true
     }
@@ -4577,7 +4465,6 @@
      "line": "2",
      "zone": "inside",
      "location": "费区内 站厅近南端自动扶梯",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-15",
@@ -4626,28 +4513,24 @@
      "line": "2",
      "zone": "station_outside",
      "location": "车站外 机场厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 站厅近6号口（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往虹桥2号航站楼方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往虹桥2号航站楼方向车尾（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4747,7 +4630,6 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 石龙路站南广场的东北角",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -4802,7 +4684,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 近2号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-26",
@@ -4812,14 +4693,12 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 站台近金海路方向车头位置",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -4892,7 +4771,6 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-02-19",
@@ -4958,7 +4836,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅1层，近1号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-29",
@@ -4968,7 +4845,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -4978,7 +4854,7 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 B1站厅层，近8号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -4988,7 +4864,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 站台层，往上海松江站站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-08-20",
@@ -5116,28 +4991,24 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 2号口无障碍电梯（底层）旁",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "4",
      "zone": "outside",
      "location": "费区外 2号口无障碍电梯（底层）旁",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "3",
      "zone": "outside",
      "location": "费区外 2号口下行无障碍电梯（底层）旁",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -5223,7 +5094,7 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 1楼地面，近2号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-12-30",
@@ -5233,7 +5104,7 @@
      "line": "4",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-12-30",
@@ -5321,28 +5192,26 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅中部警务站对面",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 至3号线站厅中部警务站对面",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -5428,35 +5297,32 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅中间近6号口",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 站厅中间近6号口",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "费区内 B2层站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -5570,21 +5436,18 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅近换乘通道",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 至3号线站厅近换乘通道",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "7",
      "zone": "outside",
      "location": "费区外 近6号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-03-25",
@@ -5669,14 +5532,14 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 西厅一楼站厅层",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     },
     {
      "line": "4",
      "zone": "outside",
      "location": "费区外 西厅一楼站厅层",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     }
    ],
@@ -5759,14 +5622,12 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站内近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 站内近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -5869,7 +5730,7 @@
      "line": "3",
      "zone": "both",
      "location": "费区内/外 站厅靠近1、2号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_io.png"
     }
    ],
@@ -5924,7 +5785,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 8号线站台往市光路方向车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-30",
@@ -5934,7 +5794,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-30",
@@ -6014,7 +5873,7 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 车站2楼近4号口，需出站",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     }
    ],
@@ -6081,7 +5940,7 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 近1号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     }
    ],
@@ -6132,7 +5991,6 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 近7号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -6185,7 +6043,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 靠近站厅1号口车控室旁",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -6238,21 +6095,19 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅内靠近站房门旁边",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往长江南路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -6332,7 +6187,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅内靠近站房门旁",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-05-10",
@@ -6386,7 +6240,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅内靠近站房门旁边",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -6440,7 +6293,7 @@
      "line": "3",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     }
    ],
@@ -6499,7 +6352,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅尽头处，往上海南站方向车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -6561,7 +6413,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅靠近管理用房旁",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-06-01",
@@ -6615,7 +6466,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅靠近管理用房旁",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-06-01",
@@ -6669,7 +6519,7 @@
      "line": "3",
      "zone": "outside",
      "location": "车站外 近1号口费区外，上楼左转到底",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     }
    ],
@@ -6720,7 +6570,6 @@
      "line": "3",
      "zone": "inside",
      "location": "费区内 站厅靠近1号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -6761,7 +6610,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往内圈方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-06-28",
@@ -6771,14 +6619,12 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近7号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 10号线站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -6848,7 +6694,6 @@
      "line": "4",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -6903,7 +6748,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台头部",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -6913,7 +6757,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -6983,7 +6826,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台头部",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-02",
@@ -7040,28 +6882,24 @@
      "line": "4",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "4",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -7129,7 +6967,6 @@
      "line": "4",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7176,7 +7013,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 近站厅2号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -7186,7 +7022,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 近站厅3号口处",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -7252,7 +7087,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -7304,7 +7138,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往外圈方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -7354,14 +7187,12 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 至8号线往市光路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -7421,7 +7252,6 @@
      "line": "4",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7468,14 +7298,12 @@
      "line": "4",
      "zone": "outside",
      "location": "费区外 近12号线站厅6号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "outside",
      "location": "费区外 近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -7544,7 +7372,6 @@
      "line": "4",
      "zone": "inside",
      "location": "费区内 往内圈方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -7554,7 +7381,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 站厅，近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -7613,7 +7439,6 @@
      "line": "4",
      "zone": "station_outside",
      "location": "车站外 2号口外公共场所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7665,7 +7490,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7722,7 +7546,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7777,7 +7600,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7828,7 +7650,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 2号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7879,7 +7700,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7933,7 +7753,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 4号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -7984,7 +7803,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -8043,7 +7861,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -8102,7 +7919,6 @@
      "line": "5",
      "zone": "outside",
      "location": "费区外 1号口外",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -8161,7 +7977,6 @@
      "line": "5",
      "zone": "outside",
      "location": "费区外 2号口外",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -8220,7 +8035,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -8301,7 +8115,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 3号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -8372,7 +8185,6 @@
      "line": "5",
      "zone": "outside",
      "location": "费区外 近1号口，萧塘附属楼3楼公共区域",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -8439,7 +8251,6 @@
      "line": "5",
      "zone": "station_outside",
      "location": "车站外 1号口外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -8483,7 +8294,6 @@
      "line": "5",
      "zone": "inside",
      "location": "费区内 往奉贤新城方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -8535,7 +8345,6 @@
      "line": "5",
      "zone": "inside",
      "location": "费区内 往奉贤新城方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -8587,7 +8396,6 @@
      "line": "5",
      "zone": "inside",
      "location": "费区内 往莘庄方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -8639,7 +8447,6 @@
      "line": "5",
      "zone": "inside",
      "location": "费区内 往奉贤新城方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -8695,7 +8502,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 11号线往迪士尼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-13",
@@ -8705,7 +8511,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 往6号线东方体育中心站车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-11-03",
@@ -8715,7 +8520,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 8号线往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-13",
@@ -8725,7 +8529,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 无障碍卫生间11号线往嘉定北方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-13",
@@ -8831,7 +8634,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 2号口站厅",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -8892,7 +8694,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 2号口站厅客服中心旁",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -8959,7 +8760,7 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 2号口站厅",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     }
    ],
@@ -9020,7 +8821,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 2号口站厅",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9067,14 +8867,12 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 2号口站厅",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9143,7 +8941,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 4号口站厅",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-11-22",
@@ -9153,7 +8950,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 4号口站厅",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-11-22",
@@ -9215,7 +9011,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 往港城路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9260,7 +9055,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 往东方体育中心方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-13",
@@ -9308,7 +9102,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 男厕往港城路方向车尾、女厕往东方体育中心方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9353,7 +9146,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 2号口处",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-08-06",
@@ -9417,14 +9209,12 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 18号线往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9505,7 +9295,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 站厅1号口处",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-08-06",
@@ -9567,7 +9356,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 近站厅1号口处",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-09",
@@ -9634,14 +9422,12 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 近站厅2号口处",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9722,7 +9508,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 近3号口无障碍电梯处",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-08-06",
@@ -9787,7 +9572,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 近2号口闸机处",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -9843,7 +9627,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 站厅进出站闸机对面",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-09",
@@ -9910,7 +9693,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 站厅进出站闸机对面",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-09",
@@ -9920,7 +9702,6 @@
      "line": "12",
      "zone": "inside",
      "location": "费区内 至6号线站厅进出站闸机对面",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-09",
@@ -9997,7 +9778,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 站厅进出站闸机对面",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-01-03",
@@ -10062,7 +9842,6 @@
      "line": "6",
      "zone": "inside",
      "location": "费区内 站厅进出站闸机对面",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-13",
@@ -10127,7 +9906,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 站厅TVM旁通道内",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10190,7 +9968,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 站外2号口处下楼",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10257,7 +10034,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 站外2号口处下楼",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10324,7 +10100,6 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 站外2号口处下楼",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10393,14 +10168,12 @@
      "line": "6",
      "zone": "outside",
      "location": "费区外 2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10458,7 +10231,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-09-15",
@@ -10520,7 +10292,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-03-04",
@@ -10582,7 +10353,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10634,7 +10404,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-07-08",
@@ -10691,21 +10460,18 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "15",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -10772,7 +10538,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10824,14 +10589,12 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "7",
      "zone": "inside",
      "location": "费区内 往美兰湖方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -10883,7 +10646,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -10935,7 +10697,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-04-15",
@@ -11006,7 +10767,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11058,7 +10818,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11110,7 +10869,6 @@
      "line": "7",
      "zone": "inside",
      "location": "费区内 往花木路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-07-19",
@@ -11120,7 +10878,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-07-19",
@@ -11175,7 +10932,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11227,7 +10983,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11279,7 +11034,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11333,14 +11087,12 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11407,7 +11159,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11468,7 +11219,6 @@
      "line": "7",
      "zone": "inside",
      "location": "费区内 往花木路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-20",
@@ -11478,14 +11228,12 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 往上海松江站方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-31",
@@ -11495,7 +11243,6 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11556,14 +11303,12 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近11号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 往七莘路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-31",
@@ -11573,7 +11318,6 @@
      "line": "12",
      "zone": "inside",
      "location": "费区内 往金海路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-29",
@@ -11642,7 +11386,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11696,14 +11439,12 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 近7号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11772,7 +11513,6 @@
      "line": "7",
      "zone": "inside",
      "location": "费区内 至8号线站台厕所",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-15",
@@ -11782,7 +11522,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 站台两端都有",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-15",
@@ -11858,7 +11597,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 3号口处站厅通道内",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11910,7 +11648,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -11969,7 +11706,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12021,7 +11757,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12073,7 +11808,6 @@
      "line": "7",
      "zone": "outside",
      "location": "费区外 近5号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12127,14 +11861,12 @@
      "line": "8",
      "zone": "station_outside",
      "location": "车站外 1号口外",
-     "accessible": true,
      "icon": "t_os.png"
     },
     {
      "line": "41",
      "zone": "station_outside",
      "location": "车站外 1号口外",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -12192,7 +11924,6 @@
      "line": "8",
      "zone": "outside",
      "location": "费区外 2号口站外",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12236,7 +11967,6 @@
      "line": "8",
      "zone": "outside",
      "location": "费区外 2号口站外",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12280,7 +12010,6 @@
      "line": "8",
      "zone": "outside",
      "location": "费区外 2号口站外",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12324,7 +12053,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 服务中心旁",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-09-11",
@@ -12372,7 +12100,7 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 站厅2号口对面",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true,
      "status": 1,
@@ -12431,7 +12159,6 @@
      "line": "8",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -12485,7 +12212,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-15",
@@ -12495,7 +12221,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -12569,7 +12294,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-15",
@@ -12629,7 +12353,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 站厅近7号口处",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-08-10",
@@ -12639,7 +12362,7 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车头",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-22",
@@ -12649,7 +12372,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 站厅近7号口处",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-08-10",
@@ -12721,21 +12443,18 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 10号线站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -12796,14 +12515,12 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -12872,21 +12589,18 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 近5号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "8",
      "zone": "inside",
      "location": "费区内 8号线站台往沈杜公路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 近5号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -12983,7 +12697,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-22",
@@ -13038,7 +12751,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13096,7 +12808,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13166,7 +12877,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-05",
@@ -13176,21 +12886,18 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 10号线往虹桥火车站/航中路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "inside",
      "location": "费区内 10号线往基隆路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13256,7 +12963,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-09-30",
@@ -13313,7 +13019,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向近车头(女厕)",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-09",
@@ -13323,7 +13028,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向近车尾（男厕）",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-09",
@@ -13333,7 +13037,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13404,7 +13107,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-11-24",
@@ -13459,7 +13161,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往市光路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-24",
@@ -13514,7 +13215,6 @@
      "line": "8",
      "zone": "outside",
      "location": "费区外 1、2号口售票机旁",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -13566,7 +13266,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13619,7 +13318,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13671,7 +13369,6 @@
      "line": "8",
      "zone": "inside",
      "location": "费区内 往沈杜公路方向站台中部",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-04-04",
@@ -13733,14 +13430,12 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 站厅1号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 站台中部（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13784,7 +13479,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 2号口外马路对面公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -13828,14 +13522,12 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 站台往上海松江站车头方向",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -13879,7 +13571,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外50米",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -13923,7 +13614,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外40米",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -13985,7 +13675,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外50米",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14036,7 +13725,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外100米",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14080,7 +13768,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外70米",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14131,7 +13818,6 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-11-18",
@@ -14188,21 +13874,18 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 站厅近客服中心",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "往虹桥2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "往浦东1号2号航站楼方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -14297,7 +13980,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-21",
@@ -14352,7 +14034,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-21",
@@ -14407,7 +14088,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 1号口外合川大厦厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14459,7 +14139,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-13",
@@ -14516,14 +14195,12 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 近5号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -14607,14 +14284,12 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 站厅层，近4、6号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅层，近4、6号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -14680,7 +14355,6 @@
      "line": "9",
      "zone": "station_outside",
      "location": "车站外 站外商场厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14734,14 +14408,12 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 站厅近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "13",
      "zone": "station_outside",
      "location": "车站外 3号口外KFC厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -14807,7 +14479,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往上海松江站方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -14869,14 +14540,12 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "9",
      "zone": "inside",
      "location": "费区内 站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -14930,14 +14599,12 @@
      "line": "9",
      "zone": "outside",
      "location": "费区外 站厅近1号口通道",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2026-01-21",
@@ -15007,7 +14674,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15061,14 +14727,12 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 男女厕在往曹路方向站台车头，无障碍厕所在往上海松江站方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 至9号线站台厕所",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15152,7 +14816,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15204,7 +14867,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往上海松江站方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15256,7 +14918,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15310,14 +14971,12 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 至9号线站台厕所",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15444,7 +15103,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往曹路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15496,7 +15154,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往上海松江站方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15548,7 +15205,6 @@
      "line": "9",
      "zone": "inside",
      "location": "费区内 往上海松江站方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15600,7 +15256,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近5号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -15652,7 +15307,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台往基隆路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15704,7 +15358,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -15756,7 +15409,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -15808,14 +15460,12 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台往虹桥火车站方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -15867,7 +15517,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站厅近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -15926,7 +15575,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站外近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -15978,7 +15626,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16030,7 +15677,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 往虹桥火车站/航中路方向",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-09-22",
@@ -16087,14 +15733,12 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近5号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "费区外 至10号线站厅近5号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16153,14 +15797,12 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 往基隆路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 1号口处",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16214,14 +15856,12 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近6号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16289,14 +15929,12 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -16410,14 +16048,12 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站厅近3号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 至10号线站厅，近3号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -16484,7 +16120,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站厅近2号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-05",
@@ -16539,7 +16174,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台头部（往基隆路方向）",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-26",
@@ -16549,7 +16183,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台尾部（往虹桥火车站/航中路方向）",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-26",
@@ -16559,7 +16192,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-09-26",
@@ -16621,7 +16253,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16675,7 +16306,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-10-18",
@@ -16685,7 +16315,7 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台头部(往虹桥火车站/航中路方向)",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true,
      "status": 1,
@@ -16696,14 +16326,12 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往长江南路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -16791,14 +16419,12 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 10号线往基隆路方向站台尾部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16850,14 +16476,12 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -16909,7 +16533,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 往基隆路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-19",
@@ -16964,7 +16587,6 @@
      "line": "10",
      "zone": "inside",
      "location": "费区内 往航中路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-20",
@@ -17019,7 +16641,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17071,7 +16692,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17123,7 +16743,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 天桥近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17190,7 +16809,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 天桥近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17257,7 +16875,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 天桥近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17324,7 +16941,6 @@
      "line": "10",
      "zone": "outside",
      "location": "费区外 地面近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17383,7 +16999,6 @@
      "line": "11",
      "zone": "station_outside",
      "location": "车站外 站外副楼1楼",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -17442,7 +17057,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅西侧",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -17513,7 +17127,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅西侧",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -17573,7 +17186,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 地面层近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17625,7 +17237,6 @@
      "line": "11",
      "zone": "inside",
      "location": "往迪士尼方向站台车头、往花桥方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -17682,7 +17293,6 @@
      "line": "11",
      "zone": "inside",
      "location": "往迪士尼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-08",
@@ -17692,7 +17302,6 @@
      "line": "11",
      "zone": "inside",
      "location": "往花桥方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-10",
@@ -17752,7 +17361,6 @@
      "line": "11",
      "zone": "station_outside",
      "location": "车站外 站外公共厕所",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -17811,7 +17419,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -17869,7 +17476,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 地面层近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -17937,7 +17543,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅中部",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18016,7 +17621,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 近3/4号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18078,14 +17682,12 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "费区内 近4号口",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18136,14 +17738,12 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅层",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "地面层近2号口无障碍电梯处",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18205,7 +17805,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 往迪士尼方向站台车头",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-01",
@@ -18266,7 +17865,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18324,7 +17922,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18382,7 +17979,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 B2层站台",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18442,21 +18038,18 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近4号口（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "费区内 站台往迪士尼方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18520,14 +18113,12 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 至14号线站台",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -18601,7 +18192,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18661,14 +18251,12 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 B1层近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 B1层近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18727,7 +18315,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-10-12",
@@ -18784,14 +18371,12 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 12号线站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18858,7 +18443,7 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 往花桥、嘉定北方向车尾处",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true,
      "status": 1,
@@ -18869,7 +18454,7 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 往迪士尼方向车头处",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true,
      "status": 1,
@@ -18880,7 +18465,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近6号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-10-10",
@@ -18942,7 +18526,6 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -18994,21 +18577,18 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "费区内 往花桥、嘉定北方向车尾处",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "费区内 往迪士尼方向车头处",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -19067,14 +18647,12 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站台层",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -19126,7 +18704,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅近2号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-07-25",
@@ -19188,21 +18765,20 @@
      "line": "11",
      "zone": "outside",
      "location": "站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "站台往迪士尼方向车头(女厕)",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "inside",
      "location": "站台往花桥嘉定北方向车尾 (男厕)",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     }
    ],
@@ -19257,35 +18833,30 @@
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近7号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往长江南路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "11",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -19388,14 +18959,14 @@
      "line": "11",
      "zone": "station_outside",
      "location": "车站外 5号口外",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_os.png"
     },
     {
      "line": "16",
      "zone": "station_outside",
      "location": "车站外 近5号口",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_os.png"
     }
    ],
@@ -19446,7 +19017,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅近1号口",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2025-09-30",
@@ -19500,7 +19070,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 站厅近西端客服中心",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-15",
@@ -19570,7 +19139,6 @@
      "line": "11",
      "zone": "inside",
      "location": "费区内 往嘉定北/花桥方向站台车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-09-25",
@@ -19624,7 +19192,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-09-05",
@@ -19679,7 +19246,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2025-02-15",
@@ -19734,7 +19300,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -19786,7 +19351,6 @@
      "line": "12",
      "zone": "inside",
      "location": "费区内 往七莘路方向站台车尾",
-     "accessible": true,
      "icon": "t_i.png",
      "status": 1,
      "plan_close_date": "2024-10-10",
@@ -19841,7 +19405,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近7号口无障碍电梯旁",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -19893,14 +19456,12 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "12",
      "zone": "inside",
      "location": "费区内 往七莘路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -19954,14 +19515,12 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -20035,7 +19594,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20097,7 +19655,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20151,21 +19708,18 @@
      "line": "12",
      "zone": "inside",
      "location": "费区内 往七莘路方向站台车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往长江南路方向近车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -20232,7 +19786,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20284,7 +19837,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20343,7 +19895,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20395,7 +19946,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20440,7 +19990,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20492,7 +20041,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20544,7 +20092,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20596,7 +20143,6 @@
      "line": "12",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20648,7 +20194,6 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近8号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20700,14 +20245,12 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -20759,14 +20302,12 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -20818,14 +20359,12 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 站台中部",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -20877,7 +20416,6 @@
      "line": "13",
      "zone": "station_outside",
      "location": "车站外 近4号口，商城通道内",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -20931,14 +20469,12 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21020,14 +20556,13 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车头",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_o.png",
      "zone_conflict": true,
      "status": 1,
@@ -21038,7 +20573,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21105,7 +20639,6 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png",
      "status": 1,
      "plan_close_date": "2024-11-16",
@@ -21160,14 +20693,12 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21219,7 +20750,6 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -21285,7 +20815,6 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -21337,7 +20866,6 @@
      "line": "13",
      "zone": "outside",
      "location": "费区外 站厅近3号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -21396,7 +20924,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21448,7 +20975,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21500,7 +21026,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21552,7 +21077,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21606,21 +21130,18 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往张江路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往长江南路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21689,14 +21210,12 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 近3号口客服中心",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "16",
      "zone": "inside",
      "location": "费区内 近换乘通道处",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21788,7 +21307,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21840,7 +21358,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21892,7 +21409,6 @@
      "line": "13",
      "zone": "inside",
      "location": "费区内 往金运路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21944,7 +21460,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -21996,7 +21511,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22048,7 +21562,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22100,7 +21613,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22152,7 +21664,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22212,7 +21723,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22272,7 +21782,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22334,14 +21843,12 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 往紫竹高新区方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22422,7 +21929,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22474,7 +21980,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22526,14 +22031,12 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22602,14 +22105,12 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往桂桥路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 至14号线站台",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22692,7 +22193,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22744,7 +22244,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22796,7 +22295,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22848,7 +22346,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22900,7 +22397,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -22952,7 +22448,6 @@
      "line": "14",
      "zone": "inside",
      "location": "费区内 往封浜方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23004,14 +22499,12 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -23071,7 +22564,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23123,7 +22615,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23175,7 +22666,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23227,7 +22717,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23279,7 +22768,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23331,7 +22819,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23385,28 +22872,24 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往虹桥2号航站楼方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 换乘通道B2层",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23501,7 +22984,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23553,7 +23035,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23605,7 +23086,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23665,7 +23145,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23717,7 +23196,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23777,7 +23255,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23829,14 +23306,12 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23895,7 +23370,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23947,7 +23421,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -23999,14 +23472,12 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24065,7 +23536,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24117,7 +23587,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往紫竹高新区方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24169,7 +23638,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24221,7 +23689,6 @@
      "line": "15",
      "zone": "inside",
      "location": "费区内 站台往顾村公园方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24273,7 +23740,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24325,14 +23791,12 @@
      "line": "16",
      "zone": "inside",
      "location": "费区内 近往滴水湖方向无障碍电梯旁，近1号口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "16",
      "zone": "station_outside",
      "location": "车站外 地面近2号口",
-     "accessible": true,
      "icon": "t_os.png"
     }
    ],
@@ -24425,7 +23889,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24476,7 +23939,7 @@
      "line": "16",
      "zone": "station_outside",
      "location": "车站外 近1号口地面",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_os.png"
     }
    ],
@@ -24549,7 +24012,7 @@
      "line": "16",
      "zone": "station_outside",
      "location": "车站外 近1号口地面",
-     "accessible": true,
+     "accessible_zone": "outside",
      "icon": "t_os.png"
     }
    ],
@@ -24622,7 +24085,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24681,7 +24143,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24732,7 +24193,6 @@
      "line": "16",
      "zone": "inside",
      "location": "费区内 站厅东端（近1、2号口中间）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24799,7 +24259,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近4号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24866,7 +24325,6 @@
      "line": "16",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -24917,7 +24375,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -24969,7 +24426,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往虹桥火车站方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25029,7 +24485,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往虹桥火车站方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25073,14 +24528,13 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 站厅东端通道口",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "17",
      "zone": "inside",
      "location": "费区内 站厅西端通道口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_i.png"
     }
    ],
@@ -25147,14 +24601,12 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 西端往西岑方向车头电梯处",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "17",
      "zone": "inside",
      "location": "费区内 东端往虹桥火车站方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25224,7 +24676,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往虹桥火车站方向车头、往西岑方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25277,7 +24728,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往虹桥火车站方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25329,7 +24779,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25381,7 +24830,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25433,7 +24881,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25493,7 +24940,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往虹桥火车站方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25540,7 +24986,6 @@
      "line": "17",
      "zone": "inside",
      "location": "费区内 往西岑方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25592,7 +25037,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25644,7 +25088,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25696,7 +25139,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车尾（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25748,7 +25190,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25808,7 +25249,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25860,7 +25300,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25912,7 +25351,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 站台往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -25964,7 +25402,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26016,7 +25453,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26068,7 +25504,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26128,7 +25563,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26180,14 +25614,12 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向上行车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向下行车尾",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26246,7 +25678,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26298,14 +25729,13 @@
      "line": "18",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
+     "accessible_zone": "station_outside",
      "icon": "t_o.png"
     },
     {
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26357,7 +25787,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26409,7 +25838,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头（有母婴室）",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26461,7 +25889,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26511,7 +25938,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往康文路方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26561,7 +25987,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26611,7 +26036,6 @@
      "line": "18",
      "zone": "inside",
      "location": "费区内 往航头方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -26661,7 +26085,6 @@
      "line": "41",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -26712,7 +26135,6 @@
      "line": "41",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -26763,7 +26185,6 @@
      "line": "41",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -26814,7 +26235,6 @@
      "line": "41",
      "zone": "outside",
      "location": "费区外 近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -26865,7 +26285,6 @@
      "line": "41",
      "zone": "outside",
      "location": "费区外 近1号口",
-     "accessible": true,
      "icon": "t_o.png"
     }
    ],
@@ -26925,21 +26344,18 @@
      "line": "51",
      "zone": "outside",
      "location": "费区外 站厅近2号口",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向车尾",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往虹桥2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -27006,14 +26422,12 @@
      "line": "51",
      "zone": "inside",
      "location": "往虹桥2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "往浦东1号2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],
@@ -27080,28 +26494,24 @@
      "line": "51",
      "zone": "outside",
      "location": "费区外 站厅近1号口（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "outside",
      "location": "费区外 站厅近3号口（有母婴室）",
-     "accessible": true,
      "icon": "t_o.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往虹桥2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     },
     {
      "line": "51",
      "zone": "inside",
      "location": "费区内 往浦东1号2号航站楼方向车头",
-     "accessible": true,
      "icon": "t_i.png"
     }
    ],

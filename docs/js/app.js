@@ -108,7 +108,7 @@ function toiletItemHtml(t) {
   return `<li class="toilet-item">
     <span class="zone-badge zone-${zone}">${ZONE_LABELS[zone]}</span>
     <span class="toilet-line" style="background:${lineBg};color:${lineFg}">${escapeHtml(lineName(t.line))}</span>
-    ${t.accessible ? '<span class="accessible" title="无障碍厕所">♿</span>' : ''}
+    ${t.accessible_zone ? `<span class="zone-badge zone-${t.accessible_zone}" title="无障碍厕所位置与普通厕所费区不同">♿ ${ZONE_LABELS[t.accessible_zone]}</span>` : ''}
     <span class="toilet-loc">${escapeHtml(t.location || '')}</span>
     ${isRenovating(t) ? '<span class="renovating">改造中</span>' : ''}
     ${t.zone_conflict ? '<span class="warn" title="官方图标与描述不一致，以描述为准">⚠️</span>' : ''}

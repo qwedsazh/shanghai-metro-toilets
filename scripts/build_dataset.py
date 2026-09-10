@@ -72,6 +72,10 @@ def gcj02_to_wgs84(lng: float, lat: float):
 ICON_ZONE = {"t_i.png": "inside", "t_o.png": "outside",
              "t_os.png": "station_outside", "t_io.png": "both"}
 
+# icon2 = 无障碍厕所图标，后缀同样是费区（w_i/w_o/w_os）。
+# 官方每条厕所都有它（不是有无标记），仅当它与本条厕所费区不同时才是有效信息。
+ICON2_ZONE = {"w_i.png": "inside", "w_o.png": "outside", "w_os.png": "station_outside"}
+
 
 def parse_zone(desc: str, icon: str):
     """返回 (zone, zone_conflict)。描述优先，图标兜底。"""
@@ -156,11 +160,12 @@ def main() -> None:
                 key = (lineno, desc)
                 if key in toilets and not toilets[key].get("zone_conflict"):
                     continue
+                azone = ICON2_ZONE.get(t.get("icon2") or "")
                 toilets[key] = {
                     "line": lineno,
                     "zone": zone,
                     "location": desc,
-                    "accessible": bool(t.get("icon2")),
+                    "accessible_zone": azone if (azone and azone != zone) else None,
                     "icon": icon or None,
                     "zone_conflict": conflict or None,
                     "status": t.get("status"),
@@ -216,7 +221,7 @@ def main() -> None:
                 if e[k] is None:
                     del e[k]
         for t in toilets.values():
-            for k in ("zone_conflict", "status", "plan_close_date", "plan_open_date"):
+            for k in ("accessible_zone", "icon", "zone_conflict", "status", "plan_close_date", "plan_open_date"):
                 if t[k] is None:
                     del t[k]
         if not bd_pts:
