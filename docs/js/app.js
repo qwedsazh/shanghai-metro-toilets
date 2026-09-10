@@ -339,20 +339,22 @@ function openStationModal(s) {
       ${stationZoneBadgeHtml(s)}
       ${dist != null ? `<span class="distance">${formatDistance(dist)}</span>` : ''}
     </div>
+    <h3 class="sec-title">卫生间</h3>
     <ul class="toilet-list">${s.toilets.map(toiletItemHtml).join('')}</ul>
     ${s.elevators && s.elevators.length ? `
-    <h3 class="elev-title">无障碍设施<span class="elev-sub">（绿标=连地面出入口）</span></h3>
+    <h3 class="sec-title">无障碍设施<span class="sec-sub">（绿标=连地面出入口）</span></h3>
     <ul class="toilet-list">${s.elevators.map(elevatorItemHtml).join('')}</ul>` : ''}
-    <div class="station-pics" id="station-pics"><p class="pics-hint">点击图片可放大，支持双指缩放</p>${s.stat_ids.map((id) => {
+    <h3 class="sec-title" id="pics-title">站层图<span class="sec-sub">（点击放大，支持双指缩放）</span></h3>
+    <div class="station-pics" id="station-pics">${s.stat_ids.map((id) => {
       const ln = String(parseInt(id.slice(0, 2), 10));
-      const caption = multi ? `${lineName(ln)}站层图` : '站层图';
-      return `<figure class="zct"><figcaption>${escapeHtml(caption)}</figcaption>
-        <img src="pics/zct/${id}.webp" data-fallback="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}${escapeHtml(caption)}"></figure>`;
+      const caption = multi ? `${lineName(ln)}` : '';
+      return `<figure class="zct">${caption ? `<figcaption>${escapeHtml(caption)}</figcaption>` : ''}
+        <img src="pics/zct/${id}.webp" data-fallback="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}站层图${escapeHtml(caption)}"></figure>`;
     }).join('')}</div>
     <div class="modal-actions">
       <a class="btn btn-ghost" href="${reportUrl}" target="_blank" rel="noopener">数据有误？上报</a>
     </div>`;
-  // 站层图：本地 WebP 优先 → 官方 jpg 兜底 → 再失败移除图块；全挂则移除整个区块
+  // 站层图：本地 WebP 优先 → 官方 jpg 兜底 → 再失败移除图块；全挂则连标题一起移除
   const picsWrap = $('#station-pics');
   picsWrap.querySelectorAll('img').forEach((img) => {
     img.addEventListener('error', () => {
@@ -363,7 +365,11 @@ function openStationModal(s) {
       }
       const fig = img.closest('figure');
       if (fig) fig.remove();
-      if (!picsWrap.querySelector('figure')) picsWrap.remove();
+      if (!picsWrap.querySelector('figure')) {
+        picsWrap.remove();
+        const pt = $('#pics-title');
+        if (pt) pt.remove();
+      }
     });
   });
   $('#modal-close').addEventListener('click', closeModal);

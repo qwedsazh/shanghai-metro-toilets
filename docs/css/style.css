@@ -453,18 +453,20 @@ body.modal-open { overflow: hidden; }
 
 .modal-close {
   flex: none;
-  width: 34px;
-  height: 34px;
+  width: 36px;
+  height: 36px;
   border: none;
   border-radius: 50%;
-  background: var(--gray-bg);
-  color: var(--text-dim);
-  font-size: 15px;
+  background: #d7dce4;
+  color: #374151;
+  font-size: 16px;
+  font-weight: 700;
   cursor: pointer;
+  box-shadow: 0 1px 4px rgba(16, 24, 40, .18);
   transition: background .15s ease;
 }
 
-.modal-close:active { background: #dfe3ea; }
+.modal-close:active { background: #c3c9d4; }
 
 .modal-actions {
   display: flex;
@@ -506,8 +508,6 @@ body.modal-open { overflow: hidden; }
 }
 
 /* ---------- 站层图放大查看 ---------- */
-.pics-hint { font-size: 12px; color: var(--text-dim); margin-bottom: 4px; }
-
 .station-pics img { cursor: zoom-in; }
 
 .img-lightbox {
@@ -572,9 +572,10 @@ body.modal-open { overflow: hidden; }
   pointer-events: none;
 }
 
-/* ---------- 无障碍设施 ---------- */
-.elev-title { font-size: 14px; font-weight: 700; color: var(--text-2); margin-top: 14px; }
-.elev-sub { font-size: 11px; font-weight: 400; }
+/* ---------- 详情弹层区块标题 ---------- */
+.sec-title { font-size: 14px; font-weight: 700; color: var(--text-2); margin-top: 16px; }
+.sec-title:first-of-type { margin-top: 12px; }
+.sec-sub { font-size: 11px; font-weight: 400; }
 
 .elev-type {
   flex: none;
