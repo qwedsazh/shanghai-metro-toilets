@@ -4,11 +4,12 @@
 流程：
   1. 从 data/stations.json 取全部唯一 stat_id
   2. 下载 https://service.shmetro.com/skin/zct/{id}.jpg 原图存 data/raw/zct/（留档，可复现）
-  3. 缩放到 1200px 宽 + WebP q80 输出到 docs/pics/zct/{id}.webp（App 加载的就是它）
+  3. 缩放到 1800px 宽 + WebP q82 输出到 docs/pics/zct/{id}.webp（App 加载的就是它）
 
 用法：
-  python scripts/fetch_zct_pics.py           # 增量：已有原图的跳过下载
-  python scripts/fetch_zct_pics.py --force   # 全量重抓重压
+  python scripts/fetch_zct_pics.py               # 增量：已有原图的跳过下载
+  python scripts/fetch_zct_pics.py --force       # 全量重抓重压
+  python scripts/fetch_zct_pics.py --recompress  # 不下载，用本地原图按当前参数全量重压
 """
 import json
 import sys
@@ -22,10 +23,11 @@ BASE = Path(__file__).resolve().parent.parent
 RAW = BASE / "data" / "raw" / "zct"
 OUT = BASE / "docs" / "pics" / "zct"
 SRC_URL = "https://service.shmetro.com/skin/zct/{stat_id}.jpg"
-TARGET_W = 1200
-WEBP_Q = 80
+TARGET_W = 1800
+WEBP_Q = 82
 
 FORCE = "--force" in sys.argv
+RECOMPRESS = "--recompress" in sys.argv
 
 
 def main() -> None:
@@ -39,7 +41,10 @@ def main() -> None:
     failed = []
     for n, sid in enumerate(ids, 1):
         raw_path = RAW / f"{sid}.jpg"
-        if raw_path.exists() and not FORCE:
+        if RECOMPRESS and not raw_path.exists():
+            failed.append((sid, "recompress 模式缺原图"))
+            continue
+        if RECOMPRESS or (raw_path.exists() and not FORCE):
             skipped += 1
         else:
             try:
@@ -53,9 +58,10 @@ def main() -> None:
                 if raw_path.exists():
                     raw_path.unlink()
                 continue
-        # 压缩（webp 已是最新则跳过）
+        # 压缩（webp 已是最新则跳过；--force/--recompress 时无条件重压）
         webp_path = OUT / f"{sid}.webp"
-        if webp_path.exists() and webp_path.stat().st_mtime >= raw_path.stat().st_mtime and not FORCE:
+        if (webp_path.exists() and webp_path.stat().st_mtime >= raw_path.stat().st_mtime
+                and not FORCE and not RECOMPRESS):
             continue
         im = Image.open(raw_path)
         if im.mode != "RGB":
