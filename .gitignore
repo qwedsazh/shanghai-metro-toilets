@@ -5,3 +5,7 @@ Thumbs.db
 node_modules/
 .tmp/
 *.log
+
+# 本地维护笔记，不上传
+AGENTS.md
+HANDOFF.md

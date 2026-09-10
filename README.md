@@ -2,8 +2,6 @@
 
 上海地铁**全网 415 座车站、628 个卫生间**的位置数据集 + 查询 PWA。
 
-数据抓取自上海地铁官网移动端页面的公开信息（非官方开放接口），脚本清洗整理；GitHub Actions **每周自动更新**，跟得上新线开通和厕所改造。
-
 ## 功能
 
 - **定位找最近**：基于 GPS 定位，按距离列出最近车站的厕所
@@ -14,7 +12,7 @@
 
 ## 在线使用
 
-部署于 GitHub Pages：`https://<你的用户名>.github.io/shanghai-metro-toilets/`
+部署于 GitHub Pages：<https://qwedsazh.github.io/shanghai-metro-toilets/>
 
 安装到手机（无需应用商店）：
 
@@ -34,7 +32,7 @@
   "stations": [{
     "name": "武宁路", "name_en": "Wuning Road", "pinyin": "wnl",
     "lines": ["13", "14"],          // 41=浦江线, 51=市域机场线
-    "stat_ids": ["1329", "1432"],   // 官方车站 ID（换乘站多个）
+    "stat_ids": ["1329", "1432"],   // 官方车站 ID（换乘站多个；同线路内数值顺序即站序）
     "coords": {
       "bd09":  [121.43, 31.23],     // 官方原始（百度坐标系）
       "gcj02": [121.43, 31.23],     // 高德/腾讯/微信地图显示用
@@ -54,16 +52,6 @@
 ```
 
 坐标系注意：手机 GPS / 浏览器定位是 WGS84，高德/腾讯 SDK 是 GCJ-02，两者在上海差约 500 米，**计算和显示必须用同一坐标系**，三套坐标都已备好。
-
-## 数据更新机制
-
-```
-scripts/fetch_data.py --force   # 全量抓取官网页面数据（534 站，约 3 分钟）
-scripts/build_dataset.py        # 清洗聚合 + 坐标转换 → data/stations.json + docs/data/stations.json
-scripts/analyze_data.py         # 数据质量检查（覆盖率/冲突/异常）
-```
-
-`.github/workflows/update-data.yml` 每周一自动执行上述流程，有变化才提交。
 
 ## 本地开发
 

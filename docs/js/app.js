@@ -247,12 +247,21 @@ function updateChipFades() {
   el.classList.toggle('can-scroll-right', el.scrollLeft < el.scrollWidth - el.clientWidth - 1);
 }
 
+function lineStationOrder(s, line) {
+  const prefix = line.padStart(2, '0');
+  const sid = (s.stat_ids || []).find((id) => id.slice(0, 2) === prefix);
+  const n = sid ? parseInt(sid, 10) : NaN;
+  return Number.isNaN(n) ? 9999 : n;
+}
+
 function renderLineStations() {
-  const list = state.stations.filter(
-    (s) => s.lines.includes(state.line) &&
-      stationMatchesQuery(s) &&
-      s.toilets.some(toiletMatchesFilter)
-  );
+  const list = state.stations
+    .filter(
+      (s) => s.lines.includes(state.line) &&
+        stationMatchesQuery(s) &&
+        s.toilets.some(toiletMatchesFilter)
+    )
+    .sort((a, b) => lineStationOrder(a, state.line) - lineStationOrder(b, state.line));
   $('#line-station-list').innerHTML = list.length
     ? list.map((s) => stationCardHtml(s, stationDistance(s))).join('')
     : '<p class="empty-msg">该线路在当前筛选/搜索条件下没有匹配车站</p>';
