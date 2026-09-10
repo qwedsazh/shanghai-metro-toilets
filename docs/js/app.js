@@ -32,6 +32,7 @@ const state = {
   pos: null,          // { lat, lng } WGS84
   filter: 'all',      // all | outside | inside
   query: '',
+  searchScope: 'auto', // auto | line | all（线路 tab 搜索范围，auto=线路内优先、无则全局）
   tab: 'nearby',      // nearby | lines | map
   line: null,         // 线路浏览当前选中的线路
   map: null,
@@ -255,16 +256,48 @@ function lineStationOrder(s, line) {
 }
 
 function renderLineStations() {
-  const list = state.stations
-    .filter(
-      (s) => s.lines.includes(state.line) &&
-        stationMatchesQuery(s) &&
-        s.toilets.some(toiletMatchesFilter)
-    )
+  const matches = (s) => stationMatchesQuery(s) && s.toilets.some(toiletMatchesFilter);
+  const inLine = state.stations
+    .filter((s) => s.lines.includes(state.line) && matches(s))
     .sort((a, b) => lineStationOrder(a, state.line) - lineStationOrder(b, state.line));
-  $('#line-station-list').innerHTML = list.length
+  const hintEl = $('#line-search-hint');
+  const listEl = $('#line-station-list');
+
+  // 无搜索词：常规线路浏览
+  if (!state.query) {
+    hintEl.innerHTML = '';
+    listEl.innerHTML = inLine.length
+      ? inLine.map((s) => stationCardHtml(s, stationDistance(s))).join('')
+      : '<p class="empty-msg">该线路在当前筛选条件下没有匹配车站</p>';
+    return;
+  }
+
+  // 有搜索词：线路内优先；线路内无匹配则自动扩到全部线路，提示栏明示当前范围
+  const all = state.stations.filter(matches);
+  let scope = state.searchScope;
+  if (scope === 'auto') scope = inLine.length ? 'line' : 'all';
+
+  const lname = lineName(state.line);
+  let hint = '';
+  if (scope === 'line') {
+    if (all.length > inLine.length) {
+      hint = `<span>仅显示${lname}内匹配（${inLine.length} 个）</span>
+        <button type="button" data-scope="all">搜索全部线路（${all.length} 个）→</button>`;
+    }
+  } else if (inLine.length) {
+    hint = `<span>全部线路匹配（${all.length} 个）</span>
+      <button type="button" data-scope="line">仅看${lname}（${inLine.length} 个）</button>`;
+  } else {
+    hint = `<span>${lname}内无匹配，已搜索全部线路</span>
+      <button type="button" data-scope="line">仅看${lname}</button>`;
+  }
+  hintEl.innerHTML = hint;
+
+  const list = scope === 'line' ? inLine : all;
+  const q = escapeHtml(state.query);
+  listEl.innerHTML = list.length
     ? list.map((s) => stationCardHtml(s, stationDistance(s))).join('')
-    : '<p class="empty-msg">该线路在当前筛选/搜索条件下没有匹配车站</p>';
+    : `<p class="empty-msg">${scope === 'line' ? `${lname}内` : '全部线路中'}没有匹配「${q}」的车站</p>`;
 }
 
 /* ---------------- 车站详情 ---------------- */
@@ -413,15 +446,24 @@ function bindEvents() {
     clearTimeout(searchTimer);
     searchTimer = setTimeout(() => {
       state.query = e.target.value.trim();
+      state.searchScope = 'auto';
       renderNearby();
       renderLineStations();
     }, 150);
+  });
+
+  $('#line-search-hint').addEventListener('click', (e) => {
+    const btn = e.target.closest('button[data-scope]');
+    if (!btn) return;
+    state.searchScope = btn.dataset.scope;
+    renderLineStations();
   });
 
   $('#line-chips').addEventListener('click', (e) => {
     const chip = e.target.closest('.line-chip');
     if (!chip) return;
     state.line = chip.dataset.line;
+    state.searchScope = 'auto';
     renderLineChips();
     renderLineStations();
   });
