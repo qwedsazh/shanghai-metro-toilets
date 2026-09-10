@@ -320,16 +320,21 @@ function openStationModal(s) {
       const ln = String(parseInt(id.slice(0, 2), 10));
       const caption = multi ? `${lineName(ln)}站层图` : '站层图';
       return `<figure class="zct"><figcaption>${escapeHtml(caption)}</figcaption>
-        <img src="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}${escapeHtml(caption)}"></figure>`;
+        <img src="pics/zct/${id}.webp" data-fallback="https://service.shmetro.com/skin/zct/${id}.jpg" alt="${escapeHtml(s.name)}${escapeHtml(caption)}"></figure>`;
     }).join('')}</div>
     <div class="modal-actions">
       <a class="btn" href="${navUrl}" target="_blank" rel="noopener">🧭 导航前往</a>
       <a class="btn btn-ghost" href="${reportUrl}" target="_blank" rel="noopener">数据有误？上报</a>
     </div>`;
-  // 官方站层图按需加载；无图/加载失败的图块移除，全挂则移除整个区块
+  // 站层图：本地 WebP 优先 → 官方 jpg 兜底 → 再失败移除图块；全挂则移除整个区块
   const picsWrap = $('#station-pics');
   picsWrap.querySelectorAll('img').forEach((img) => {
     img.addEventListener('error', () => {
+      if (!img.dataset.retried) {
+        img.dataset.retried = '1';
+        img.src = img.dataset.fallback;
+        return;
+      }
       const fig = img.closest('figure');
       if (fig) fig.remove();
       if (!picsWrap.querySelector('figure')) picsWrap.remove();

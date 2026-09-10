@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_VERSION = 'v7';
+const CACHE_VERSION = 'v8';
 const STATIC_CACHE = `smt-static-${CACHE_VERSION}`;
 const DATA_CACHE = `smt-data-${CACHE_VERSION}`;
 const KNOWN_CACHES = [STATIC_CACHE, DATA_CACHE];

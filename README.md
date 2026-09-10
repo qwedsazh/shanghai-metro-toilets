@@ -23,6 +23,7 @@
 
 发布版：`data/stations.json`（网页版用的是同内容紧凑格式 `docs/data/stations.json`）
 原始抓取：`data/raw/`（车站列表 + 每站官方原始响应，可复现）
+站层图：`docs/pics/zct/`（WebP 1200px 打包版；原图可用 `scripts/fetch_zct_pics.py` 重新抓取）
 
 ### Schema
 

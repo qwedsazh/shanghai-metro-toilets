@@ -9,3 +9,6 @@ node_modules/
 # 本地维护笔记，不上传
 AGENTS.md
 HANDOFF.md
+
+# 站层图原图留档（416MB，可用 scripts/fetch_zct_pics.py --force 重新抓取，不入库）
+data/raw/zct/
